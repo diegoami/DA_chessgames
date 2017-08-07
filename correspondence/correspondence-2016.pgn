@@ -351,9 +351,17 @@ Blunder. The best move was 35... Ra2+. } ( 35...Ra2+ 36.Kd3 36...Bc3 37.Kc4 37..
 [Termination "diegoami won by resignation"]
 [CurrentPosition "2r3k1/1p2pp2/p1qpb1p1/7P/2r1PB2/2P2P2/PP1Q4/1K4RR b - - 0 24"]
 
-1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 Nc6 8.Qd2 O-O 9.O-O-O Bd7
-10.Bc4 Rc8 11.Bb3 a6 12.Kb1 Ne5 13.g4 Nc4 14.Bxc4 Rxc4 15.h4 h5 16.gxh5 Nxh5 17.Rdg1
-Qb6 18.Nde2 Bxc3 19.Nxc3 Qc6 20.Nd5 Re8 21.Nf4 Nxf4 22.Bxf4 Rc8 23.c3 Be6 24.h5  1-0
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 g6 6.Be3 Bg7 7.f3 Nc6 8.Qd2 O-O 9.O-O-O
+Bd7 10.Bc4 Rc8 11.Bb3 { B78: Sicilian Defense: Open, Dragon, Old Line, 11.Bb3 }
+11...a6 12.Kb1 Ne5 13.g4 Nc4 14.Bxc4 Rxc4 15.h4 h5 16.gxh5 Nxh5 17.Rdg1 Qb6 { (+0.34
+→ +1.59) Inaccuracy. A better move was 17... Re8. } ( 17...Re8 18.Nde2 18...Qa5
+19.Bh6 19...Bh8 20.Nd5 20...Qxd2 21.Bxd2 21...Rc6 22.Bg5 ) 18.Nde2 Bxc3 { (+1.41
+→ +3.76) Mistake. The best move was 18... Qb4. } ( 18...Qb4 19.a3 19...Qa5 20.Nd5
+20...Qxd2 21.Nxe7+ 21...Kh7 22.Bxd2 22...Be6 23.Nf4 ) 19.Nxc3 Qc6 20.Nd5 Re8 21.Nf4 {
+(+4.51 → +2.97) Inaccuracy. A better move was 21. b3. } ( 21.b3 21...Rxc2 22.Qxc2
+22...Qxc2+ 23.Kxc2 23...Bc6 24.Kb2 24...Kg7 25.Nb4 25...Bd7 ) 21...Nxf4 22.Bxf4 Rc8
+23.c3 Be6 24.h5  1-0
+
 
 [Event "Let's Play!"]
 [Site "Chess.com"]
@@ -477,11 +485,17 @@ Ne5 40.Rdd1 Nxg4+ 41.Ke2 f3+ 42.Kd2 Rg2+ 43.Kd3 f2 44.Nd4+ Ke5 45.Bxf2 Nxf2+  0-
 [Termination "ichtyl won by resignation"]
 [CurrentPosition "r4q2/1NrRk3/pn2p1Q1/8/8/1B6/PP4PP/R6K b - - 0 33"]
 
-1.e4 c5 2.d4 cxd4 3.c3 Nf6 4.e5 Nd5 5.Nf3 e6 6.cxd4 Nc6 7.Bc4 Nb6 8.Bb3 d6 9.Qe2 dxe5
-10.dxe5 Be7 11.O-O Bd7 12.Rd1 Qc7 13.Nc3 a6 14.Ne4 O-O 15.Bg5 Bxg5 16.Nexg5 h6 17.Qe4
-hxg5 18.Nxg5 Rfc8 19.Qh7+ Kf8 20.f4 Nxe5 21.fxe5 Qxe5 22.Qh5 Qc5+ 23.Kh1 g6 24.Qh4
-Ke8 25.Ne4 Qe7 26.Nd6+ Kd8 27.Nxf7+ Ke8 28.Nd6+ Kd8 29.Nxb7+ Ke8 30.Qh8+ Qf8 31.Qh7
-Rc7 32.Qxg6+ Ke7 33.Rxd7+  1-0
+1.e4 c5 2.d4 cxd4 3.c3 Nf6 4.e5 Nd5 5.Nf3 e6 6.cxd4 Nc6 { B22: Sicilian Defense: Alapin
+Variation, 2...Nf6 3.e5 Nd5 4.d4 cxd4 5.cxd4 e6 6.Nf3 Nc6 } 7.Bc4 Nb6 8.Bb3 d6 9.Qe2 dxe5
+10.dxe5 Be7 11.O-O Bd7 12.Rd1 Qc7 13.Nc3 a6 14.Ne4 O-O 15.Bg5 Bxg5 { (+1.02 → +2.61)
+Inaccuracy. A better move was 15... h6. } ( 15...h6 16.Bxe7 16...Nxe7 17.Rac1 17...Bc6
+18.Nd6 18...Rfd8 19.Nd4 19...Nbd5 20.Qe4 ) 16.Nexg5 h6 17.Qe4 hxg5 18.Nxg5 Rfc8 19.Qh7+
+Kf8 20.f4 Nxe5 21.fxe5 Qxe5 22.Qh5 Qc5+ { (+3.44 → +5.95) Inaccuracy. A better move
+was 22... Qe3+. } ( 22...Qe3+ 23.Kh1 23...g6 24.Qh6+ 24...Ke7 25.Rf1 25...Rc5 26.Rxf7+
+26...Kd6 27.h4 ) 23.Kh1 g6 24.Qh4 Ke8 25.Ne4 Qe7 26.Nd6+ Kd8 27.Nxf7+ Ke8 28.Nd6+
+Kd8 29.Nxb7+ Ke8 30.Qh8+ Qf8 31.Qh7 Rc7 32.Qxg6+ Ke7 { (+66.12 → ♔ Mate in 2)
+Mistake. The best move was 32... Qf7. } ( 32...Qf7 33.Nd6+ 33...Kd8 34.Qxf7 34...Rc6
+35.Bxe6 35...Ra7 36.Rac1 36...Nd5 37.Qf8+ ) 33.Rxd7+  1-0
 
 [Event "Let's Play!"]
 [Site "Chess.com"]
@@ -587,6 +601,7 @@ move was 19... Rg6. } ( 19...Rg6 20.Qh3 20...g4 21.fxg4 21...Rxg4 22.Rf1 22...Bx
 [Event "Let's Play!"]
 [Site "Chess.com"]
 [Date "2016.03.10"]
+[Round "?"]
 [White "Fallonme"]
 [Black "diegoami"]
 [Result "0-1"]
@@ -598,12 +613,33 @@ move was 19... Rg6. } ( 19...Rg6 20.Qh3 20...g4 21.fxg4 21...Rxg4 22.Rf1 22...Bx
 [Termination "diegoami won by resignation"]
 [CurrentPosition "8/8/p7/1k2K3/4N1P1/2pr4/8/8 w - - 0 45"]
 
-1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Bd3 Nf6 8.O-O Bb4 9.Qe2 Ne5
-10.f4 Nxd3 11.Qxd3 d6 12.Rad1 O-O 13.Nce2 b5 14.Ng3 Bb7 15.c3 Bc5 16.f5 Ng4 17.fxe6 fxe6
-18.Nxe6 Bxe3+ 19.Qxe3 Nxe3 20.Nxc7 Nxf1 21.Rxf1 Rxf1+ 22.Kxf1 Rc8 23.Ne6 h6 24.Ke2 Re8
-25.Nd4 Bxe4 26.Nxe4 Rxe4+ 27.Kd3 d5 28.Nf3 Kf7 29.b3 g5 30.c4 bxc4+ 31.bxc4 Ke6 32.Nd4+
-Kd6 33.Nf5+ Ke5 34.Nxh6 dxc4+ 35.Kc3 Kd5 36.g3 Re2 37.Ng4 Rxa2 38.Nf6+ Kc5 39.Ne4+
-Kb5 40.Nxg5 Rxh2 41.Ne4 Rh6 42.g4 Rh3+ 43.Kd4 Rd3+ 44.Ke5 c3  0-1
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 a6 7.Bd3 Nf6 8.O-O { B48: Sicilian
+Defense: Taimanov, Bastrikov Variation, 6.Be3 a6 7.Bd3 Nf6 8.O-O } 8...Bb4 9.Qe2
+Ne5 10.f4 Nxd3 11.Qxd3 { (+0.79 → -0.25) Inaccuracy. A better move was 11. cxd3. }
+( 11.cxd3 11...d6 12.a3 12...Bxc3 13.Rfc1 13...O-O 14.Rxc3 14...Qd8 15.h3 15...Bd7 )
+11...d6 12.Rad1 O-O 13.Nce2 { (-0.02 → -0.76) Inaccuracy. A better move was 13. Nde2. }
+( 13.Nde2 13...b5 14.a3 14...Bc5 15.Bxc5 15...Qxc5+ 16.Qd4 16...Bb7 17.e5 17...Qc6
+) 13...b5 { (-0.89 → -0.16) Inaccuracy. A better move was 13... e5. } ( 13...e5
+14.Nf5 14...Bxf5 15.exf5 15...Bc5 16.h3 16...Bxe3+ 17.Qxe3 17...Qxc2 18.Rxd6 ) 14.Ng3
+Bb7 15.c3 Bc5 16.f5 { (-0.12 → -0.75) Inaccuracy. A better move was 16. Nb3. }
+( 16.Nb3 16...Bb6 17.Bxb6 17...Qxb6+ 18.Qd4 18...Qxd4+ 19.Rxd4 19...a5 20.Rxd6
+20...Bxe4 ) 16...Ng4 { (-0.86 → -0.23) Inaccuracy. A better move was 16... e5. }
+( 16...e5 17.Nb3 17...Bxe3+ 18.Qxe3 18...Rac8 19.h3 19...a5 20.Rfe1 20...a4 21.Nd2
+) 17.fxe6 fxe6 18.Nxe6 { (-0.37 → -2.89) Mistake. The best move was 18. Kh1. } (
+18.Kh1 18...Qe7 19.Bg1 19...Ne5 20.Qe2 20...b4 21.Nf3 21...Bxg1 22.Kxg1 22...bxc3 )
+18...Bxe3+ { (-3.32 → -2.06) Inaccuracy. A better move was 18... Nxe3. } ( 18...Nxe3
+19.Rxf8+ 19...Rxf8 20.Nxc5 20...Qxc5 21.Qxd6 21...Qxd6 22.Rxd6 22...Nc4 23.Rd7 )
+19.Qxe3 Nxe3 20.Nxc7 Nxf1 21.Rxf1 Rxf1+ 22.Kxf1 Rc8 23.Ne6 h6 { (-2.25 → -1.14)
+Inaccuracy. A better move was 23... Re8. } ( 23...Re8 24.Ng5 24...h6 25.Nf3 25...Bxe4
+26.Nxe4 26...Rxe4 27.a3 27...Kf7 28.Nd4 ) 24.Ke2 { (-1.33 → -2.20) Inaccuracy. A
+better move was 24. Nf5. } ( 24.Nf5 24...Re8 25.Nxd6 25...Rxe6 26.Nxb7 26...Rxe4
+27.Nc5 27...Rf4+ 28.Ke2 28...Rf6 ) 24...Re8 25.Nd4 Bxe4 26.Nxe4 Rxe4+ 27.Kd3 d5 {
+(-3.18 → -2.25) Inaccuracy. A better move was 27... Re1. } ( 27...Re1 28.g3 28...Rd1+
+29.Kc2 29...Rf1 30.Kb3 30...Rf2 31.h4 31...Kf7 32.Nc6 ) 28.Nf3 Kf7 29.b3 g5 30.c4 bxc4+
+31.bxc4 Ke6 32.Nd4+ Kd6 { (-4.31 → -2.97) Inaccuracy. A better move was 32... Ke5. }
+( 32...Ke5 33.Nf3+ 33...Kd6 34.Nd2 34...Rf4 35.cxd5 35...Kxd5 36.g3 36...Rf2 37.h3 )
+33.Nf5+ Ke5 34.Nxh6 dxc4+ 35.Kc3 Kd5 36.g3 Re2 37.Ng4 Rxa2 38.Nf6+ Kc5 39.Ne4+ Kb5
+40.Nxg5 Rxh2 41.Ne4 Rh6 42.g4 Rh3+ 43.Kd4 Rd3+ 44.Ke5 c3  0-1
 
 [Event "Let's Play!"]
 [Site "Chess.com"]
@@ -920,8 +956,7 @@ best move was 21. Rc1. } ( 21.Rc1 21...Rc5 22.Kb1 22...Rbc8 23.Nce2 23...Qxd2 24
 [Event "Let's Play!"]
 [Site "Chess.com"]
 [Date "2015.12.12"]
-[Round "Öwq
-?"]
+[Round "?"]
 [White "asayrol"]
 [Black "diegoami"]
 [Result "1-0"]
@@ -955,7 +990,7 @@ was 13... d6. } ( 13...d6 14.Rad1 14...Bd7 15.Bxe5 15...dxe5 16.Rd3 16...Bc6 17.
 [EndDate "2016.01.07"]
 [Termination "Alikah won by resignation"]
 [CurrentPosition "r3k2r/pp1n1ppp/2pbpn2/q5B1/3P4/2N2B1P/PPP1QPP1/R4RK1 b kq - 4 12"]
-ssssddd
+
 1.e4 d5 2.exd5 Qxd5 3.Nc3 Qd8 { B01: Scandinavian Defense: Mieses-Kotroc Variation,
 3.Nc3 Qd8 } 4.d4 Nf6 5.Nf3 c6 6.Bd3 Bg4 7.Be2 e6 8.O-O Qa5 9.h3 Bxf3 10.Bxf3 Bd6 11.Qe2
 Nbd7 12.Bg5 { (+0.27 → -3.45) Blunder. The best move was 12. Ne4. } ( 12.Ne4 12...Nxe4
