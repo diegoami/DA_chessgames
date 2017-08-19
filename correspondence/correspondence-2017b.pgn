@@ -246,3 +246,80 @@ Blunder. The best move was 56. Bc4. } ( 56.Bc4 56...e2 57.Bxe2 57...Kg8 58.Kxf6 
 59.Kg5 59...Kh8 60.Bf3 60...c5 ) 56...Kg8 57.Ke5 Kh7  1/2-1/2
 
 
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.07.28"]
+[Round "?"]
+[White "superwaldan"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "1635"]
+[BlackElo "1774"]
+[TimeControl "1 in 10 days"]
+[EndDate "2017.08.18"]
+[Termination "superwaldan won by resignation"]
+[CurrentPosition "r6r/3k1Qpp/p3pb2/3p4/3N4/3BB3/q4PPP/5RK1 b - - 0 19"]
+
+1.d4 e6 2.e4 d5 3.e5 { C02: French Defense: Advance Variation } 3...a6 4.c3 Ne7 5.Bg5
+c5 6.Bd3 cxd4 7.cxd4 Nbc6 8.Ne2 Qb6 9.O-O { (+0.66 → -0.41) Inaccuracy. A better
+move was 9. Nbc3. } ( 9.Nbc3 9...h6 10.Bc1 10...Bd7 11.Be3 11...Nb4 12.Bb1 12...Nbc6
+13.Qd2 13...Na5 ) 9...Nxd4 { (-0.14 → +2.22) Mistake. The best move was 9... Qxb2. }
+( 9...Qxb2 10.Nbc3 10...Nxd4 11.Nxd4 11...Qxc3 12.Rc1 12...Qb4 13.Be3 13...Ng6 14.f4
+) 10.Nxd4 Bd7 11.Be3 Qxb2 12.Nd2 Ng6 13.Rb1 Qxa2 14.Rxb7 Nxe5 15.N2f3 Bd6 { (+3.72
+→ +7.26) Inaccuracy. A better move was 15... Nxd3. } ( 15...Nxd3 16.Qxd3 16...Bd6
+17.Ng5 17...Qa4 18.Nf5 18...exf5 19.Nxf7 19...Bxh2+ 20.Kxh2 ) 16.Nxe5 Bxe5 17.Qh5 Bf6
+18.Rxd7 Kxd7 { (+12.52 → ♔ Mate in 13) Mistake. The best move was 18... g6. } (
+18...g6 19.Qf3 19...Kxd7 20.Qxf6 20...Qa3 21.Rb1 21...Rab8 22.Qxf7+ 22...Qe7 23.Qxe7+
+) 19.Qxf7+  1-0
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.08.08"]
+[Round "?"]
+[White "diegoami"]
+[Black "OlegRoschin"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "1786"]
+[BlackElo "1653"]
+[TimeControl "1 in 3 days"]
+[EndDate "2017.08.18"]
+[Termination "diegoami won by resignation"]
+[CurrentPosition "r2qkbQ1/pp1b1p1p/2p4p/3pBP2/3N4/2N5/PPP3PP/4R2K b - - 6 29"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.e5 d5 6.Bb5 { C55: Italian Game: Two Knights,
+Open, 4...exd4 5.e5 d5 6.Bb5 } 6...Ng4 { (-0.19 → +0.94) Inaccuracy. A better move
+was 6... Ne4. } ( 6...Ne4 7.Nxd4 7...Bc5 8.O-O 8...Bd7 9.Bxc6 9...bxc6 10.f3 10...Ng5
+11.Be3 ) 7.O-O Bd7 8.Bxc6 Bxc6 9.Nxd4 Qh4 10.Bf4 Bd7 { (+0.58 → +1.65) Inaccuracy. A
+better move was 10... Bc5. } ( 10...Bc5 11.c3 11...O-O 12.Bg3 12...Qg5 13.Nd2 13...Bxd4
+14.cxd4 14...Qg6 15.Nf3 ) 11.Nc3 c6 12.Bg3 Qg5 13.Qe2 { (+1.95 → -0.07) Blunder. The
+best move was 13. f4. } ( 13.f4 13...Qh6 14.Re1 14...Bc5 15.Na4 15...Bxd4+ 16.Qxd4
+16...b6 17.h3 17...O-O ) 13...Bc5 { (+0.10 → +1.37) Inaccuracy. A better move was
+13... Qg6. } ( 13...Qg6 14.Rad1 14...Bc5 15.Nb3 15...Bb6 16.Na4 16...O-O 17.Nbc5
+17...Bc8 18.f3 ) 14.Rad1 { (+1.22 → 0.00) Mistake. The best move was 14. e6. } (
+14.e6 14...Bxd4 15.exd7+ 15...Kxd7 16.Nxd5 16...Rae8 17.Qd1 17...Qxd5 18.Qxg4+ 18...f5
+) 14...O-O 15.Kh1 Rfe8 16.f4 Qg6 17.f5 Qg5 18.Rf4 { (0.00 → -1.64) Mistake. The
+best move was 18. Bf4. } ( 18.Bf4 18...Qh4 19.Bg3 19...Qg5 20.Bf4 20...Qh4 21.Bg3
+21...Qg5 ) 18...Nh6 19.Qf3 Qe7 { (-1.47 → -0.67) Inaccuracy. A better move was
+19... Bxd4. } ( 19...Bxd4 20.Bh4 20...Qxf5 21.Rxf5 21...Nxf5 22.Rf1 22...Bxe5 23.Bf2
+23...f6 24.b3 ) 20.Rh4 { (-0.46 → -1.15) Inaccuracy. A better move was 20. Nb3. }
+( 20.Nb3 20...Bb6 21.Re1 21...Bc7 22.f6 22...Qf8 23.Rh4 23...Nf5 24.Rg4 24...g6 )
+20...Qg5 { (-1.18 → 0.00) Mistake. The best move was 20... Bxd4. } ( 20...Bxd4 21.f6
+21...gxf6 22.Rxh6 22...Bxe5 23.Bxe5 23...Qxe5 24.Rxf6 24...d4 25.Nb1 ) 21.Rh5 Qd8 {
+(-0.28 → +1.74) Mistake. The best move was 21... Qg4. } ( 21...Qg4 22.Nce2 22...Qxf3
+23.gxf3 23...Bxd4 24.Nxd4 24...c5 25.e6 25...fxe6 26.fxe6 ) 22.Bh4 { (+2.27 → +1.07)
+Inaccuracy. A better move was 22. Rxh6. } ( 22.Rxh6 22...gxh6 23.e6 23...Bxe6 24.fxe6
+24...fxe6 25.Nb3 25...Bb6 26.Rf1 26...Qg5 ) 22...Qc7 23.Rxh6 gxh6 { (+1.02 → +16.52)
+Blunder. The best move was 23... Qxe5. } ( 23...Qxe5 24.Bg3 24...Qe3 25.Qxe3 25...Rxe3
+26.Rh5 26...Rae8 27.Nb3 27...Bb4 28.Bf2 ) 24.Qg3+ Kf8 25.Bf6 Rxe5 26.Bxe5 { (+21.27 →
++13.51) Inaccuracy. A better move was 26. Qg7+. } ( 26.Qg7+ 26...Ke8 27.Qh8+ 27...Bf8
+28.Bxe5 28...Qd8 29.Bd6 29...Qe7 30.Bxe7 30...Kxe7 ) 26...Qd8 { (+14.00 → +21.23)
+Inaccuracy. A better move was 26... Qxe5. } ( 26...Qxe5 27.Qxe5 27...Re8 28.Qh8+
+28...Ke7 29.Qxh7 29...Kd8 30.g4 30...Rf8 31.Qxh6 ) 27.Qg7+ Ke8 28.Qg8+ Bf8 29.Re1 {
+(♔ Mate in 18 → +23.54) Missed mate. Checkmate after 29. Bd6 . } ( 29.Bd6 29...Bxf5
+30.Qxf8+ 30...Kd7 31.Qxf7+ 31...Kc8 32.Nxf5 32...Qd7 33.Qg8+ 33...Qd8 34.Qf7 34...Qd7
+35.Qg8+ 35...Qd8 36.Qe6+ 36...Qd7 37.Ne7+ 37...Kd8 38.Qf6 38...b6 39.Re1 39...b5 40.Qf8+
+40...Qe8 41.Nxc6+ 41...Kd7 42.Nb8+ 42...Rxb8 43.Re7+ 43...Kxd6 44.Qf6+ 44...Kc5 45.Rc7+
+45...Qc6 46.Rxc6+ 46...Kb4 )  1-0
