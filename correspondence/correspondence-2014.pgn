@@ -682,3 +682,781 @@ move was 37. Rb8. } ( 37.Rb8 37...Kc4 38.Rb4+ 38...Kd5 39.Kd3 39...a5 40.Rb8 40.
 41.Rc8 41...Ke6 ) 37...c2 38.Rc1 Kc4 39.Kd2 Kb3 40.a4 Kb2  0-1
 
 
+[Event "Karpov-like tournament - Round 2"]
+[Site "Chess.com"]
+[Date "2013.11.12"]
+[Round "?"]
+[White "Poompat"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2261"]
+[BlackElo "1714"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.12.25"]
+[Termination "Poompat won by resignation"]
+[CurrentPosition "1nr3k1/1p1bbppQ/3qp2p/1P1n4/R2B4/2P1NN1P/2B2PP1/6K1 b - - 10 26"]
+
+1.e4 c5 2.d4 cxd4 3.c3 Nf6 4.e5 Nd5 5.Nf3 Nc6 6.Bc4 { B22: Sicilian Defense: Alapin
+Variation, 2...Nf6 3.e5 Nd5 4.d4 cxd4 5.Nf3 Nc6 6.Bc4 } 6...Nb6 7.Bb3 d3 { (+0.23
+→ +0.96) Inaccuracy. A better move was 7... d6. } ( 7...d6 8.exd6 8...Qxd6 9.Nxd4
+9...Nxd4 10.cxd4 10...Be6 11.O-O 11...Bxb3 12.Qxb3 ) 8.Qxd3 e6 9.O-O d6 10.exd6 Bxd6
+11.Bc2 Qc7 12.h3 Bd7 13.a4 Nd5 14.Na3 a6 15.Nc4 Be7 16.Re1 h6 17.b4 Nf6 18.Be3 O-O {
+(+1.27 → +2.18) Inaccuracy. A better move was 18... Rc8. } ( 18...Rc8 19.Bb3 19...b5
+20.axb5 20...axb5 21.Nb6 21...Rb8 22.Ra6 22...Bc8 23.Nxc8 ) 19.b5 { (+2.46 → +1.58)
+Inaccuracy. A better move was 19. Bb6. } ( 19.Bb6 19...Qf4 20.b5 20...axb5 21.axb5
+21...Nb4 22.cxb4 22...Rxa1 23.Rxa1 23...Bxb5 ) 19...axb5 20.axb5 Rxa1 21.Rxa1 Nb8
+22.Bb6 Qf4 23.Ne3 { (+3.06 → +1.60) Mistake. The best move was 23. Nce5. } ( 23.Nce5
+23...Qf5 24.Qe2 24...Qh5 25.Ra8 25...Bd6 26.Bd4 26...Bc7 27.Qc4 27...Bd6 ) 23...Rc8
+24.Ra4 { (+2.95 → +1.29) Mistake. The best move was 24. Bd4. } ( 24.Bd4 24...Qc7
+25.c4 25...g6 26.Be5 26...Qd8 27.Ra8 27...b6 28.Ng4 28...Nxg4 ) 24...Qd6 25.Bd4 Nd5 {
+(+1.36 → ♔ Mate in 2) Blunder. The best move was 25... Be8. } ( 25...Be8 26.Ra8
+26...Qd8 27.Ne5 27...Nbd7 28.Nxd7 28...Qxd7 29.Ng4 29...Kf8 30.Ne5 ) 26.Qh7+  1-0
+
+[Event "Six Seis Sechs Sei  "]
+[Site "Chess.com"]
+[Date "2013.12.06"]
+[Round "?"]
+[White "diegoami"]
+[Black "DirkDiggler0001"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "1715"]
+[BlackElo "1615"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.12.25"]
+[Termination "DirkDiggler0001 won by resignation"]
+[CurrentPosition "8/5pR1/4p3/4Pk2/8/6K1/8/6r1 w - - 1 47"]
+
+1.e4 c6 2.d4 d5 3.e5 c5 { B12: Caro-Kann Defense: Advance, Botvinnik-Carls Defense }
+4.c3 Nc6 5.Nf3 Bg4 6.Bb5 e6 7.h3 Bxf3 8.Qxf3 Ne7 9.Na3 { (+0.20 → -0.91) Inaccuracy. A
+better move was 9. dxc5. } ( 9.dxc5 9...Ng6 10.Qe3 10...Nh4 11.O-O 11...Nf5 12.Qf4
+12...Bxc5 13.Nd2 13...O-O ) 9...cxd4 10.cxd4 Nf5 11.Bxc6+ bxc6 12.Nc2 Qb6 13.Qc3 Be7
+14.O-O O-O 15.Rd1 Rfc8 16.b4 Rab8 { (-0.97 → -0.11) Inaccuracy. A better move was
+16... a5. } ( 16...a5 17.a3 17...axb4 18.axb4 18...Rxa1 19.Qxa1 19...Bxb4 20.Nxb4
+20...Qxb4 21.Ba3 ) 17.a3 h6 18.Be3 a5 19.Rdb1 axb4 20.Nxb4 { (-0.45 → -1.37)
+Inaccuracy. A better move was 20. axb4. } ( 20.axb4 20...Nxe3 21.fxe3 21...Ra8 22.Rf1
+22...Rcb8 23.Kh2 23...Qb5 24.Kg1 24...Bf8 ) 20...Nxe3 21.fxe3 { (-1.35 → -2.33)
+Inaccuracy. A better move was 21. Qxe3. } ( 21.Qxe3 21...c5 22.dxc5 22...Bxc5 23.Qf4
+23...Be7 24.Qd2 24...Rc4 25.Rb3 25...Bxb4 ) 21...Qa5 { (-2.31 → -0.44) Mistake. The
+best move was 21... c5. } ( 21...c5 22.dxc5 22...Bxc5 23.Re1 23...d4 24.Qd3 24...dxe3
+25.Qe4 25...Qa7 26.Kh1 ) 22.Qc2 { (-0.49 → -1.55) Inaccuracy. A better move was
+22. Rc1. } ( 22.Rc1 22...Rb6 23.Nd3 23...Qa4 24.Qe1 24...Rb3 25.Nc5 25...Bxc5 26.Rxc5
+26...Rxa3 ) 22...c5 23.dxc5 Bxc5 24.Qe2 Qa7 25.Re1 d4 { (-2.46 → -1.65) Inaccuracy. A
+better move was 25... Bb6. } ( 25...Bb6 26.Kh1 26...Rc4 27.Rab1 27...Qxa3 28.Nd3 28...Qa7
+29.Ra1 29...Qc7 30.Ra3 ) 26.Nd3 dxe3 { (-1.95 → -0.99) Inaccuracy. A better move was
+26... Bb6. } ( 26...Bb6 27.e4 27...Rc3 28.a4 28...Qa6 29.Red1 29...Ba5 30.Kh1 30...Qc4
+31.Qf1 ) 27.Nxc5 Qxc5 { (-1.25 → -0.63) Inaccuracy. A better move was 27... Rxc5. }
+( 27...Rxc5 28.Qxe3 28...Rb3 29.Qd4 29...Rd3 30.Qf2 30...Rxa3 31.Rxa3 31...Qxa3 32.Rf1
+) 28.Qxe3 Rb5 29.a4 Ra5 30.Qxc5 Rcxc5 31.Kf2 { (-0.32 → -1.16) Inaccuracy. A better
+move was 31. Re4. } ( 31.Re4 31...Rc2 32.Kh1 32...Kh7 33.Rf1 33...Ra7 34.Ra1 34...Ra5
+35.Rf1 35...Ra7 ) 31...Rc4 32.Reb1 Raxa4 33.Rxa4 Rxa4 34.Kf3 Kh7 35.g4 Kg6 36.Rb7 {
+(-1.20 → -2.37) Inaccuracy. A better move was 36. h4. } ( 36.h4 36...Ra3+ 37.Kf4
+37...h5 38.gxh5+ 38...Kxh5 39.Rb7 39...Ra1 40.Kg3 40...Rf1 ) 36...Ra3+ 37.Kf4 Rxh3
+38.Ra7 Rb3 39.Ra4 Rb1 40.Ra7 Rf1+ 41.Kg3 Kg5 42.Ra4 h5 { (-5.48 → -3.03) Mistake. The
+best move was 42... g6. } ( 42...g6 43.Re4 43...Rh1 44.Rb4 44...Re1 45.Rb7 45...Rg1+
+46.Kh3 46...Rf1 47.Kg3 ) 43.gxh5 Kxh5 44.Rh4+ Kg5 45.Rg4+ Kf5 46.Rxg7 { (-5.63 → ♚
+Mate in 15) Mistake. The best move was 46. Ra4. } ( 46.Ra4 46...Kxe5 47.Ra7 47...g5
+48.Kh2 48...Kf6 49.Kg3 49...Rf4 50.Rb7 50...e5 ) 46...Rg1+  0-1
+
+[Event "Take your time and enjoy - Round 1"]
+[Site "Chess.com"]
+[Date "2013.12.11"]
+[Round "?"]
+[White "diegoami"]
+[Black "Leuwe"]
+[Result "0-1"]
+[ECO "C53"]
+[WhiteElo "1733"]
+[BlackElo "1953"]
+[TimeControl "1 in 14 days"]
+[EndDate "2013.12.24"]
+[Termination "Leuwe won by resignation"]
+[CurrentPosition "2k5/ppp2p2/7p/8/2p2B2/Pr3qP1/4rP1P/1RQ3K1 w - - 4 29"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bc5 5.c3 Nf6 6.e5 d5 { C53: Giuoco Piano Game:
+Center Attack, 5...exd4 6.e5 d5 } 7.exf6 dxc4 8.fxg7 Rg8 9.Bg5 Be7 10.Bh6 Qd6 11.Qd2
+Qg6 12.O-O Bh3 13.g3 Bxf1 14.Kxf1 O-O-O 15.cxd4 Bf6 16.Nc3 Nxd4 17.Nxd4 Bxd4 18.Qf4
+Bxg7 { (-3.26 → -2.18) Inaccuracy. A better move was 18... Bxc3. } ( 18...Bxc3
+19.bxc3 19...Rd6 20.Bg5 20...Rxg7 21.Bh4 21...Qd3+ 22.Kg2 22...Qd5+ 23.Kg1 ) 19.Bg5 {
+(-2.36 → -4.07) Inaccuracy. A better move was 19. Bxg7. } ( 19.Bxg7 19...Rxg7 20.Qxc4
+20...Qd3+ 21.Qxd3 21...Rxd3 22.Re1 22...Rd2 23.Re2 23...Rxe2 ) 19...Rd4 20.Qe3 Qc6 {
+(-4.91 → -3.59) Inaccuracy. A better move was 20... Rd3. } ( 20...Rd3 21.Qc5 21...Bxc3
+22.Bf4 22...Qb6 23.Qxb6 23...axb6 24.bxc3 24...Rxc3 25.Re1 ) 21.Kg1 h6 22.Bf4 Re8
+23.Qc1 Rd3 24.a3 { (-4.26 → -7.39) Inaccuracy. A better move was 24. Qc2. } ( 24.Qc2
+24...h5 25.h4 25...a6 26.Rf1 26...b5 27.Be3 27...Qf3 28.a4 28...Rexe3 ) 24...Bxc3 {
+(-7.14 → -4.35) Mistake. The best move was 24... Bd4. } ( 24...Bd4 25.Rb1 25...Rf3
+26.Qd2 26...Rxf2 27.Qxf2 27...Bxf2+ 28.Kxf2 28...h5 29.Kg1 ) 25.bxc3 Qf3 26.Rb1 Rxc3
+{ (-10.89 → -5.47) Mistake. The best move was 26... Red8. } ( 26...Red8 27.Qf1
+27...Rd1 28.Bxh6 28...Rxb1 29.Qxb1 29...Rd1+ 30.Qxd1 30...Qxd1+ 31.Kg2 ) 27.Qb2 {
+(-5.62 → -13.17) Inaccuracy. A better move was 27. Qf1. } ( 27.Qf1 27...Rd3 28.Qh3+
+28...Kb8 29.Qf5 29...Red8 30.Rf1 30...Qc6 31.Qh5 31...c3 ) 27...Rb3 28.Qc1 Re2  0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.12.01"]
+[Round "?"]
+[White "Tom_Brady_SB49_Champ"]
+[Black "diegoami"]
+[Result "1/2-1/2"]
+[ECO "B49"]
+[WhiteElo "1689"]
+[BlackElo "1739"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.12.22"]
+[Termination "Game drawn by repetition"]
+[CurrentPosition "6k1/2qnbpp1/2b1p2p/2p5/ppN1P3/1P1QBP2/P1P1B1PP/7K b - - 11 28"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 Nf6 7.Be2 a6 8.O-O Bb4 9.Na4 Be7 {
+B49: Sicilian Defense: Taimanov, Bastrikov Variation, 6.Be3 a6 7.Be2 Nf6 8.O-O Bb4 9.Na4
+Be7 } 10.Nc3 O-O 11.Qd2 b5 12.Rad1 Bb7 { (-0.95 → -0.34) Inaccuracy. A better move was
+12... b4. } ( 12...b4 13.Na4 13...Nxe4 14.Qc1 14...Bb7 15.Nb3 15...d5 16.Bb6 16...Qb8
+17.f3 ) 13.Nxc6 dxc6 14.Kh1 Rfd8 15.Qc1 c5 16.Rxd8+ Rxd8 17.f3 Bc6 18.Rd1 Rxd1+ 19.Qxd1
+b4 20.Nb1 a5 21.b3 a4 22.Nd2 h6 23.Nc4 Nd7 24.Qd3 { (-0.07 → -0.96) Inaccuracy. A
+better move was 24. g3. } ( 24.g3 24...Bg5 25.Bf2 25...Be7 26.Be3 26...g5 27.Qa1
+27...Bb5 28.Kg2 28...a3 ) 24...Bb5 25.Qd2 Bc6 26.Qd3 Bb5 27.Qd2 Bc6 28.Qd3  1/2-1/2
+
+ Play!"]
+[Site "Chess.com"]
+[Date "2013.11.24"]
+[Round "?"]
+[White "asifyoudalnoteez"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1735"]
+[BlackElo "1741"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.12.20"]
+[Termination "asifyoudalnoteez won by resignation"]
+[CurrentPosition "r1b1qrk1/2p1bppp/2p2B2/4Q3/p1B5/2N5/PPP2PPP/2KRR3 b - - 0 14"]
+
+1.Nc3 e5 2.Nf3 Nc6 3.d4 { A00: Van Geet Opening: Reversed Nimzowitsch, Napoleon
+Attack } 3...exd4 4.Nxd4 Nf6 5.Bg5 Bb4 6.Nxc6 bxc6 7.Qd4 Be7 8.O-O-O O-O 9.e4 d6
+10.Bc4 a5 11.Rhe1 a4 { (+0.22 → +1.27) Inaccuracy. A better move was 11... Ng4. }
+( 11...Ng4 12.Bxe7 12...Qxe7 13.f3 13...Qg5+ 14.Kb1 14...Ne5 15.Be2 15...Qxg2 16.f4 )
+12.e5 dxe5 { (+0.94 → +1.73) Inaccuracy. A better move was 12... Nd5. } ( 12...Nd5
+13.Bxe7 13...Nxe7 14.exd6 14...Nf5 15.Qf4 15...cxd6 16.g4 16...Qh4 17.Bd3 ) 13.Qxe5 {
+(+1.74 → +0.81) Inaccuracy. A better move was 13. Qh4. } ( 13.Qh4 13...Nd5 14.Bxe7
+14...Qxe7 15.Qxe7 15...Nxe7 16.Rxe5 16...Be6 17.Bxe6 17...fxe6 ) 13...Qe8 { (+0.83 →
++6.78) Blunder. The best move was 13... Bd6. } ( 13...Bd6 14.Bxf6 14...Qxf6 15.Qxf6
+15...gxf6 16.a3 16...Be5 17.g3 17...Bg4 18.Rd3 ) 14.Bxf6  1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.11.24"]
+[Round "?"]
+[White "asifyoudalnoteez"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1735"]
+[BlackElo "1741"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.12.20"]
+[Termination "asifyoudalnoteez won by resignation"]
+[CurrentPosition "r1b1qrk1/2p1bppp/2p2B2/4Q3/p1B5/2N5/PPP2PPP/2KRR3 b - - 0 14"]
+
+1.Nc3 e5 2.Nf3 Nc6 3.d4 { A00: Van Geet Opening: Reversed Nimzowitsch, Napoleon
+Attack } 3...exd4 4.Nxd4 Nf6 5.Bg5 Bb4 6.Nxc6 bxc6 7.Qd4 Be7 8.O-O-O O-O 9.e4 d6
+10.Bc4 a5 11.Rhe1 a4 { (+0.22 → +1.27) Inaccuracy. A better move was 11... Ng4. }
+( 11...Ng4 12.Bxe7 12...Qxe7 13.f3 13...Qg5+ 14.Kb1 14...Ne5 15.Be2 15...Qxg2 16.f4 )
+12.e5 dxe5 { (+0.94 → +1.73) Inaccuracy. A better move was 12... Nd5. } ( 12...Nd5
+13.Bxe7 13...Nxe7 14.exd6 14...Nf5 15.Qf4 15...cxd6 16.g4 16...Qh4 17.Bd3 ) 13.Qxe5 {
+(+1.74 → +0.81) Inaccuracy. A better move was 13. Qh4. } ( 13.Qh4 13...Nd5 14.Bxe7
+14...Qxe7 15.Qxe7 15...Nxe7 16.Rxe5 16...Be6 17.Bxe6 17...fxe6 ) 13...Qe8 { (+0.83 →
++6.78) Blunder. The best move was 13... Bd6. } ( 13...Bd6 14.Bxf6 14...Qxf6 15.Qxf6
+15...gxf6 16.a3 16...Be5 17.g3 17...Bg4 18.Rd3 ) 14.Bxf6  1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.11.19"]
+[Round "?"]
+[White "vickt60"]
+[Black "diegoami"]
+[Result "1/2-1/2"]
+[ECO "B48"]
+[WhiteElo "1700"]
+[BlackElo "1757"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.12.17"]
+[Termination "Game drawn by repetition"]
+[CurrentPosition "R7/5kp1/8/8/PP1p2P1/3rr3/4K3/4R3 w - - 9 58"]
+
+1.e4 c5 2.Nf3 e6 3.Nc3 Nc6 4.d4 cxd4 5.Nxd4 Qc7 6.Be3 Nf6 7.Qd2 a6 { B48: Sicilian
+Defense: Taimanov, Bastrikov, English Attack, 7...Nf6 } 8.Nxc6 bxc6 9.Bf4 Qa5 10.a3
+d5 11.Bd3 Be7 12.exd5 cxd5 13.O-O-O { (0.00 → -0.84) Inaccuracy. A better move
+was 13. O-O. } ( 13.O-O 13...O-O 14.Qe3 14...Bb7 15.Ne2 15...Qc5 16.Nd4 16...Ne4
+17.Nb3 17...Qc8 ) 13...O-O 14.Ne4 Qxd2+ 15.Nxd2 Bb7 16.f3 Rac8 { (-0.64 → +0.03)
+Inaccuracy. A better move was 16... a5. } ( 16...a5 17.Nb3 17...Ba6 18.Bxa6 18...Rxa6
+19.Rhe1 19...Rc8 20.g4 20...Nd7 21.Nd4 ) 17.g4 Nd7 18.Nb3 Nc5 19.Nxc5 Bxc5 20.Rhe1 a5
+21.Kb1 h6 22.Bg3 Rfd8 23.f4 Bd6 24.f5 Bxg3 25.hxg3 Rd6 26.Re5 Rcc6 { (0.00 → +0.62)
+Inaccuracy. A better move was 26... Bc6. } ( 26...Bc6 27.Rde1 27...Re8 28.fxe6 28...Rdxe6
+29.Rxe6 29...Rxe6 30.Rxe6 30...fxe6 31.b4 ) 27.g5 hxg5 28.fxe6 fxe6 29.Rxg5 Rc7 30.Re1
+Bc8 31.Rh1 Re7 32.Bg6 { (+0.85 → 0.00) Inaccuracy. A better move was 32. Rgh5. } (
+32.Rgh5 32...Kf7 33.Rh8 33...Rc7 34.Rf1+ 34...Ke7 35.Rg8 35...Rd8 36.Rxg7+ 36...Kd6 )
+32...e5 33.Kc1 e4 34.Bh7+ Kf8 35.Bg6 Kg8 36.Kd2 e3+ 37.Ke2 Ba6+ 38.Bd3 Bxd3+ 39.cxd3 {
+(+0.67 → -0.88) Mistake. The best move was 39. Kxd3. } ( 39.Kxd3 39...Rb6 40.b3 40...d4
+41.Re1 41...Rc6 42.Rxa5 42...Rc3+ 43.Kxd4 43...Rxc2 ) 39...Rb6 40.Rb1 Rh6 41.g4 Rh2+
+42.Kf3 e2 { (-1.61 → -0.07) Mistake. The best move was 42... d4. } ( 42...d4 43.Rd5
+43...Rf2+ 44.Kg3 44...Ref7 45.Rd8+ 45...Kh7 46.Rh1+ 46...Kg6 47.Rd6+ ) 43.Re1 d4 44.Kg3
+Rh6 45.Rxa5 Re3+ 46.Kg2 Rhe6 47.Kf2 Rf6+ 48.Rf5 Rb6 49.b4 Rxd3 50.Ra5 Rf6+ 51.Kxe2
+Rff3 52.Ra8+ Kf7 53.a4 Rfe3+ 54.Kf1 Rf3+ 55.Ke2 Rfe3+ 56.Kf2 Rf3+ 57.Ke2 Rfe3+  1/2-1/2
+
+[Event "Karpov-like tournament - Round 2"]
+[Site "Chess.com"]
+[Date "2013.12.02"]
+[Round "?"]
+[White "GYMBOW"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "1723"]
+[BlackElo "1760"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.12.15"]
+[Termination "diegoami won by resignation"]
+[CurrentPosition "2r3k1/5pp1/p3p3/1p1rq3/3N3Q/P1P4P/1P2N1K1/8 w - - 1 28"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 Nf6 { B48: Sicilian Defense:
+Taimanov, Bastrikov Variation, 6.Be3 Nf6 } 7.a3 a6 8.Bd3 { (+0.50 → -0.02)
+Inaccuracy. A better move was 8. f4. } ( 8.f4 8...d5 9.e5 9...Ne4 10.Nxe4 10...dxe4
+11.Nxc6 11...Qxc6 12.Qe2 12...Be7 ) 8...Bc5 { (+0.12 → +1.06) Inaccuracy. A better
+move was 8... d5. } ( 8...d5 9.exd5 9...exd5 10.Qe2 10...Be7 11.O-O-O 11...O-O 12.h3
+12...Bd6 13.Qf3 ) 9.Nf3 { (+1.29 → -0.51) Mistake. The best move was 9. Ndb5. } (
+9.Ndb5 9...axb5 10.Bxc5 10...Qe5 11.Be3 11...b4 12.axb4 12...Rxa1 13.Qxa1 13...Nxb4 )
+9...Bxe3 10.fxe3 O-O 11.O-O b5 12.Kh1 Bb7 13.Ne2 Rfd8 14.h3 d5 15.exd5 Nxd5 16.Qd2
+Rac8 17.Nfd4 Ne5 18.Rac1 Nc4 19.Qe1 { (-1.69 → -5.30) Mistake. The best move was
+19. Bxc4. } ( 19.Bxc4 19...Qxc4 20.Rfd1 20...Qc7 21.Nf3 21...Nb6 22.Qa5 22...Rxd1+
+23.Rxd1 23...Qc5 ) 19...Ndxe3 20.Rf2 Nxg2 21.Rxg2 Ne3 22.Bxh7+ { (-5.08 → -9.46)
+Inaccuracy. A better move was 22. Qh4. } ( 22.Qh4 22...Bxg2+ 23.Kg1 23...Qe5 24.Kf2
+24...h6 25.c3 25...Bd5 26.Qf4 26...Qxf4+ ) 22...Kxh7 23.Qh4+ Kg8 24.Rg1 Nxg2 25.Rxg2
+Bxg2+ 26.Kxg2 Qe5 { (-10.41 → -7.15) Inaccuracy. A better move was 26... e5. }
+( 26...e5 27.Nf5 27...Qxc2 28.Qg4 28...Qc6+ 29.Kg1 29...Qf6 30.b3 30...Rc2 31.Ne3 )
+27.c3 Rd5  0-1
+
+[Event "Karpov-like tournament - Round 2"]
+[Site "Chess.com"]
+[Date "2013.11.12"]
+[Round "?"]
+[White "diegoami"]
+[Black "nat_novice"]
+[Result "0-1"]
+[ECO "B18"]
+[WhiteElo "1745"]
+[BlackElo "2022"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.12.13"]
+[Termination "nat_novice won by resignation"]
+[CurrentPosition "6k1/pp3p1p/4p1p1/P1p5/2Pr4/1B4PP/3q1P2/Q5K1 w - - 3 35"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5 5.Ng3 Bg6 6.Nf3 Nd7 { B18: Caro-Kann Defense:
+Classical Variation, 5.Ng3 Bg6 6.Nf3 Nd7 } 7.Bc4 e6 8.c3 Ngf6 9.Qe2 Be7 10.Bg5 Nd5
+11.Bd2 O-O 12.O-O Re8 13.Ne5 Nxe5 14.dxe5 Nb6 15.Bb3 Bd3 16.Qe3 Bxf1 17.Kxf1 Nd5 18.Qe2
+Bg5 19.Bxg5 Qxg5 20.Rd1 Rad8 21.Bc2 { (-2.33 → -3.53) Inaccuracy. A better move
+was 21. Qh5. } ( 21.Qh5 21...Qxh5 22.Nxh5 22...Nb6 23.Rxd8 23...Rxd8 24.Ke2 24...a5
+25.Nf4 25...a4 ) 21...Nf4 22.Qf3 Qxe5 23.Ne4 Rxd1+ { (-5.74 → -4.25) Inaccuracy. A
+better move was 23... Qb5+. } ( 23...Qb5+ 24.Ke1 24...Qxb2 25.Bb3 25...Rxd1+ 26.Bxd1
+26...Nd5 27.Qe2 27...Qa1 28.Qd2 ) 24.Qxd1 Qb5+ 25.Kg1 Qxb2 26.a4 Nd5 27.c4 Nf6 28.Nxf6+
+Qxf6 29.h3 Rd8 30.Qc1 Qd4 31.Bb3 c5 32.a5 g6 33.g3 Qd2 34.Qa1 Rd4  0-1
+
+
+[Event "Take your time and enjoy - Round 1"]
+[Site "Chess.com"]
+[Date "2013.11.22"]
+[Round "?"]
+[White "Leuwe"]
+[Black "diegoami"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "1915"]
+[BlackElo "1751"]
+[TimeControl "1 in 14 days"]
+[EndDate "2013.12.11"]
+[Termination "Game drawn by repetition"]
+[CurrentPosition "8/8/p3b1k1/P2pPpp1/1Pp5/2P1BKP1/8/8 w - - 9 51"]
+
+1.e4 c5 2.Nc3 e6 { B23: Sicilian Defense: Closed, 2...e6 } 3.Bc4 Nc6 4.f4 d6 5.Nf3
+Nf6 6.d3 Be7 7.O-O O-O 8.e5 Nd7 { (-0.75 → -0.10) Inaccuracy. A better move
+was 8... dxe5. } ( 8...dxe5 9.fxe5 9...Nxe5 10.Nxe5 10...Qd4+ 11.Kh1 11...Qxe5
+12.Bf4 12...Qh5 13.Ne4 ) 9.exd6 Bxd6 10.Ne4 Be7 11.Nfg5 Nf6 12.Bd2 b6 13.Rf3 Bb7 {
+(-0.81 → +0.72) Mistake. The best move was 13... h6. } ( 13...h6 14.Nxf6+ 14...Bxf6
+15.Ne4 15...Bxb2 16.Rb1 16...Bd4+ 17.Kh1 17...Bb7 18.Rg3 ) 14.Rh3 { (+0.66 → -0.54)
+Mistake. The best move was 14. Nxf6+. } ( 14.Nxf6+ 14...Bxf6 15.Nxh7 15...Na5 16.Nxf6+
+16...Qxf6 17.Rh3 17...Nxc4 18.Qh5 18...Qh6 ) 14...h6 15.Nxf6+ Bxf6 16.c3 Ne7 17.Qh5 Qd6 {
+(-0.35 → +0.35) Inaccuracy. A better move was 17... Qd7. } ( 17...Qd7 18.Re1 18...b5
+19.Bb3 19...c4 20.Bc2 20...Nf5 21.Ne4 21...Be7 22.d4 ) 18.Re1 Qc6 19.Re2 { (+0.56 →
+-0.02) Inaccuracy. A better move was 19. Ne4. } ( 19.Ne4 19...Kh8 20.g4 20...b5 21.Bb3
+21...c4 22.Bc2 22...Ng8 23.g5 23...Be7 ) 19...Rad8 { (+0.36 → +1.84) Mistake. The
+best move was 19... b5. } ( 19...b5 20.Ne4 20...bxc4 21.Nxf6+ 21...Kh8 22.Ng4 22...Nf5
+23.Ne5 23...Qa4 24.Re1 ) 20.Ne4 Nd5 21.Bxd5 { (+1.45 → -0.10) Mistake. The best move
+was 21. Rg3. } ( 21.Rg3 21...Kh8 22.f5 22...exf5 23.Bxd5 23...Rxd5 24.Bxh6 24...Bd4+
+25.Be3+ 25...Qh6 ) 21...exd5 22.Nxf6+ Qxf6 23.Re5 Rde8 24.Rhe3 Rxe5 25.Qxe5 Qc6 26.Rg3
+f6 27.Qh5 f5 28.Rg6 Rf6 29.Rxf6 Qxf6 30.Qe8+ Kh7 31.Qe5 Qxe5 32.fxe5 Bc8 33.Kf2 g5
+34.g3 Kg7 35.Kf3 Kf7 36.h4 Kg6 37.hxg5 hxg5 38.d4 Bd7 39.b3 Be6 40.Ke2 Kh5 41.dxc5
+bxc5 42.Kf3 a6 43.Be3 c4 44.b4 Kg6 45.a4 Bd7 46.a5 Be6 47.Bd4 Kf7 48.Be3 Kg6 49.Bd4
+Kf7 50.Be3 Kg6  1/2-1/2
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.11.26"]
+[Round "?"]
+[White "diegoami"]
+[Black "blitzenfrancoid"]
+[Result "1-0"]
+[ECO "B86"]
+[WhiteElo "1743"]
+[BlackElo "1597"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.12.08"]
+[Termination "diegoami won by resignation"]
+[CurrentPosition "5R2/5Rkp/2n5/P3P2p/1P6/7P/r5P1/7K b - - 4 47"]
+
+1.e4 c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Bc4 e6 { B86: Sicilian Defense: Open,
+Scheveningen, Sozin Attack, 6...a6 } 7.Bg5 Be7 8.Qd2 O-O 9.O-O Nbd7 { (-0.30 → +0.43)
+Inaccuracy. A better move was 9... h6. } ( 9...h6 10.Be3 10...b5 11.Bb3 11...b4 12.Na4
+12...Nxe4 13.Qxb4 13...Nc5 14.Qb6 ) 10.Kh1 { (+0.19 → -0.66) Inaccuracy. A better move
+was 10. Bxe6. } ( 10.Bxe6 10...fxe6 11.Nxe6 11...Qa5 12.Nxf8 12...Bxf8 13.Rfd1 13...b5
+14.f3 14...Bb7 ) 10...Ne5 11.Be2 Qc7 12.f4 Nc4 13.Bxc4 Qxc4 14.e5 Nd5 { (-0.19 → +4.59)
+Blunder. The best move was 14... dxe5. } ( 14...dxe5 15.fxe5 15...Nd5 16.Bxe7 16...Nxe7
+17.Ne4 17...Ng6 18.Nd6 18...Qd5 19.c4 ) 15.Bxe7 { (+4.88 → +1.60) Blunder. The best
+move was 15. Nxd5. } ( 15.Nxd5 15...Qxd5 16.Bxe7 16...dxe5 17.fxe5 17...Re8 18.Bd6
+18...b6 19.b3 19...Ra7 ) 15...Nxe7 16.exd6 Ng6 17.Rad1 Bd7 18.b3 Qc5 19.Ne4 Qh5 {
+(+1.79 → +3.03) Inaccuracy. A better move was 19... Qc8. } ( 19...Qc8 20.c4 20...f6
+21.h3 21...b6 22.Rde1 22...e5 23.fxe5 23...Nxe5 24.Nc3 ) 20.c4 Rad8 21.c5 { (+2.88 →
++1.91) Inaccuracy. A better move was 21. f5. } ( 21.f5 21...exf5 22.Nxf5 22...Bxf5 23.Ng3
+23...Qg4 24.Nxf5 24...Rd7 25.Qd5 25...Kh8 ) 21...e5 22.fxe5 Bg4 { (+1.80 → +4.22)
+Mistake. The best move was 22... Qxe5. } ( 22...Qxe5 23.Rfe1 23...Rb8 24.Nf3 24...Qf5
+25.b4 25...Rfe8 26.Ng3 26...Qf4 27.Qxf4 ) 23.Rde1 Rfe8 24.Ng3 Qh6 25.Qxh6 gxh6 26.c6 {
+(+5.67 → +4.10) Inaccuracy. A better move was 26. Ne4. } ( 26.Ne4 26...Nxe5 27.Nf6+
+27...Kg7 28.Re3 28...Bd7 29.b4 29...Nc6 30.Nxc6 30...Bxc6 ) 26...bxc6 27.Nxc6 Rd7 {
+(+3.97 → +5.92) Inaccuracy. A better move was 27... Rc8. } ( 27...Rc8 28.Ne4 28...Rxc6
+29.Nf6+ 29...Kf8 30.Nxg4 30...Kg7 31.Nf6 31...Rd8 32.Nh5+ ) 28.h3 Be6 29.Nh5 Kf8 30.Nf6
+Nh4 31.Nxd7+ Bxd7 32.Nd4 Kg7 33.b4 { (+7.81 → +5.20) Inaccuracy. A better move was
+33. Rc1. } ( 33.Rc1 33...Rd8 34.Rc7 34...Kg8 35.Nc6 35...Bxc6 36.Rxc6 36...Ng6 37.Rf5
+37...Nh4 ) 33...Bb5 { (+5.49 → +8.55) Inaccuracy. A better move was 33... Ng6. }
+( 33...Ng6 34.Nf5+ 34...Kf8 35.Ne7 35...Be6 36.Nxg6+ 36...hxg6 37.a3 37...Rb8 38.Rc1 )
+34.Nxb5 axb5 35.d7 { (+11.77 → +6.27) Mistake. The best move was 35. Rc1. } ( 35.Rc1
+35...Nf3 36.gxf3 36...Rd8 37.Rc7 37...Kf8 38.Kg2 38...Ke8 39.Kg3 39...Kf8 ) 35...Rd8
+36.Rd1 Ng6 37.Rfe1 Nf8 38.Rd5 Rxd7 39.Rxb5 Ne6 40.a4 Rd2 41.a5 Ra2 42.Rf1 h5 43.Rb7
+Nd8 44.Rd7 Nc6 { (+18.37 → ♔ Mate in 13) Mistake. The best move was 44... Kf8. }
+( 44...Kf8 45.Rxd8+ 45...Ke7 46.Ra8 46...Re2 47.a6 47...Ra2 48.a7 48...h6 49.b5 )
+45.Rdxf7+ { (♔ Mate in 13 → +14.71) Missed mate. Checkmate after 45. Rfxf7+ . }
+( 45.Rfxf7+ 45...Kg8 46.Rg7+ 46...Kh8 47.Rxh7+ 47...Kg8 48.Rdg7+ 48...Kf8 49.Rc7
+49...Ne7 50.Rcxe7 50...Ra1+ 51.Kh2 51...Rf1 52.e6 52...h4 53.Rhf7+ 53...Rxf7 54.Rxf7+
+54...Kg8 55.a6 55...Kh8 56.a7 56...Kg8 57.a8=Q# ) 45...Kg8 46.Rf8+ Kg7 47.R1f7+  1-0
+
+[Event "Take your time and enjoy - Round 1"]
+[Site "Chess.com"]
+[Date "2013.12.01"]
+[Round "?"]
+[White "diegoami"]
+[Black "murailleechecs"]
+[Result "1-0"]
+[ECO "B04"]
+[WhiteElo "1732"]
+[BlackElo "1567"]
+[TimeControl "1 in 14 days"]
+[EndDate "2013.12.08"]
+[Termination "diegoami won by resignation"]
+[CurrentPosition "rnb2b1r/pp3kpp/2p5/4p3/1PP5/8/1P3PPP/RNBK1B1R w - e6 0 11"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 4.Nf3 dxe5 5.Nxe5 { B04: Alekhine Defense: Modern, Larsen
+Variation, 5.Nxe5 } 5...c6 6.c4 { (+0.69 → +0.10) Inaccuracy. A better move was
+6. Be2. } ( 6.Be2 6...Nd7 7.f4 7...Nxe5 8.fxe5 8...Bf5 9.O-O 9...e6 10.a3 10...b5 )
+6...Nb4 7.a3 Qxd4 8.Nxf7 Qxd1+ 9.Kxd1 Kxf7 10.axb4 e5  1-0
+
+[Event "Take your time and enjoy - Round 1"]
+[Site "Chess.com"]
+[Date "2013.11.22"]
+[Round "?"]
+[White "diegoami"]
+[Black "DaveEklund"]
+[Result "0-1"]
+[ECO "C05"]
+[WhiteElo "1721"]
+[BlackElo "2327"]
+[TimeControl "1 in 14 days"]
+[EndDate "2013.12.07"]
+[Termination "DaveEklund won by resignation"]
+[CurrentPosition "r4r1k/pp4pp/1q6/4Nb2/4B3/b5P1/P1QB3P/RK5R w - - 1 26"]
+
+1.e4 e6 2.d4 d5 3.Nd2 Nf6 4.e5 Nfd7 5.f4 c5 6.c3 Nc6 7.Ne2 Qb6 8.Nf3 { C05: French
+Defense: Tarrasch, Closed, Pawn Center Variation, 5...c5 6.c3 Nc6 7.Ndf3 Qb6 8.Ne2 }
+8...f6 9.g3 cxd4 10.cxd4 Bb4+ 11.Bd2 { (+0.05 → -0.97) Inaccuracy. A better move was
+11. Nc3. } ( 11.Nc3 11...fxe5 12.fxe5 12...O-O 13.Bf4 13...Be7 14.a3 14...g5 15.Na4
+15...Qd8 ) 11...fxe5 12.fxe5 O-O 13.Bg2 Ndxe5 14.dxe5 Nxe5 15.Nc3 { (-1.51 → -4.22)
+Mistake. The best move was 15. Nf4. } ( 15.Nf4 15...Qe3+ 16.Kf1 16...Bxd2 17.Nxe5
+17...b6 18.Bf3 18...Qxe5 19.Qxd2 19...g5 ) 15...Nd3+ 16.Ke2 Nxb2 17.Qc2 Qa6+ 18.Ke1 Nd3+
+19.Kd1 Nf2+ 20.Kc1 { (-4.02 → -6.96) Inaccuracy. A better move was 20. Ke1. } ( 20.Ke1
+20...Nd3+ 21.Kd1 21...Bd7 22.Rb1 22...Nf2+ 23.Ke1 23...Nd3+ 24.Kd1 24...Bxc3 ) 20...Ba3+
+21.Kb1 e5 22.Nxe5 { (-8.88 → ♚ Mate in 21) Mistake. The best move was 22. Nh4. }
+( 22.Nh4 22...Nxh1 23.Qa4 23...Qxa4 24.Nxa4 24...Be6 25.Kc2 25...Nf2 26.Nc3 26...Rac8
+) 22...Bf5 { (♚ Mate in 11 → -9.43) Missed mate. Checkmate after 22... Qb6+ . } (
+22...Qb6+ 23.Qb3 23...Bf5+ 24.Ne4 24...Nxe4 25.Nd3 25...Nxd2+ 26.Kc2 26...Nxb3 27.Bxd5+
+27...Kh8 28.Bc4 28...Nxa1+ 29.Kd1 29...Bg4+ 30.Kd2 30...Qa5+ 31.Nb4 31...Qxb4+ 32.Kd3
+32...Bf5+ 33.Ke3 33...Nc2+ 34.Kf2 34...Bh3+ 35.Bf7 35...Rxf7+ 36.Ke2 36...Qc4+ 37.Kd2
+37...Rf2+ 38.Kd1 ) 23.Bxd5+ Kh8 24.Ne4 { (-12.00 → ♚ Mate in 11) Mistake. The
+best move was 24. g4. } ( 24.g4 24...Qb6+ 25.Bb3 25...Bxc2+ 26.Kxc2 26...Qd4 27.Rhe1
+27...Rac8 28.Bc4 28...Rxc4 ) 24...Nxe4 25.Bxe4 Qb6+  0-1
+
+
+[Event "Karpov-like tournament - Round 2"]
+[Site "Chess.com"]
+[Date "2013.11.12"]
+[Round "?"]
+[White "diegoami"]
+[Black "GYMBOW"]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "1722"]
+[BlackElo "1759"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.12.02"]
+[Termination "diegoami won by resignation"]
+[CurrentPosition "1Q1b2k1/5rpp/1nqp1p2/3N4/4PB2/7P/4Q1P1/1R4K1 b - - 2 32"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 d6 4.O-O { B51: Sicilian Defense: Canal Attack, 3...Nc6 4.O-O }
+4...Bg4 5.h3 Bd7 6.Qe2 e6 7.Nc3 Nge7 8.d3 Ng6 9.Be3 Be7 10.d4 cxd4 11.Nxd4 O-O 12.f4
+Nxd4 13.Bxd4 e5 14.Be3 { (+0.31 → -0.47) Inaccuracy. A better move was 14. fxe5. }
+( 14.fxe5 14...dxe5 15.Be3 15...Be6 16.Rad1 16...Qc8 17.Nd5 17...Bc5 18.Ba4 18...Bxd5 )
+14...exf4 15.Bxf4 Be6 16.Be3 a6 17.Ba4 b5 18.Bb3 Bxb3 { (-0.12 → +0.46) Inaccuracy. A
+better move was 18... Bf6. } ( 18...Bf6 19.Qd2 19...Bxc3 20.bxc3 20...Qe7 21.Rad1
+21...Rad8 22.Bb6 22...Rd7 23.Ba5 ) 19.axb3 Ne5 { (0.00 → +0.84) Inaccuracy. A better
+move was 19... Bf6. } ( 19...Bf6 20.Nd5 20...Bxb2 21.Ra2 21...Be5 22.Nb6 22...Ra7
+23.Nd5 23...Ra8 24.Nb6 ) 20.Nd5 f6 { (+0.78 → +1.84) Inaccuracy. A better move
+was 20... Bg5. } ( 20...Bg5 21.Bd4 21...Nc6 22.Bf2 22...Ne5 23.Bd4 23...Nc6 24.Bf2
+24...Ne5 25.Nb6 ) 21.Rfd1 { (+1.94 → +1.19) Inaccuracy. A better move was 21. Ra2. }
+( 21.Ra2 21...Qd7 22.Nb6 22...Qc6 23.Nxa8 23...Rxa8 24.Rfa1 24...Qxe4 25.Rxa6 25...Rc8 )
+21...Nd7 22.c4 bxc4 23.bxc4 Rf7 24.b4 Qc8 25.Bf4 Qc6 26.b5 axb5 27.cxb5 Qb7 28.Rxa8+
+Qxa8 29.b6 { (+3.45 → +2.28) Inaccuracy. A better move was 29. Nxe7+. } ( 29.Nxe7+
+29...Rxe7 30.Qc4+ 30...Kh8 31.Qc6 31...Qa7+ 32.Kh2 32...h6 33.Rxd6 33...Kh7 ) 29...Qc6
+30.Rb1 { (+3.89 → +2.63) Inaccuracy. A better move was 30. Nxe7+. } ( 30.Nxe7+
+30...Rxe7 31.Rxd6 31...Qa4 32.Qd3 32...g5 33.Qd5+ 33...Kg7 34.Bg3 34...Nxb6 ) 30...Bd8
+{ (+2.63 → +4.47) Inaccuracy. A better move was 30... Qb7. } ( 30...Qb7 31.Nxe7+
+31...Rxe7 32.Qc4+ 32...Kh8 33.Qd5 33...Nxb6 34.Qxd6 34...Qxe4 35.Rxb6 ) 31.b7 Nb6 {
+(+5.17 → +16.78) Mistake. The best move was 31... Qa4. } ( 31...Qa4 32.Bxd6 32...Qc6
+33.Bg3 33...Rf8 34.b8=Q 34...Nxb8 35.Rxb8 35...Kh8 36.Kh2 ) 32.b8=Q  1-0
+
+[Event "Take your time and enjoy - Round 1"]
+[Site "Chess.com"]
+[Date "2013.11.22"]
+[Round "?"]
+[White "murailleechecs"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "A90"]
+[WhiteElo "1569"]
+[BlackElo "1700"]
+[TimeControl "1 in 14 days"]
+[EndDate "2013.12.01"]
+[Termination "diegoami won by resignation"]
+[CurrentPosition "r1b1qrk1/pp1n2pp/2pbn3/3p1p2/3PP2P/1QN3P1/PP1N1PB1/R3R1K1 b - e3 0 14"]
+
+1.d4 f5 2.c4 e6 3.Nf3 Nf6 4.g3 d5 5.Bg2 c6 6.O-O Bd6 { A90: Dutch Defense: Classical,
+Stonewall Variation, Modern Variation } 7.Nc3 O-O 8.Qb3 Qe8 9.Bg5 Nbd7 10.Rfe1 Ne4
+11.cxd5 exd5 12.Nd2 { (-0.18 → -3.61) Blunder. The best move was 12. e3. } ( 12.e3
+12...Nxg5 13.Nxg5 13...h6 14.Nh3 14...Nf6 15.Nf4 15...g5 16.Nd3 16...Qh5 ) 12...Nxg5
+13.h4 Ne6 14.e4  0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.11.17"]
+[Round "?"]
+[White "diegoami"]
+[Black "vsopwill"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "1686"]
+[BlackElo "1531"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.11.30"]
+[Termination "diegoami won by resignation"]
+[CurrentPosition "r3k1nr/1b4pp/pB2pp2/qpQ5/4P3/1BN5/PP4PP/2R2RK1 b kq - 0 20"]
+
+1.e4 c5 2.Nf3 Nc6 3.Bb5 e6 4.O-O { B30: Sicilian Defense: Nyezhmetdinov-Rossolimo Attack,
+3...e6 4.O-O } 4...Bd6 5.c3 Ne5 6.d4 Nxf3+ 7.Qxf3 cxd4 8.cxd4 Qb6 9.Nc3 Bb4 10.Qe2 Qxd4
+11.Be3 Qe5 12.f4 Qc7 13.Rac1 Qa5 14.f5 a6 { (+4.77 → +7.64) Inaccuracy. A better move
+was 14... Ne7. } ( 14...Ne7 15.fxe6 15...O-O 16.Rxf7 16...Ng6 17.Rxf8+ 17...Nxf8 18.a3
+18...Bxa3 19.exd7 ) 15.Bc4 { (+8.28 → +0.65) Blunder. The best move was 15. fxe6. }
+( 15.fxe6 15...Ne7 16.exd7+ 16...Bxd7 17.Bxd7+ 17...Kxd7 18.Qg4+ 18...Ke8 19.Qxg7
+19...Rf8 ) 15...b5 { (+0.75 → +5.08) Blunder. The best move was 15... Nf6. }
+( 15...Nf6 16.Bd2 16...Qe5 17.Kh1 17...Bxc3 18.Bxc3 18...Qxe4 19.fxe6 19...fxe6
+20.Bxf6 ) 16.Bb3 Bb7 { (+4.86 → +7.58) Inaccuracy. A better move was 16... Ne7. }
+( 16...Ne7 17.Qf2 17...f6 18.Bb6 18...Bxc3 19.Bxa5 19...Bxa5 20.Qc5 20...Rb8 21.Qd6
+) 17.fxe6 dxe6 18.Qf2 { (+8.50 → +5.35) Mistake. The best move was 18. Qg4. } (
+18.Qg4 18...Nf6 19.Qxg7 19...Rf8 20.Rxf6 20...Be7 21.Rff1 21...Qd8 22.Rcd1 22...Qc8 )
+18...f6 { (+5.35 → +8.65) Inaccuracy. A better move was 18... Nf6. } ( 18...Nf6 19.Bb6
+19...O-O 20.Bxa5 20...Bxa5 21.Qg3 21...Nxe4 22.Nxe4 22...Bxe4 23.Qe3 ) 19.Bb6 Bc5 {
+(+9.88 → +20.63) Inaccuracy. A better move was 19... Bxc3. } ( 19...Bxc3 20.Bxa5
+20...Bxa5 21.Qg3 21...Kf7 22.Qd6 22...Re8 23.Qd7+ 23...Re7 24.Bxe6+ ) 20.Qxc5  1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.11.24"]
+[Round "?"]
+[White "diegoami"]
+[Black "asifyoudalnoteez"]
+[Result "0-1"]
+[ECO "B03"]
+[WhiteElo "1673"]
+[BlackElo "1780"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.11.30"]
+[Termination "asifyoudalnoteez won by resignation"]
+[CurrentPosition "r3kb1r/pp3ppp/2n5/q1p1Pb2/1nP5/N2p1N2/PP1BB1PP/R2Q1RK1 w kq - 0 14"]
+
+1.e4 Nf6 2.e5 Nd5 3.d4 d6 { B03: Alekhine Defense: Normal Variation, 3.d4 d6 } 4.f4 {
+(+0.61 → -0.39) Inaccuracy. A better move was 4. Nf3. } ( 4.Nf3 4...Bf5 5.Nh4 5...Bd7
+6.c4 6...e6 7.Nf3 7...Nb6 8.Nc3 8...Nc6 ) 4...dxe5 5.fxe5 c5 6.c4 Nb4 7.d5 Bf5 8.Na3 e6
+9.Nf3 exd5 10.Bg5 Qa5 11.Bd2 d4 12.Be2 { (-0.96 → -2.49) Inaccuracy. A better move was
+12. Nb5. } ( 12.Nb5 12...a6 13.Nbxd4 13...cxd4 14.a3 14...Qb6 15.axb4 15...Bxb4 16.Qa4+
+16...Nc6 ) 12...N8c6 { (-2.34 → -1.58) Inaccuracy. A better move was 12... d3. }
+( 12...d3 13.Qb1 13...N8c6 14.Bd1 14...Be7 15.O-O 15...O-O 16.Bb3 16...a6 17.Qe1 )
+13.O-O { (-1.47 → -2.37) Inaccuracy. A better move was 13. Ng5. } ( 13.Ng5 13...Be7
+14.O-O 14...Bxg5 15.Bxg5 15...Bg6 16.e6 16...O-O 17.exf7+ 17...Rxf7 ) 13...d3  0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.11.19"]
+[Round "?"]
+[White "abc123-"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "A84"]
+[WhiteElo "1600"]
+[BlackElo "1690"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.11.26"]
+[Termination "diegoami won by resignation"]
+[CurrentPosition "1rb1k2r/p2p2pp/1q2p3/b4p2/3PnN2/PpN5/2Q2PPP/1R2KB1R w Kk - 0 14"]
+
+1.d4 f5 2.c4 e6 { A84: Dutch Defense: Classical Variation } 3.Bf4 Nf6 4.e3 Bb4+ 5.Nc3
+c5 6.Bxb8 { (+0.28 → -0.32) Inaccuracy. A better move was 6. Ne2. } ( 6.Ne2 6...cxd4
+7.exd4 7...O-O 8.c5 8...Nc6 9.a3 9...Ba5 10.Bd6 10...Ne7 ) 6...Rxb8 7.a3 Ba5 8.Ne2
+b5 9.Nf4 { (-0.48 → -3.49) Blunder. The best move was 9. cxb5. } ( 9.cxb5 9...c4
+10.a4 10...O-O 11.f3 11...d5 12.Kf2 12...Bd7 13.h4 13...a6 ) 9...bxc4 10.Qc2 Qb6 {
+(-3.75 → -2.61) Inaccuracy. A better move was 10... cxd4. } ( 10...cxd4 11.exd4
+11...Qc7 12.Ne2 12...O-O 13.f3 13...d5 14.g3 14...Rb3 15.Qd2 ) 11.Rb1 { (-2.48 →
+-5.39) Mistake. The best move was 11. O-O-O. } ( 11.O-O-O 11...cxd4 12.Na4 12...Qb3
+13.Qxb3 13...cxb3 14.exd4 14...O-O 15.f3 15...Bc7 ) 11...cxd4 12.exd4 Ne4 13.b4 {
+(-5.88 → -15.18) Inaccuracy. A better move was 13. Ne2. } ( 13.Ne2 13...O-O 14.Rc1
+14...Qxb2 15.Qxb2 15...Rxb2 16.f3 16...Nxc3 17.Nxc3 17...Rb3 ) 13...cxb3  0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.11.17"]
+[Round "?"]
+[White "aromas"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "1689"]
+[BlackElo "1671"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.11.23"]
+[Termination "aromas won by resignation"]
+[CurrentPosition "r1b2rk1/2q1nppp/pp1Pp2n/2p5/P1B1N3/3P1N1P/1PP2PP1/R2QR1K1 b - - 0 14"]
+
+1.e4 c5 2.Nf3 e6 { B40: Sicilian Defense: French Variation } 3.Bc4 Nc6 4.O-O Qc7 {
+(-0.03 → +0.65) Inaccuracy. A better move was 4... d5. } ( 4...d5 5.exd5 5...exd5 6.Bb5
+6...Nf6 7.d4 7...Be7 8.Be3 8...c4 9.Ne5 ) 5.Nc3 Nf6 6.d3 a6 7.a4 Be7 8.Bg5 O-O 9.Re1 b6
+10.e5 Ng4 11.Bxe7 Nxe7 12.h3 { (+0.47 → -0.15) Inaccuracy. A better move was 12. d4. }
+( 12.d4 12...cxd4 13.Qxd4 13...Nh6 14.Bd3 14...Bb7 15.a5 15...bxa5 16.Qd6 16...Qd8
+) 12...Nh6 13.Ne4 d5 { (-0.06 → +4.16) Blunder. The best move was 13... Nhf5. }
+( 13...Nhf5 14.c3 14...Bb7 15.Bb3 15...Ng6 16.d4 16...d5 17.Ng3 17...Nxg3 18.fxg3 )
+14.exd6  1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.05.27"]
+[Round "?"]
+[White "diegoami"]
+[Black "Acamemnon"]
+[Result "0-1"]
+[ECO "B06"]
+[WhiteElo "1697"]
+[BlackElo "1654"]
+[TimeControl "1 in 2 days"]
+[EndDate "2013.08.11"]
+[Termination "Acamemnon won on time"]
+[CurrentPosition "r1bq1rk1/pp1np2p/5bp1/2p2pB1/2PP4/2N5/PPBQ1PPP/R3R1K1 w - - 0 15"]
+
+1.e4 d6 2.d4 g6 3.Nf3 Bg7 { B06: Modern Defense with 1.e4: 2.d4 Bg7 3.Nf3 d6 } 4.Bd3 Nh6
+5.O-O c6 6.c4 d5 7.Nc3 { (+1.33 → +0.63) Inaccuracy. A better move was 7. cxd5. }
+( 7.cxd5 7...cxd5 8.exd5 8...O-O 9.Bg5 9...Nf5 10.Re1 10...f6 11.Bf4 11...Qxd5 )
+7...dxe4 8.Bxe4 f5 9.Bc2 Nf7 10.Bf4 Nd7 11.Re1 O-O 12.Ng5 Nxg5 13.Bxg5 Bf6 14.Qd2 c5 {
+(+1.15 → +2.16) Inaccuracy. A better move was 14... Bxg5. } ( 14...Bxg5 15.Qxg5
+15...Nf6 16.Bb3 16...Bd7 17.Qf4 17...Re8 18.Rad1 18...Qb8 19.Qh4 )  0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.05.13"]
+[Round "?"]
+[White "RabbitCold"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "A80"]
+[WhiteElo "1637"]
+[BlackElo "1718"]
+[TimeControl "1 in 2 days"]
+[EndDate "2013.07.05"]
+[Termination "diegoami won on time"]
+[CurrentPosition "2r2rk1/1bpnR1bp/1p1p1np1/p5B1/3P4/2PB1NN1/PP3PPP/5RK1 w - - 1 15"]
+
+1.d4 f5 2.Bg5 { A80: Dutch Defense: Hopton Attack } 2...g6 3.Nc3 Bg7 4.e4 fxe4 5.Nxe4
+Nf6 6.Bd3 O-O 7.Nf3 { (+0.52 → +0.01) Inaccuracy. A better move was 7. Nxf6+. } (
+7.Nxf6+ 7...exf6 8.Bd2 8...d5 9.Ne2 9...f5 10.c3 10...Re8 11.O-O 11...Nd7 ) 7...b6 {
+(-0.06 → +0.80) Inaccuracy. A better move was 7... Nxe4. } ( 7...Nxe4 8.Bxe4 8...d5
+9.Bd3 9...c5 10.dxc5 10...Nd7 11.b4 11...a5 12.O-O ) 8.O-O Bb7 9.Qe2 d6 10.c3 Nbd7
+11.Rae1 Qe8 12.Ng3 a5 13.Qxe7 Qxe7 14.Rxe7 Rac8  0-1
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.05.13"]
+[Round "?"]
+[White "diegoami"]
+[Black "RabbitCold"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "1705"]
+[BlackElo "1732"]
+[TimeControl "1 in 2 days"]
+[EndDate "2013.07.04"]
+[Termination "diegoami won on time"]
+[CurrentPosition "r2q1rk1/1ppbbppp/n4n2/p2Pp3/2P1P3/P1NBB3/1P1QN1PP/R4RK1 b - - 3 14"]
+
+1.e4 Nc6 2.d4 d5 { B00: Nimzowitsch Defense: Scandinavian Variation } 3.f3 { (+0.58
+→ -0.47) Inaccuracy. A better move was 3. e5. } ( 3.e5 3...f6 4.Nf3 4...e6 5.Bd3
+5...Nge7 6.O-O 6...fxe5 7.Nxe5 7...Nxe5 ) 3...e6 4.Bb5 Bd7 5.Ne2 { (-0.02 → -0.75)
+Inaccuracy. A better move was 5. Nc3. } ( 5.Nc3 5...a6 6.Bxc6 6...Bxc6 7.Nge2 7...dxe4
+8.fxe4 8...Qh4+ 9.g3 9...Qh5 ) 5...a6 { (-0.81 → -0.21) Inaccuracy. A better move was
+5... dxe4. } ( 5...dxe4 6.fxe4 6...Qh4+ 7.Ng3 7...Nf6 8.O-O 8...Bd6 9.e5 9...Ng4 10.h3 )
+6.Bd3 dxe4 { (-0.70 → -0.14) Inaccuracy. A better move was 6... Qh4+. } ( 6...Qh4+
+7.g3 7...Qf6 8.O-O 8...Nxd4 9.c3 9...Nxe2+ 10.Qxe2 10...Bc5+ 11.Kg2 ) 7.fxe4 Nf6 {
+(-0.33 → +0.76) Inaccuracy. A better move was 7... Qh4+. } ( 7...Qh4+ 8.g3 8...Qh5 9.a3
+9...Nf6 10.e5 10...Nxd4 11.Nxd4 11...Qxe5+ 12.Be2 ) 8.O-O Be7 9.c4 { (+1.23 → -0.21)
+Mistake. The best move was 9. e5. } ( 9.e5 9...Ng4 10.h3 10...Ncxe5 11.dxe5 11...Bc5+
+12.Kh1 12...Bc6 13.Nbc3 13...Qh4 ) 9...O-O { (-0.28 → +0.71) Inaccuracy. A better
+move was 9... e5. } ( 9...e5 10.d5 10...Nb4 11.a3 11...Nxd3 12.Qxd3 12...O-O 13.Be3
+13...Ng4 14.Nbc3 ) 10.Nbc3 e5 11.d5 Nb8 { (0.00 → +0.80) Inaccuracy. A better move
+was 11... Nd4. } ( 11...Nd4 12.h3 12...b5 13.a3 13...Bc5 14.Be3 14...c6 15.b4 15...Nxe2+
+16.Qxe2 ) 12.a3 a5 13.Be3 { (+0.66 → -0.27) Inaccuracy. A better move was 13. Qe1. }
+( 13.Qe1 13...Bc5+ 14.Kh1 14...Bg4 15.Ng3 15...Nbd7 16.h3 16...Bh5 17.Nxh5 17...Nxh5
+) 13...Na6 { (-0.28 → +0.46) Inaccuracy. A better move was 13... Ng4. } ( 13...Ng4
+14.Qd2 14...Na6 15.Kh1 15...Nxe3 16.Qxe3 16...Bg5 17.Qf2 17...Qf6 18.Qg3 ) 14.Qd2 {
+(+0.35 → -0.29) Inaccuracy. A better move was 14. Kh1. } ( 14.Kh1 14...Ng4 15.Bg1
+15...Bc5 16.Rf3 16...Nf6 17.h3 17...Bxg1 18.Qxg1 18...b6 )  1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.05.15"]
+[Round "?"]
+[White "animeshshah"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "1771"]
+[BlackElo "1686"]
+[TimeControl "1 in 2 days"]
+[EndDate "2013.06.29"]
+[Termination "animeshshah won by resignation"]
+[CurrentPosition "2r5/1b2kpp1/1p2pn1p/qB2n3/R3P3/2N5/PPP1Q1PP/2KR4 b - - 7 24"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 Qc7 6.Be3 Nf6 { B48: Sicilian Defense:
+Taimanov, Bastrikov Variation, 6.Be3 Nf6 } 7.Bd3 Bc5 { (+0.46 → +3.45) Blunder. The
+best move was 7... a6. } ( 7...a6 8.O-O 8...Bd6 9.Kh1 9...Be5 10.Nxc6 10...Qxc6 11.Qd2
+11...O-O 12.f4 ) 8.Ndb5 Qb6 9.Bxc5 Qxc5 10.Nc7+ Ke7 11.Nxa8 Ne5 12.Qe2 b6 13.Bb5 Bb7
+14.f4 Ng6 15.f5 Ne5 16.fxe6 dxe6 17.Nxb6 axb6 18.O-O-O Rc8 19.Rd2 Ra8 20.Rhd1 h6 21.Na4
+Qb4 22.Rd4 Qa5 23.Nc3 Rc8 { (+3.51 → +10.99) Mistake. The best move was 23... Bc6. }
+( 23...Bc6 24.Bxc6 24...Nxc6 25.Rc4 25...Qg5+ 26.Kb1 26...Ne5 27.Ra4 27...Rxa4 28.Nxa4 )
+24.Ra4  1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.05.13"]
+[Round "?"]
+[White "jyba"]
+[Black "diegoami"]
+[Result "1/2-1/2"]
+[ECO "B20"]
+[WhiteElo "1613"]
+[BlackElo "1700"]
+[TimeControl "1 in 2 days"]
+[EndDate "2013.06.23"]
+[Termination "Game drawn by agreement"]
+[CurrentPosition "8/5p2/p4Qqk/1p2Bp2/4b3/P5P1/7P/6K1 w - - 15 40"]
+
+1.e4 c5 2.Bc4 { B20: Sicilian Defense: Bowdler Attack } 2...e6 3.Nc3 Nc6 4.Nf3 Nge7
+5.O-O Ng6 6.d3 Be7 7.d4 cxd4 8.Nxd4 O-O 9.Be3 a6 10.a3 Qc7 11.f4 b5 12.Be2 Bb7 { (-0.38
+→ +0.22) Inaccuracy. A better move was 12... Bc5. } ( 12...Bc5 13.f5 13...Qe5 14.fxg6
+14...hxg6 15.Ncxb5 15...axb5 16.c3 16...b4 17.Kh1 ) 13.Bh5 Rac8 14.f5 exf5 { (-0.48
+→ +0.56) Inaccuracy. A better move was 14... Nxd4. } ( 14...Nxd4 15.Bxd4 15...Ne5
+16.Be2 16...Bg5 17.Rf2 17...f6 18.g3 18...Nc4 19.Bxc4 ) 15.Nxf5 Bf6 { (+0.43 → +3.34)
+Blunder. The best move was 15... Nce5. } ( 15...Nce5 16.Bxg6 16...Nxg6 17.Qd4 17...f6
+18.Nxe7+ 18...Nxe7 19.a4 19...Qe5 20.Qxe5 ) 16.Bxg6 { (+3.09 → +0.02) Blunder. The
+best move was 16. Nd5. } ( 16.Nd5 16...Qe5 17.Nxf6+ 17...gxf6 18.Rf2 18...Qxe4 19.Bh6
+19...Nce5 20.Bxf8 20...Rxf8 ) 16...hxg6 { (0.00 → +2.65) Blunder. The best move was
+16... fxg6. } ( 16...fxg6 17.Nd6 17...Bd4 18.Rxf8+ 18...Rxf8 19.Bxd4 19...Qxd6 20.Bb6
+20...Qxd1+ 21.Rxd1 ) 17.Nh6+ Kh7 { (+2.59 → +3.92) Inaccuracy. A better move was
+17... gxh6. } ( 17...gxh6 18.Nd5 18...Bxb2 19.Nxc7 19...Rxc7 20.Rb1 20...Bg7 21.Qd6
+21...Be5 22.Qd3 ) 18.Ng4 { (+4.08 → -0.89) Blunder. The best move was 18. Nd5. }
+( 18.Nd5 18...Qd8 19.Nxf6+ 19...gxf6 20.Ng4 20...f5 21.exf5 21...Qh4 22.a4 22...d6 )
+18...Bxc3 19.bxc3 Ne7 { (-1.00 → -0.39) Inaccuracy. A better move was 19... Ne5. }
+( 19...Ne5 20.Bd4 20...d6 21.Qe2 21...Rfe8 22.a4 22...bxa4 23.Rxa4 23...Nxg4 24.Qxg4 )
+20.Qf3 { (-0.45 → -1.30) Inaccuracy. A better move was 20. Bd4. } ( 20.Bd4 20...f6
+21.Qd3 21...Kg8 22.a4 22...bxa4 23.Ne3 23...Rfe8 24.Rxa4 24...Qc6 ) 20...Qxc3 21.Qh3+
+Kg8 22.Rad1 Bxe4 23.Nh6+ { (-3.03 → -4.95) Inaccuracy. A better move was 23. Nf2. }
+( 23.Nf2 23...Bxc2 24.Rd2 24...Qxa3 25.Bb6 25...Qxh3 26.Nxh3 26...Rc6 27.Ba5 27...Rc4 )
+23...gxh6 24.Qxh6 Qg7 { (-5.95 → -3.84) Inaccuracy. A better move was 24... Rc4. }
+( 24...Rc4 25.Bd2 25...Qxa3 26.Bc1 26...Qc5+ 27.Be3 27...Qe5 28.Qf4 28...Qxf4 29.Bxf4 )
+25.Qh4 { (-4.03 → -6.11) Inaccuracy. A better move was 25. Rxd7. } ( 25.Rxd7 25...Nf5
+26.Qxg7+ 26...Kxg7 27.Bg5 27...Rxc2 28.Rf2 28...Rfc8 29.g4 29...Rxf2 ) 25...Bxc2 26.Rxd7
+Nf5 27.Rxf5 gxf5 28.Bh6 Qg6 29.Bf4 Be4 30.g3 Rfd8 { (-7.60 → +0.17) Blunder. The best
+move was 30... Rc2. } ( 30...Rc2 31.Qg5 31...Qxg5 32.Bxg5 32...Rg2+ 33.Kf1 33...Rxh2
+34.Rd2 34...Rxd2 35.Bxd2 ) 31.Rxd8+ Rxd8 32.Qxd8+ Kh7 33.Be5 Kh6 34.Qh8+ Qh7 35.Qf6+
+Qg6 36.Qh4+ Qh5 37.Qf6+ Qg6 38.Qh4+ Qh5 39.Qf6+ Qg6  1/2-1/2
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.05.03"]
+[Round "?"]
+[White "koge"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "A80"]
+[WhiteElo "1884"]
+[BlackElo "1705"]
+[TimeControl "1 in 2 days"]
+[EndDate "2013.05.29"]
+[Termination "koge won by resignation"]
+[CurrentPosition "1Rq4k/p5pp/3Q4/p1p2p2/3r1P2/P2N2P1/5P1P/6K1 b - - 2 29"]
+
+1.d4 f5 2.Bf4 { A80: Dutch Defense: 2.Bf4 } 2...Nf6 3.e3 b6 4.Nf3 Bb7 5.Nbd2 e6 6.Bd3
+Be7 7.Qe2 O-O 8.c4 { (-0.10 → -0.71) Inaccuracy. A better move was 8. O-O. } ( 8.O-O
+8...Nh5 9.c3 9...c5 10.Bc4 10...cxd4 11.cxd4 11...Nxf4 12.exf4 12...Bf6 ) 8...c5 {
+(-0.61 → 0.00) Inaccuracy. A better move was 8... Nh5. } ( 8...Nh5 9.O-O 9...c5
+10.Rfe1 10...Nxf4 11.exf4 11...cxd4 12.Nxd4 12...Bd6 13.g3 ) 9.O-O { (+0.02 → -0.68)
+Inaccuracy. A better move was 9. h3. } ( 9.h3 9...d6 10.O-O 10...Na6 11.Bh2 11...Ne4
+12.d5 12...Nxd2 13.Qxd2 13...e5 ) 9...Nc6 { (-0.56 → 0.00) Inaccuracy. A better
+move was 9... Nh5. } ( 9...Nh5 10.Bg3 10...d6 11.h3 11...Nxg3 12.fxg3 12...Nc6 13.g4
+13...fxg4 14.hxg4 ) 10.a3 Nh5 11.d5 Nxf4 12.exf4 exd5 13.cxd5 Na5 14.Rfe1 Bf6 15.b4 {
+(+1.06 → -0.04) Inaccuracy. A better move was 15. Rab1. } ( 15.Rab1 15...Bxd5 16.b4
+16...Bxf3 17.Nxf3 17...Nc6 18.bxc5 18...bxc5 19.Qc2 19...Nd4 ) 15...Bxd5 { (-0.10
+→ +1.54) Mistake. The best move was 15... Bxa1. } ( 15...Bxa1 16.Rxa1 16...Qf6
+17.Re1 17...c4 18.Nxc4 18...Nxc4 19.Bxc4 19...d6 20.Qe6+ ) 16.bxa5 Bxa1 17.Rxa1 Qc7
+18.Bc4 Bxc4 19.Qxc4+ Kh8 20.Ne5 d6 21.Nd3 Rad8 22.Qd5 Rde8 23.Nc4 { (+1.13 → +0.25)
+Inaccuracy. A better move was 23. Rb1. } ( 23.Rb1 23...Re2 24.Nc4 24...Re4 25.axb6
+25...axb6 26.Nxd6 ) 23...Rf6 { (+0.34 → +1.87) Mistake. The best move was 23... Re4. }
+( 23...Re4 24.axb6 24...axb6 25.Ne1 25...Rd4 26.Qe6 26...b5 27.Ne3 27...Qf7 28.Qxf7 )
+24.Rb1 bxa5 25.Rb7 Qc8 { (+0.81 → +1.95) Inaccuracy. A better move was 25... Rb8. }
+( 25...Rb8 26.Rb2 26...g6 27.g3 27...Kg7 28.Rxb8 28...Qxb8 29.Ndb2 29...Qc7 30.Ne3
+) 26.g3 Re4 { (+1.51 → +5.68) Blunder. The best move was 26... Qa8. } ( 26...Qa8
+27.Ne3 27...Rb8 28.Rxb8+ 28...Qxb8 29.Nb2 29...g6 30.Nbc4 30...Kg7 31.Nxa5 ) 27.Nxd6
+Rxd6 28.Qxd6 Rd4 { (+8.70 → ♔ Mate in 6) Mistake. The best move was 28... Re8. }
+( 28...Re8 29.Rxa7 29...Qd8 30.Qc6 30...Qc8 31.Qd5 31...Qd8 32.Qc6 32...Rf8 33.Ne5 )
+29.Rb8  1-0
+
+
