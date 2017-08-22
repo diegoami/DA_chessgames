@@ -32,3 +32,38 @@ see I could go Kxf3 } ( 20...Qd6 21.Rc4 Qd7 22.Nc6 Bd6 23.Ne5 Qd8 24.f4 Rc7 25.R
 (-3.05 → -5.40) Inaccuracy. A better move was 23. Rb1. } ( 23.Rb1 Bb7 24.Qh3 Ne4+
 25.Kg1 Bf6 26.Nf3 O-O 27.Qh2 e5 ) 23...e5 24.Nf5 Bxf5 25.gxf5 Rxc4 26.bxc4 exf4 27.Qa8+
 Bd8 28.Rg1 O-O 29.Qg2 Bb6+  0-1
+
+[Event "ICC 90 30"]
+[Site "Internet Chess Club"]
+[Date "2017.08.22"]
+[Round "-"]
+[White "elmaestro"]
+[Black "diegoami"]
+[Result "1-0"]
+[WhiteElo "1691"]
+[BlackElo "1721"]
+[ECO "A20"]
+[Iccresult "Black resigns"]
+[Opening "English opening"]
+[NIC "EO.24"]
+[Time "13:17:54"]
+[TimeControl "5400+30"]
+[CurrentPosition "2r4k/p3R1pp/1p1P4/2n4P/8/4P1P1/PB2P3/6K1 b - - 3 36"]
+
+1.c4 e5 2.g3 { A20: English Opening: King's English Variation, 2.g3 } 2...f5 3.d3 Nf6
+4.Bg2 d5 5.cxd5 Nxd5 6.Nc3 Bb4 7.Qb3 Bxc3+ 8.bxc3 c6 9.Nf3 Nd7 10.Ba3 Qf6 { (+1.18 →
++2.20) Inaccuracy. A better move was 10... Qb6. } ( 10...Qb6 11.Rc1 11...Qxb3 12.axb3
+12...a5 13.Bd6 13...e4 14.Nd4 14...N7f6 15.c4 ) 11.O-O N7b6 12.c4 Ne7 13.Bb2 Ng6
+14.h4 Nd7 15.h5 Ne7 16.d4 e4 17.d5 Qh6 18.Nh4 Nc5 19.Qe3 Qxe3 20.fxe3 cxd5 21.cxd5 O-O
+22.Rac1 b6 23.Rcd1 Bd7 24.Bh3 Bb5 25.Rf2 { (+1.92 → +1.08) Inaccuracy. A better move
+was 25. d6. } ( 25.d6 25...Nc6 26.Rxf5 26...Rxf5 27.Nxf5 27...Bxe2 28.Rd2 28...Bxh5
+29.Nxg7 29...Bf7 ) 25...Rad8 26.d6 Nc8 27.Nxf5 Bc4 { (+1.75 → +4.59) Mistake. The
+best move was 27... Rf7. } ( 27...Rf7 28.Be5 28...Nd7 29.Bb2 29...Nc5 30.Be5 30...Nd7
+31.Nd4 31...Rxf2 32.Kxf2 ) 28.Rd4 Be6 { (+4.47 → +6.97) Inaccuracy. A better move was
+28... Rxf5. } ( 28...Rxf5 29.Rxf5 29...Bf7 30.Ba3 30...Nxd6 31.Bxc5 31...bxc5 32.Rxc5
+32...Kf8 33.Rc6 ) 29.Ne7+ Kh8 30.Rxf8+ Rxf8 31.Bxe6 Nxe6 32.Rxe4 Nc5 { (+13.41 → ♔
+Mate in 10) Mistake. The best move was 32... Nxd6. } ( 32...Nxd6 33.Rxe6 33...Nc4 34.Bd4
+34...Rd8 35.Rc6 35...Nd6 36.h6 36...Ne8 37.hxg7+ ) 33.Rg4 { (♔ Mate in 9 → +7.94)
+Missed mate. Checkmate after 33. h6 . } ( 33.h6 33...Nxe7 34.Rxe7 34...Ne6 35.hxg7+
+35...Nxg7 36.d7 36...h5 37.Bxg7+ 37...Kh7 38.Bxf8+ 38...Kg6 39.d8=Q 39...Kf6 40.Qd4+
+40...Kf5 41.Qf4+ 41...Kg6 42.Rg7# ) 33...Ne6 34.Nxc8 Rxc8 35.Re4 Nc5 36.Re7  1-0
