@@ -1,0 +1,769 @@
+﻿[Event "Team 45 45 League T66"]
+[Site "Internet Chess Club"]
+[Date "2015.10.10"]
+[Round "6"]
+[White "diegoami"]
+[Black "MikeTtheGuru"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "1775"]
+[BlackElo "2029"]
+[Annotator "Komodo 9.02 64-bit (20m)"]
+[PlyCount "76"]
+[EventDate "2015.??.??"]
+
+{B12: Caro-Kann: Advance Variation} 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5.
+Bd3 ({more common is} 5. Be2 Nd7 6. O-O Ne7 7. Nbd2 h6 8. Nb3 Bh7 9. Bd2 Ng6
+10. c4 dxc4 11. Na5 b5 12. Qe1) 5... Bxd3 6. Qxd3 {last book move. Black is
+behind in developement} Nd7 7. O-O Ne7 8. Nc3 Nf5 9. Ne2 (9. Bg5 $143 Be7 10.
+Bxe7 Nxe7 $11) 9... Be7 10. g4 $5 Nh4 11. Nxh4 Bxh4 12. Bf4 (12. f4 $142 Be7
+$11 13. f5 O-O 14. Rf3 Qb6 15. Qe3 exf5 16. gxf5 c5 17. c3 Rac8 18. Kh1 Rfe8
+19. Rg3 Bf8 20. Qd3 $16) 12... O-O {Black has a cramped position} 13. Kh1 c5 {
+Attacks the pawn chain} 14. c3 Rc8 15. Bg3 Bxg3 16. Nxg3 f6 17. f4 fxe5 18.
+fxe5 (18. dxe5 $142 $5 {must be considered} Qc7 19. Rae1 Qc6 20. Qf3 Rce8 $11)
+18... cxd4 $17 19. cxd4 Qg5 (19... Qh4 $5 $17 20. Qe2 Nb8 21. Nh5 Nc6 22. Qe3
+Nb4 (22... Qxg4 $2 23. Nf6+ gxf6 24. Rg1 $14) 23. Qd2 Qh3 (23... Rc2 $2 24.
+Rxf8+ Kxf8 25. Rf1+ Ke8 26. Nxg7+ Kd7 27. Qf4 $14) 24. Nf4 Qxg4 25. Nxe6 Qe4+ (
+25... Qxe6 $144 26. Qxb4 Qg4) 26. Kg1 Qg6+ 27. Kh1 Qxe6 28. Qxb4 Qg4 29. Qd2
+Qe4+ 30. Qg2 (30. Kg1 $143 Rxf1+ 31. Rxf1 Rc2 $19) 30... Qxd4 $17) 20. h3 $11
+Nb8 21. Kg2 {White king safety dropped} (21. a3 $142 Nc6 22. Rac1 Rxf1+ 23.
+Rxf1 Rf8 24. Rxf8+ Kxf8 $11) (21. Rad1 $142 Nc6 22. Kg2 a5 23. Qd2 Qxd2+ 24.
+Rxd2 Rxf1 25. Kxf1 $11) 21... Nc6 22. a3 {Consolidates b4} Ne7 23. Rad1 Ng6 24.
+Kh2 Rxf1 25. Nxf1 $2 (25. Rxf1 $5 {looks like a viable alternative} Nf4 26. Qd1
+$15 Qh6 27. Nh5 Nxh5 28. gxh5 Qe3 $15) 25... Rf8 (25... Rc1 $142 26. Qe3 (26.
+Rxc1 $143 Qxc1 27. Ne3 Qxb2+ $19) 26... Rc2+ 27. Kh1 Qxe3 28. Nxe3 Rxb2 29. Rc1
+$19) 26. Qg3 $2 (26. Qe3 Qxe3 27. Nxe3 Rf2+ 28. Kg3 Rxb2 $17) 26... Nh4 $19 27.
+Nd2 (27. Qe3 $142 Qg6 28. Qe2 Nf3+ 29. Kg2 h5 $19) 27... Rf4 (27... h5 $142 {
+seems even better} 28. gxh5 Qxh5 29. Re1 $19 Rf5 30. Re3 (30. Rg1 Qh6 31. Kh1
+Rh5 32. Qc3 Nf5 33. Kg2 Qf4 34. Nf3 b5 35. b3 Kh8 36. b4 a6 37. Qe1 Ne3+ $19)
+30... Qd1 31. Qe1 Qc2 32. Kh1 Rf4 33. Rc3 Qxb2 $19) 28. Qe3 Rxg4 29. Qxg5 Rxg5
+30. Rg1 Rf5 31. Kg3 g5 32. Rc1 Rf7 33. Rc3 Nf5+ 34. Kg4 Nxd4 35. Kxg5 Kg7 36.
+Kg4 (36. Rd3 Nc6 37. Re3 (37. Nf3 Rf5+ 38. Kh4 Nxe5 39. Nxe5 Rxe5 40. Kg3 $19)
+37... Rf5+ 38. Kg4 Nxe5+ 39. Kg3 Rg5+ $19) 36... Kg6 37. h4 h5+ 38. Kg3 (38.
+Kh3 {a last effort to resist the inevitable} Rf2 39. Rg3+ Kf5 40. Nb3 Kxe5 41.
+Nxd4 Kxd4 42. Rg5 $19) 38... Ne2+ (38... Ne2+ 39. Kg2 Nxc3 40. bxc3 Rc7 $19)
+0-1
+
+[Event "Team 45 45 League T66"]
+[Site "Internet Chess Club"]
+[Date "2015.10.09"]
+[Round "6"]
+[White "ShootStraight"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "A90"]
+[WhiteElo "1965"]
+[BlackElo "1781"]
+[Annotator "Komodo 9.02 64-bit (20m)"]
+[PlyCount "59"]
+[EventDate "2015.??.??"]
+
+{A90: Dutch Defence: Miscellaneous and Modern Stonewall (with ...Bd6)} 1. d4 e6
+2. c4 f5 3. g3 Nf6 4. Bg2 c6 5. Nf3 d5 6. O-O Bd6 7. b3 {last book move} O-O 8.
+a4 a5 (8... Qe7 $142 9. Ba3 Bxa3 10. Nxa3 a5 11. Nc2 $11 Nbd7 12. Rc1) 9. Ba3
+Na6 (9... Qe7 $142) 10. Bxd6 Qxd6 11. Na3 Nb4 12. Nc2 Nxc2 (12... dxc4 $142 13.
+bxc4 (13. Nxb4 $142 axb4 14. bxc4 c5 15. dxc5 Qxc5 16. Qb3 $14) 13... c5 14. e3
+$11 (14. dxc5 $4 Qxd1 15. Raxd1 Nxc2 $19)) 13. Qxc2 $14 Bd7 14. Rfd1 Ne4 (14...
+Be8 $142 15. Ne5 Nd7 16. Nd3 Bg6 17. e3 $14) 15. Ne5 {An ideal square for the
+white knight.} Qe7 (15... Nf6 $142 16. f4 $14 Rfc8 17. Bf3 Be8 $14) 16. f3 {
+White threatens to win material: f3xe4} (16. Bxe4 $142 fxe4 17. c5 Be8 $16)
+16... Ng5 17. e4 fxe4 18. fxe4 Rac8 (18... dxe4 $142 19. Bxe4 c5 (19... Be8
+$142 20. Bg2 Nf7 21. Re1 Nxe5 22. Rxe5 Bg6 $14) 20. h4 (20. d5 $143 exd5 21.
+Bxd5+ Be6 22. Qg2 Rad8 23. Kh1 (23. Bxb7 $4 Nh3+ 24. Kh1 Nf2+ $19)) (20. Bxb7
+Nh3+ 21. Kh1 Nf2+ $11) 20... Nxe4 21. Qxe4 $14 cxd4 22. Rxd4 $14 Bc6 23. Nxc6
+bxc6 24. Re1 (24. Qxc6 $143 Qf6 25. Rad1 Qf2+ 26. Kh1 Qxg3 $15) 24... c5 25.
+Rd5 Ra6 $14) 19. Qd3 (19. Qd2 $142 Nxe4 20. Qxa5 Ng5 $14) 19... Rf6 20. exd5
+exd5 21. cxd5 Bf5 $2 (21... cxd5 $5 22. Rac1 (22. Bxd5+ $143 Be6 23. Bg2 Rcf8
+24. Rf1 Nh3+ 25. Bxh3 Bxh3 26. Rfe1 Qd6 $11 27. g4 (27. Ra2 $4 Qxd4+ $19) (27.
+Rac1 Rf2 28. g4 Rg2+ 29. Kh1 Qd5 30. Qe4 Qxe4 31. Rxe4 Rb2 $15)) (22. Nxd7 $144
+Qxd7 23. Rf1 Nh3+ 24. Bxh3 Qxh3 25. Rxf6 gxf6 $14) 22... Rxc1 23. Rxc1 Be6 $14)
+22. Qc4 (22. Qe3 $142 Nh3+ (22... h6 $143 23. h4 Nf7 $18 24. Re1 Qd8 25. g4 Bd7
+26. g5 hxg5 27. hxg5 Rf5 28. Ng6 Rxg5 29. Ne7+ $18) 23. Kh1 Re8 24. dxc6 bxc6
+25. Rf1 Bc8 26. Qd2 c5 27. Nc6 Qd7 28. Rxf6 gxf6 29. d5 $18) 22... Kh8 (22...
+cxd5 $142 $5 23. Qxd5+ Be6 24. Qxa5 Nh3+ 25. Bxh3 Bxh3 26. Rac1 $11) 23. dxc6
+Nh3+ 24. Bxh3 Bxh3 25. Re1 Qd8 $4 {the pressure is too much, Black crumbles} (
+25... Qc7 $142 26. g4 Rf4 $18 27. Qd3 Bxg4 28. Qg3 Rxd4 29. Nxg4 Qb6 $18) 26.
+Nf7+ Rxf7 27. Qxf7 Qxd4+ (27... bxc6 {doesn't get the cat off the tree} 28. Re4
+Qg8 29. Qxg8+ Kxg8 30. Re5 $18) 28. Qf2 (28. Kh1 $142 {secures the point} Rg8
+29. cxb7 $18) 28... Qxf2+ 29. Kxf2 bxc6 30. Re5 1-0
+
+[Event "ICC 45 45"]
+[Site "Internet Chess Club"]
+[Date "2015.09.07"]
+[Round "?"]
+[White "diegoami"]
+[Black "elmaestro"]
+[Result "1-0"]
+[ECO "B76"]
+[WhiteElo "1777"]
+[BlackElo "1784"]
+[Annotator "Stockfish 6 64 (20m)"]
+[PlyCount "57"]
+[EventDate "2015.??.??"]
+
+{B76: Sicilian Dragon: Yugoslav Attack, 9 g4 and 9 0-0-0} 1. e4 c5 2. Nf3 d6 3.
+d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 g6 7. Be3 Bg7 8. Qd2 {last book move} O-O
+9. O-O-O b5 10. Nd5 Nxd5 11. exd5 Qc7 12. Kb1 Nd7 13. g4 (13. h4 Bb7 14. Bh6
+Bf6 15. Bxf8 Rxf8 $14) 13... Ne5 (13... Re8 $142 14. h4 Bb7 $11) 14. Qf2 (14.
+h4 Bb7 15. h5 Bxd5 16. hxg6 fxg6 $14) 14... Bd7 (14... Bb7 $142 $5 $17) 15. h4
+$11 Nc4 (15... Rac8 16. h5 Bxg4 17. fxg4 Nxg4 $18) 16. Bxc4 $16 bxc4 17. h5 e5
+$2 (17... g5 $142 18. Bxg5 Rab8 $16) 18. Ne2 (18. dxe6 $142 {ends the debate}
+fxe6 ({Better is} 18... Bc8 19. Qh4 $18 (19. Qh2 {is a little worse}) 19... g5
+20. Bxg5 h6 (20... fxe6 21. h6 Be5 $18) 21. Bxh6) 19. hxg6 hxg6 20. Qh2 e5 (
+20... Kf7 21. Bh6 Bxh6 (21... Be5 22. f4 Bxd4 23. Bxf8) 22. Qxh6 Rh8 23. Qf4+
+Ke7 24. Qe4 d5 25. Qxg6 Kd6 26. Qg7 Rag8 27. Nf5+ exf5 28. Qf6+ Be6 29. Rxh8
+Qg7 30. Qxg7 $18) 21. Qh7+ Kf7 22. Rh6 Rg8 23. Qxg6+ Kf8 24. Rh7 exd4 25. Bh6
+Be6 (25... Bxh6 26. Qf7#) 26. Qxe6 $18) 18... Rab8 19. hxg6 (19. Qh4 $142 {
+is the best option White has} g5 20. Bxg5 $11) 19... fxg6 $17 20. Qh2 Rxf3 $4 {
+spoils everything. .} (20... Qb7 $142 21. Bc1 h6 $17 22. Rhf1 e4 23. Nd4 Bxg4
+$19) 21. Qxh7+ $18 Kf7 22. Rdf1 Bxg4 23. Rxf3+ Bxf3 24. Rf1 e4 (24... Rxb2+ {
+doesn't get the bull off the ice} 25. Kxb2 e4+ 26. Nd4 $18) 25. Bd4 Rg8 (25...
+Kf8 26. Nf4 Qf7 27. Bxg7+ Ke7 $18) 26. Nf4 Qb7 27. Qxg6+ Ke7 (27... Kf8 {
+doesn't do any good} 28. Ne6+ Ke7 29. Bxg7 Qxd5 30. Qf6+ Kd7 31. Qf7+ Kc6 32.
+Qc7+ Kb5 33. Nd4+ Ka4 34. b3+ cxb3 35. cxb3+ Qxb3+ 36. Nxb3 Kb4 37. Rc1 e3 38.
+Qa5#) 28. Bxg7 (28. Qe6+ Kd8 29. Qxg8+ Ke7 30. Qxg7+ Ke8 31. Qxb7 c3 32. Qc8+
+Kf7 33. Qe6+ Kf8 34. Ng6#) 28... Kd8 (28... Qb6 {does not solve anything} 29.
+Bf6+ Kd7 30. Qf7+ Kc8 31. Qxg8+ Kb7 32. Rg1 Qc7 33. Ne6 Bg4 34. Nxc7 Bc8 35.
+Rg7 Bd7 36. Rxd7 Kb6 37. Qb8+ Ka5 38. Rxd6 c3 39. Rxa6#) 29. Bf6+ (29. Bf6+ Kc7
+30. Qxg8 Qc8 31. Ne6+ Kb7 32. Qf7+ Kb8 33. Bd4 Qb7 34. Qf8+ Qc8 35. Qxd6+ Ka8
+36. Nc7+ Kb8 37. Nxa6+ Ka8 38. Qb6 Qb7 39. Qd8+ Qc8 40. Qxc8#) 1-0
+
+[Event "ICC 45 45"]
+[Site "Internet Chess Club"]
+[Date "2015.09.03"]
+[Round "?"]
+[White "misuc56"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "A85"]
+[WhiteElo "1801"]
+[BlackElo "1759"]
+[Annotator "Stockfish 6 64 (30m)"]
+[PlyCount "122"]
+[EventDate "2015.??.??"]
+
+{A85: Dutch Defence: 2 c4 Nf6 3 Nc3} 1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. e3 b6 {
+last book move} 5. Nf3 Bb7 6. Be2 Be7 7. h3 {Secures g4} d6 {Controls e5} (7...
+Ne4 8. Qc2 $11) 8. Bd2 (8. d5 e5 $14) 8... a5 9. a3 Ne4 10. Nxe4 fxe4 {Black
+has new doubled pawns: e4+e6} 11. Nh2 O-O 12. O-O Nd7 13. b4 a4 14. Rc1 Nf6 15.
+Ng4 Qd7 16. Nxf6+ Bxf6 17. Bc3 (17. b5 g6 $14) 17... Qe7 (17... d5 18. Qc2 $11)
+18. d5 $14 {White gains space} Bxc3 19. Rxc3 Qf6 {Black threatens to win
+material: Qf6xc3} 20. Rc2 Bc8 21. f4 Bd7 22. c5 (22. Bg4 Kh8 $16) 22... bxc5
+$11 23. bxc5 e5 24. cxd6 Qxd6 25. fxe5 Qxe5 26. Rxf8+ Rxf8 27. Qc1 (27. Bc4 Qd6
+$11) 27... Qg5 28. Bg4 Bxg4 ({Not} 28... Qxd5 29. Bxd7 Qxd7 30. Rxc7 $16) 29.
+hxg4 Qxg4 30. Rxc7 {White has a new passed pawn: d5} Qg3 31. Rc2 Qd6 32. Rd2
+Qb6 (32... Qg3 33. Rc2 $11) 33. Rf2 (33. Rd4 Qd6 $14) 33... Rd8 {Black
+threatens to win material: Rd8xd5} 34. Rf5 Qd6 35. Qc3 Rb8 (35... h6 36. Re5
+$11) 36. Rf1 (36. Qe5 $142 $5 {would keep White alive} Qxe5 37. Rxe5 $16) 36...
+Qxd5 $15 37. Qc7 {White has a mate threat} Rd8 (37... Re8 38. Qa7 $15) 38. Qc2
+{White threatens to win material: Qc2xa4} (38. Qe7 $5 $11 {is noteworthy})
+38... Qd3 {Black threatens to win material: Qd3xc2} 39. Qf2 $2 (39. Qc5 $15)
+39... Qd5 $4 {Black is ruining his position} (39... Qxa3 $142 40. Qf7+ Kh8 $19)
+40. Qf4 (40. Qc2 $142 $5 $11 {should be considered}) 40... Rc8 41. g4 $2 (41.
+Rb1 $5 h6 42. Rb4 $15) 41... Qe6 (41... h6 42. Rf2 $19) 42. Rf2 Qe7 43. Kg2 $2
+(43. Qf5 $142 Rd8 44. Kg2 $17) 43... Rf8 $19 44. Qxf8+ (44. Qg3 {no good, but
+what else?} Qxa3 45. g5 $19) 44... Qxf8 45. Rxf8+ Kxf8 46. Kg3 g5 47. Kf2 (47.
+Kg2 {cannot undo what has already been done} Ke7 48. Kf1 Ke6 49. Ke1 Kd5 50.
+Kd1 Kc4 51. Kc2 h6 52. Kd1 Kd3 53. Kc1 Kxe3 54. Kc2 Kf3 55. Kc3 e3 56. Kb4 e2
+57. Kxa4 Ke4 58. Kb4 Kd4 59. Ka5 Kd5 60. Kb5 e1=Q 61. Kb6 Kd6 62. Kb5 Qc3 63.
+a4 Qb3+ 64. Ka6 Kc6 65. a5 Qb7#) 47... Kf7 48. Ke2 (48. Kf1 {doesn't improve
+anything} Kg6 49. Kg2 h5 50. gxh5+ Kxh5 51. Kh3 g4+ 52. Kg3 Kg5 53. Kf2 Kh4 54.
+Kg2 g3 55. Kg1 Kh5 56. Kf1 Kg5 57. Ke1 Kh4 58. Ke2 Kh3 59. Kd2 g2 60. Kc3 g1=Q
+61. Kd4 Qc1 62. Ke5 Qxe3 63. Kd5 Qxa3 64. Kc4 e3 65. Kd5 e2 66. Kc4 e1=Q 67.
+Kd5 Qb3+ 68. Kc5 Qe5+ 69. Kc6 Qbb5#) 48... Kg6 49. Kf2 h5 50. gxh5+ Kxh5 51.
+Kg3 g4 (51... g4 52. Kf4 Kh4 53. Kxe4 g3 54. Kf3 Kh3 55. e4 g2 56. e5 g1=Q 57.
+Ke4 Qg3 58. e6 Qxa3 59. e7 Qxe7+ 60. Kd4 Qe6 61. Kc3 a3 62. Kc2 a2 63. Kd3 a1=Q
+64. Kc2 Qc4+ 65. Kd2 Qac1#) 52. Kg2 Kh4 53. Kh2 g3+ 54. Kg2 Kg4 55. Kg1 Kf3 56.
+Kf1 Kxe3 57. Kg2 Kd2 58. Kxg3 e3 59. Kf4 e2 60. Ke4 e1=Q+ 61. Kd4 Kc2 0-1
+
+[Event "ICC 45 45"]
+[Site "Internet Chess Club"]
+[Date "2015.09.16"]
+[Round "?"]
+[White "diegoami"]
+[Black "Schachteufel"]
+[Result "0-1"]
+[ECO "B31"]
+[WhiteElo "1790"]
+[BlackElo "1681"]
+[Annotator "Stockfish 6 64 (30m)"]
+[PlyCount "126"]
+[EventDate "2015.??.??"]
+
+{B31: Sicilian: 2...Nc6 3 Bb5 g6} 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5.
+Nc3 e5 6. d3 Nge7 {last book move} 7. Bg5 h6 8. Bh4 g5 9. Bg3 d6 10. Qd2 a6 11.
+Bxc6+ Nxc6 12. h3 {Prevents intrusion on g4} O-O 13. Nh2 f5 14. f3 Nd4 (14...
+f4 15. Bf2 $17) 15. a4 f4 {Black threatens to win material: f4xg3} 16. Bf2 h5
+17. Bxd4 cxd4 18. Nd5 Rf7 19. c3 (19. a5 Be6 20. Nb6 Rb8 $11) 19... dxc3 $15
+20. bxc3 Be6 21. c4 Bxd5 22. cxd5 {White has new doubled pawns: d3+d5.} ({
+Inferior is} 22. exd5 e4 {Decoy: c5} 23. Ra2 Qb6+ 24. Kh1 e3 $19) 22... Rc8 23.
+Rfc1 Qb6+ 24. Qf2 Qxf2+ 25. Kxf2 Rfc7 26. Rxc7 Rxc7 27. Ra2 Bf6 28. Ke2 Bd8 29.
+Rb2 (29. Nf1 Rc1 30. a5 Rc5 $11) 29... Rg7 (29... Rc1 $5 $15 {is an
+interesting idea}) 30. Rc2 Bb6 31. Kd1 Bc5 32. Rb2 (32. Nf1 b6 $15) 32... Kf8
+33. Nf1 b6 {[%cal Yg5g4] Black plans g4} 34. Nd2 g4 35. hxg4 hxg4 36. fxg4 Rxg4
+37. Nf3 {Blocks the pawn on f4} Rg3 38. Re2 Kg7 39. Kc2 Kh6 40. Kd1 Rg7 41. Rb2
+Rg3 {Black can be proud of that piece} 42. Re2 {Twofold repetition} Kg6 43. Ke1
+Kf6 44. Kd1 Rg7 45. Kc2 Rc7 46. Kb1 Rh7 47. Re1 Bf2 {Black threatens to win
+material: Bf2xe1} 48. Rf1 {White threatens to win material: Rf1xf2} Be3 {
+'the bishop is the bishop!'} 49. Re1 Rc7 (49... Bc5 50. Re2 $15) 50. Kb2 (50.
+Rh1 Bc5 $11) 50... b5 (50... Rg7 51. Re2 $15) 51. axb5 $11 axb5 {Black has a
+new passed pawn: b5.} 52. Kb3 Bc5 53. Re2 Rh7 54. Re1 (54. Ra2 $5 $11 {is
+noteworthy} Rh8 55. Ra5 b4 56. Ra6 Rh1 57. d4 exd4 58. e5+ Ke7 59. exd6+ Bxd6
+60. Nxd4 $11) 54... Ra7 $17 55. Rd1 b4 56. d4 $2 (56. Kb2 $142 $17 Ra3 57. Rd2
+Be3 (57... b3 58. Kc3) 58. Rd1 Bf2 59. Rd2 $17) 56... Ra3+ $19 57. Kb2 exd4 58.
+Nxd4 $2 (58. Rc1 $142 d3 59. e5+ Kf5 60. exd6 Bxd6 61. Re1 $19) 58... Rg3 59.
+Ne6 (59. Nf3 {is not the saving move} Rxg2+ 60. Kb3 Rf2 $19) 59... Rxg2+ 60.
+Kb3 Rg3+ 61. Kb2 (61. Ka4 {is the last straw} Be3 62. Kxb4 $19) 61... Be3 62.
+e5+ (62. Nd4 Rg1 63. Rd3 Bxd4+ 64. Rxd4 Ke5 $19) 62... Kxe5 63. Rf1 (63. Kc2 f3
+64. Nd8 b3+ 65. Kb2 $19) 63... f3 (63... f3 64. Kc2 f2 $19) 0-1
+
+[Event "Team 45 45 League T66"]
+[Site "Internet Chess Club"]
+[Date "2015.09.17"]
+[Round "3"]
+[White "diegoami"]
+[Black "charles-allen"]
+[Result "0-1"]
+[ECO "C43"]
+[WhiteElo "1756"]
+[BlackElo "1852"]
+[Annotator "Stockfish 6 64 (30m)"]
+[PlyCount "82"]
+[EventDate "2015.??.??"]
+
+{C43: Petroff Defence: 3 d4} 1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5
+Nd7 6. Nxd7 Bxd7 7. O-O Bd6 {last book move} 8. Bxe4 (8. Qh5 O-O 9. Qxd5 Bc6
+$14) 8... dxe4 {Black has the pair of bishops} 9. Nc3 f5 10. Qh5+ g6 {Black
+threatens to win material: g6xh5} 11. Qg5 (11. Qh6 Bf8 12. Qe3 Bd6 $11) 11...
+Qe7 (11... Qxg5 12. Bxg5 h6 13. Bd2 $15) 12. Qxe7+ Bxe7 13. Nd5 Bd6 14. Nf6+
+Ke7 15. Nxd7 Kxd7 16. b3 c5 17. dxc5 Bxc5 18. Bb2 {White threatens to win
+material: Bb2xh8} Rhe8 19. Rfd1+ Kc6 20. Rd2 $2 (20. Kf1 $142 $5 $15 {and
+White could well hope to play on}) 20... e3 $17 21. Rd3 (21. Re2 exf2+ 22. Kf1
+Re4 $17) 21... exf2+ (21... e2 $142 $5 22. Bc3 Rad8 $19) 22. Kf1 $17 Rad8 (
+22... Re4 $142 $17) 23. Rad1 $2 (23. Bf6 $142 $5 Rxd3 24. cxd3 $17) 23... Rxd3
+$19 24. cxd3 Kd5 (24... Be3 25. g3 $19) 25. d4 (25. Rc1 $17) 25... Re1+ $1 $19
+{Deflection: d4} 26. Rxe1 fxe1=Q+ (26... fxe1=B $6 27. dxc5 Bb4 28. c6 bxc6 29.
+Ke2 $17) (26... fxe1=N $6 27. dxc5 Nd3 28. Ba3 $17) 27. Kxe1 Bxd4 28. Bc1 Ke4
+29. Ke2 (29. Bg5 Be3 30. Bf6 g5 $19) 29... f4 30. h3 (30. Ba3 g5 $19) 30... h5
+(30... g5 {seems even better} 31. a4 $19) 31. b4 (31. Ba3 g5 $19) 31... g5 32.
+a4 (32. Bd2 g4 $19) 32... g4 33. hxg4 (33. Bd2 $19 {the only chance to get
+some counterplay}) 33... hxg4 34. Bd2 (34. b5 f3+ 35. Kf1 Kd3 $19) 34... f3+
+35. gxf3+ gxf3+ 36. Kf1 Kd3 37. Bf4 Kc4 38. Bd6 Bc3 39. b5 Bd4 40. Be7 Bc5 41.
+Bg5 Kb4 (41... Kb4 42. b6 Bxb6 $19) 0-1
+
+[Event "Team 45 45 League T66"]
+[Site "Internet Chess Club"]
+[Date "2015.09.25"]
+[Round "4"]
+[White "room-matt"]
+[Black "diegoami"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "1856"]
+[BlackElo "1761"]
+[Annotator "Komodo 9.02 64-bit (20m)"]
+[PlyCount "56"]
+[EventDate "2015.??.??"]
+
+{B21: Sicilian: 2 f4 and Morra Gambit} 1. e4 c5 2. f4 e6 3. Nf3 d5 4. Bb5+ Bd7
+5. Bxd7+ {last book move} Qxd7 6. exd5 exd5 7. Ne5 {White threatens to win
+material: Ne5xd7} Qc7 {White's piece can't move: c1} 8. O-O Bd6 {Black
+threatens to win material: Bd6xe5} 9. Re1 (9. Qg4 $5 {has some apparent merit}
+g6 10. Nc3 $14) 9... Ne7 $15 10. Nc3 O-O {Black castles and improves king
+safety} (10... Bxe5 11. fxe5 O-O 12. d4 $15) 11. Nb5 $11 {White threatens to
+win material: Nb5xc7} Qb6 12. Nxd6 Qxd6 13. b3 Nbc6 14. Bb2 f6 15. Nxc6 Nxc6
+16. Qg4 Rfe8 17. a3 {Covers b4} b5 (17... Re4 18. Rxe4 dxe4 19. Re1 $15) 18.
+Qh5 Re7 (18... g6 19. Qf3 $11) 19. Rxe7 $14 {White has a mate threat} Nxe7 20.
+Re1 Rd8 (20... Rb8 21. Qe2 Nf5 22. b4 $14) 21. f5 (21. Qe2 $5 Kf7 22. Qxb5 $16)
+21... d4 {Black gains space} 22. Re6 {White threatens to win material: Re6xd6.
+'the rook is the rook!'} Qd7 23. Bc1 (23. h3 $5 $11 {is an interesting
+alternative}) 23... d3 $15 24. cxd3 Qd4+ 25. Re3 Qa1 {Black threatens to win
+material: Qa1xc1} (25... g6 $5 26. fxg6 hxg6 $17) 26. Re1 Qd4+ {Black forks: d3
+} 27. Re3 Qa1 {Twofold repetition} 28. Re1 (28. Rxe7 Qxc1+) 28... Qd4+ 1/2-1/2
+
+[Event "Team 45 45 League T66"]
+[Site "Internet Chess Club"]
+[Date "2015.09.27"]
+[Round "4"]
+[White "diegoami"]
+[Black "Gojira"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "1772"]
+[BlackElo "1630"]
+[Annotator "Komodo 9.02 64-bit (20m)"]
+[PlyCount "47"]
+[EventDate "2015.??.??"]
+
+{B31: Sicilian: 2...Nc6 3 Bb5 g6} 1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5.
+c3 {last book move} d5 6. exd5 Qxd5 7. h3 {Prevents intrusion on g4} e5 (7...
+Nf6 $5 $11) 8. d3 $14 Nge7 9. Nbd2 Bf5 {Black threatens to win material: Bf5xd3
+} 10. Bc4 Qd7 11. Ne4 (11. Ng5) 11... b6 {Secures c5} 12. Bg5 Bxe4 (12... O-O
+$142 $5 $11 {is an interesting alternative}) 13. dxe4 $16 f6 $2 (13... Qxd1 14.
+Raxd1 h6 15. Bh4 $16) 14. Qxd7+ (14. Bf7+ $142 $1 {the advantage is on the
+side of White} Kd8 15. Qb3 $18) 14... Kxd7 $14 {Black loses the right to castle
+} (14... Kxd7 15. Be3 a5 {[%eval 42,14] Deep Rybka 4 SSE42 x64}) 15. Rfd1+ Kc7
+16. Be3 Na5 (16... Rad8 17. a4 $14) 17. Be6 Rhd8 18. a3 Rd6 19. Ba2 (19. Rxd6
+Kxd6 20. Ba2 {[%eval 65,21] Fritz 11 SE}) 19... Rad8 20. Rxd6 Rxd6 (20... Rxd6
+21. g3 c4 {[%eval 55,22] Deep Fritz 14 x64}) 21. b4 {White threatens to win
+material: b4xa5. White forks: a5+c5} Nb7 22. Bc4 f5 23. g3 Rd8 $4 (23... h6
+$142 $14 {this is the best bet to save the position}) (23... h6 24. h4 fxe4 {
+[%eval 39,23] Stockfish 050714 64 SSE4.2}) 24. Ng5 $18 (24. Ng5 Rd6 25. Ne6+
+Rxe6 26. Bxe6 $18) 1-0
+
+[Event "ICC 90 30"]
+[Site "Internet Chess Club"]
+[Date "2015.09.28"]
+[Round "?"]
+[White "idjit"]
+[Black "diegoami"]
+[Result "1/2-1/2"]
+[ECO "B23"]
+[WhiteElo "1553"]
+[BlackElo "1772"]
+[Annotator "Komodo 9.02 64-bit (20m)"]
+[PlyCount "122"]
+[EventDate "2015.??.??"]
+
+{B23: Closed Sicilian: Lines without g3} 1. e4 c5 2. Nc3 e6 3. f4 d5 {last
+book move} 4. exd5 exd5 5. d4 (5. Bb5+ Nc6 $11) 5... Nf6 (5... cxd4 6. Bb5+ (6.
+Qxd4 Nf6 7. Nf3 Nc6 8. Bb5 Bd6 9. Qe3+ Be7 10. Qd3 $15) 6... Nc6 7. Qxd4 $15)
+6. Nf3 Nc6 7. Qe2+ (7. Be3 c4 8. a3 $11) 7... Be6 (7... Be7 $142 8. Be3 (8.
+dxc5 $144 O-O 9. Be3 Re8 10. O-O-O (10. Qd2 $4 Bxc5 $19) 10... Bxc5 $17) 8...
+O-O 9. dxc5 Re8 $17) 8. f5 $14 cxd4 (8... Nxd4 $5 {is an interesting
+alternative} 9. Nxd4 cxd4 $14 10. fxe6 dxc3 11. Qb5+ Ke7 12. Qxb7+ Kxe6) 9.
+fxe6 $16 dxc3 10. exf7+ Kxf7 $4 {Black crumbles in face of a dire situation. .}
+(10... Kd7 $142 11. bxc3 Bd6 $16) 11. Ng5+ $18 Kg6 12. Qd3+ (12. Qe3 $142 $5 {
+and White can already relax} Qe7 13. Bd3+ Kh5 $18) 12... Ne4 13. Nxe4 dxe4 (
+13... Qe7 {is still a small chance} 14. Qg3+ Kf7 $18) 14. Qxe4+ Kf6 15. Qf3+ (
+15. Bc4 Qd2+ 16. Bxd2 cxd2+ 17. Kd1 Nd4 18. Qxd4+ Kg6 19. Qf4 Kh5 20. Bf7+ g6
+21. h4 Rd8 22. g4#) 15... Ke6 $18 16. Bc4+ Kd7 17. Qf5+ (17. Qf7+ $5 {keeps an
+even firmer grip} Qe7+ 18. Be6+ Kc7 19. Bf4+ Kb6 20. Be3+ Kc7 21. Qf4+ Qd6 $18)
+17... Kc7 18. Bf4+ Bd6 19. O-O-O Rf8 20. Qxf8 {White forks: d6+g7} (20. Bf7
+$142 {secures victory} g6 21. Qg4 Rxf7 22. Bxd6+ Qxd6 23. Rxd6 cxb2+ 24. Kb1
+Kxd6 25. Rd1+ Kc5 26. Qg3 $18) 20... Qxf8 $11 21. Bxd6+ Qxd6 22. Rxd6 Kxd6 23.
+bxc3 Ne5 24. Bd3 Nxd3+ (24... Re8 25. Rd1 (25. Bxh7 $2 g6 $17) 25... Kc5 26.
+Be4 $14) 25. cxd3 $14 {A rook endgame occured} Rf8 26. Rd1 Rf2 27. Rd2 Rf1+ 28.
+Kc2 Rf5 29. c4 b6 30. Kc3 h5 (30... b5 31. Kb4 a5+ 32. Kc3 $16) 31. Kd4 (31. a4
+h4 $16) 31... g5 32. g3 (32. Rb2 Kc6 $16) 32... g4 33. Rb2 Ke6 34. Rb5 Rf2 35.
+Rxh5 Rxa2 36. Rg5 Rxh2 37. Rxg4 Kf5 38. Rg7 a5 39. Kc3 Ke5 $2 (39... Rh1 40.
+Rg8 $16) 40. g4 (40. Rg6 $5 Rg2 $18) 40... Rh1 $16 41. g5 (41. Rf7 Rc1+ 42. Kd2
+Rb1 $16) 41... Rc1+ (41... Kf5 42. Rg8 $16) 42. Kb2 Rh1 43. g6 Rg1 44. Re7+ (
+44. Rg8 a4 $16) 44... Kf6 $2 (44... Kd4 $142 $11 {and Black hangs on}) 45. Rb7
+$18 Kxg6 46. Rxb6+ Kf7 47. Rb5 (47. Ra6 Rg3 48. Kc3 Ke7 $18) 47... Rg2+ (47...
+Rd1 48. Kc2 Ra1 49. d4 $18) 48. Kb3 Rd2 49. Rxa5 (49. Kc3 $142 $5 Ra2 50. d4
+$18) 49... Rxd3+ $14 50. Kb4 Ke6 51. Ra8 (51. Kc5 $5 $16) 51... Kd7 $14 52. Kc5
+Rh3 53. Ra7+ Kc8 54. Kb5 Rb3+ (54... Rh6 $5 $14 {is worth consideration}) 55.
+Kc6 $16 Kd8 $2 (55... Kb8 $142 56. Rd7 Rf3 $16) 56. c5 $18 Rh3 57. Ra6 (57.
+Ra8+ $142 {nails it down} Ke7 58. Kc7 $18) 57... Rh6+ 58. Kb7 Rxa6 59. Kxa6 {
+A pawn endgame occured} Kc7 60. Ka5 Kc6 {Black threatens to win material:
+Kc6xc5} 61. Ka4 Kxc5 1/2-1/2
+
+[Event "ICC 45 45"]
+[Site "Internet Chess Club"]
+[Date "2015.10.02"]
+[Round "?"]
+[White "diegoami"]
+[Black "TerryMalloy"]
+[Result "1/2-1/2"]
+[ECO "B90"]
+[WhiteElo "1763"]
+[BlackElo "2035"]
+[Annotator "Komodo 9.02 64-bit (20m)"]
+[PlyCount "93"]
+[EventDate "2015.??.??"]
+
+{B90: Sicilian Najdorf: Unusual White 6th moves, 6 Be3 Ng4 and 6 Be3 e5} 1. e4
+c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 (6. Be3 $144 Ng4 7. Bg5 h6
+8. Bh4 g5 9. Bg3 $11) 6... e5 7. Nb3 Be6 8. Be3 h5 9. Nd5 Bxd5 10. exd5 Nbd7
+11. Qd2 g6 12. O-O-O {last book move} (12. Be2 $144 Bg7 13. O-O O-O $11) 12...
+Bg7 13. h3 {Secures g4} (13. g3 $144 O-O $11) 13... Qc7 14. Kb1 Rc8 15. Qd3 (
+15. c4 $142 b6 $14 (15... b5 $4 16. cxb5 axb5 17. Rc1 $18) 16. Re1 h4 $14)
+15... Nb6 16. Bxb6 (16. c3 $142 Nbxd5 17. Bg5 O-O 18. g4 $36) 16... Qxb6 17. g3
+Qf2 {Black threatens to win material: Qf2xg3} 18. Be2 (18. Nd2 $142 Qxg3 19.
+Nc4 Rd8 $15 20. Qa3 O-O 21. Nxd6 e4 22. Nxe4 $17) 18... Qxg3 $17 19. Rdg1 (19.
+Nd2 O-O 20. c3 Bh6 21. Ne4 Nxe4 22. fxe4 $17) 19... Qf4 20. Nd2 Qd4 21. Qxd4
+exd4 22. Ne4 Nxe4 23. fxe4 O-O 24. Bd3 Be5 25. Rg2 Kh8 26. Rf1 Rce8 27. Rgf2
+Kg7 28. Rg2 h4 29. Rgf2 Bg3 30. Rf3 Re5 31. Kc1 (31. a3 $142 b5 $17) 31... Rg5
+32. Kd1 Be5 33. a3 Rg2 34. R1f2 Rxf2 35. Rxf2 Re8 36. Kc1 Bg3 37. Rf1 Re5 38.
+Kd1 Rg5 39. Rg1 Bf4 40. Rxg5 Bxg5 {A bishop endgame occured} 41. Ke2 (41. a4 $5
+$17 Kf6 42. Ke2 Ke5 43. Kf3 $11) 41... Bc1 42. a4 Bxb2 43. Kf3 Kf6 44. Kg4 Ke5
+45. Kg5 Bc1+ 46. Kg4 Kf6 (46... g5 47. Kf3 f6 (47... Be3 48. Kg4 f6 49. Kf3 Bf4
+50. Kg4 Bc1 51. Kf3 Be3 52. Kg4 Bf4 53. Kf3 Bd2 54. Kg4 Ba5 55. Kf3 Bc7 56. Kg4
+b5 57. axb5 a5 $19) 48. Be2 Ba3 49. Bc4 Bc5 50. Bd3 (50. a5 Bb4 $19) 50... b5
+51. axb5 a5 52. Bc4 a4 53. Ba2 g4+ 54. hxg4 h3 55. Kg3 $19) 47. Kxh4 1/2-1/2
+
+[Event "Team 45 45 League T66"]
+[Site "Internet Chess Club"]
+[Date "2015.10.04"]
+[Round "5"]
+[White "fkramer"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "A80"]
+[WhiteElo "1778"]
+[BlackElo "1790"]
+[Annotator "Komodo 9.02 64-bit (20m)"]
+[PlyCount "70"]
+[EventDate "2015.??.??"]
+
+{A80: Dutch Defence: Unusual White second moves} 1. d4 e6 {last book move} 2.
+c3 {Controls b4} f5 3. Nf3 Nf6 4. Bf4 Be7 5. h3 {Secures g4} Nc6 6. e3 b6 7.
+Nbd2 Bb7 8. Bc4 O-O 9. O-O Kh8 10. Ng5 h6 11. Ngf3 g5 12. Be5 (12. Nxg5 $143
+hxg5 13. Bxg5 Rg8 $19) 12... Nxe5 13. dxe5 Nd5 14. Nd4 c5 {Black threatens to
+win material: c5xd4} (14... a6 $144) 15. N4f3 (15. Nb5 $144 Qb8 16. Qh5 Kg7 17.
+Bxd5 Bxd5 18. f4 gxf4 19. exf4 $15) 15... Qe8 16. Qc2 (16. Qe2 $144 Qg6 $15)
+16... Qh5 17. Be2 g4 18. hxg4 (18. Nh2 $144 Rg8 $15) 18... fxg4 (18... Qxg4
+$142 19. Qd3 Rg8 20. Ne1 $17 Qh4) 19. Nh2 {White threatens to win material:
+Nh2xg4} Qxe5 20. Nxg4 $2 (20. Bxg4 $142 $5 {is an interesting idea} Bd6 (20...
+Rg8 $142 21. c4 Nb4 $17) 21. Nhf3 $15) 20... Qg7 $17 21. Ne4 (21. e4 $142 $5
+Nf4 22. Bf3 $17) 21... h5 $19 22. Nh2 Rg8 23. g3 h4 (23... Nxe3 $142 {secures
+the point} 24. fxe3 Qh7 $19) 24. g4 $17 Qh6 25. Qd3 Raf8 26. Bf3 $4 {the
+position is going down the drain} (26. c4 $142 Nb4 27. Qxd7 Bxe4 28. Qxe7 $17)
+26... Rxf3 $1 $19 {a beautiful, forced end to the game} 27. Nxf3 Rxg4+ 28. Kh2
+Nf6 $2 (28... Nf4 $142 {and Black wins} 29. Ne5 (29. exf4 Qxf4+ 30. Kh3 Bxe4
+31. Qxd7 Qxf3+ 32. Kh2 Qg2#) 29... Nxd3 30. Nf7+ Kg7 31. Nxh6 Rxe4 32. Rad1 $19
+) 29. Nd6 $2 (29. Ned2 $144 c4 30. Qc2 Bd6+ $19) 29... Bxd6+ 30. Qxd6 Bxf3 31.
+Rg1 h3 32. Rg3 Rxg3 33. Qxg3 Bg2 (33... Ng4+ $142 {it becomes clear that Black
+will call all the shots} 34. Qxg4 (34. Kg1 h2+ 35. Kf1 h1=Q+ $19 36. Qg1 Qxg1+
+37. Kxg1 Qh1#) 34... Bxg4 $19) 34. Qb8+ Kh7 35. Qe5 Ng4+ 0-1
+
+[Event "Team 45 45 League T66"]
+[Site "Internet Chess Club"]
+[Date "2015.10.09"]
+[Round "6"]
+[White "ShootStraight"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "A90"]
+[WhiteElo "1965"]
+[BlackElo "1781"]
+[Annotator "Komodo 9.02 64-bit (20m)"]
+[PlyCount "59"]
+[EventDate "2015.??.??"]
+
+{A90: Dutch Defence: Miscellaneous and Modern Stonewall (with ...Bd6)} 1. d4 e6
+2. c4 f5 3. g3 Nf6 4. Bg2 c6 5. Nf3 d5 6. O-O Bd6 7. b3 {last book move} O-O 8.
+a4 a5 (8... Qe7 $142 9. Ba3 Bxa3 10. Nxa3 a5 11. Nc2 $11 Nbd7 12. Rc1) 9. Ba3
+Na6 (9... Qe7 $142) 10. Bxd6 Qxd6 11. Na3 Nb4 12. Nc2 Nxc2 (12... dxc4 $142 13.
+bxc4 (13. Nxb4 $142 axb4 14. bxc4 c5 15. dxc5 Qxc5 16. Qb3 $14) 13... c5 14. e3
+$11 (14. dxc5 $4 Qxd1 15. Raxd1 Nxc2 $19)) 13. Qxc2 $14 Bd7 14. Rfd1 Ne4 (14...
+Be8 $142 15. Ne5 Nd7 16. Nd3 Bg6 17. e3 $14) 15. Ne5 {An ideal square for the
+white knight.} Qe7 (15... Nf6 16. f4 $14) 16. f3 {White threatens to win
+material: f3xe4} (16. Bxe4 fxe4 17. c5 Be8 $16) 16... Ng5 17. e4 fxe4 18. fxe4
+Rac8 (18... dxe4 19. Bxe4 c5 20. h4 (20. d5 $143 exd5 21. Bxd5+ Be6 22. Qg2
+Rad8 23. Kh1 (23. Bxb7 $4 Nh3+ 24. Kh1 Nf2+ $19)) (20. Bxb7 Nh3+ 21. Kh1 Nf2+
+$11) 20... Nxe4 21. Qxe4 $14 cxd4 22. Rxd4 $14 Bc6 23. Nxc6 bxc6 24. Re1 (24.
+Qxc6 $143 Qf6 25. Rad1 Qf2+ 26. Kh1 Qxg3 $15) 24... c5 25. Rd5 Ra6 $14) 19. Qd3
+(19. Qd2 Nxe4 20. Qxa5 Nd6 $16) 19... Rf6 20. exd5 exd5 21. cxd5 Bf5 $2 (21...
+cxd5 $5 22. Rac1 (22. Bxd5+ $143 Be6 23. Bg2 Rcf8 24. Rf1 Nh3+ 25. Bxh3 Bxh3
+26. Rfe1 Qd6 $11 27. g4 (27. Ra2 $4 Qxd4+ $19) (27. Rac1 Rf2 28. g4 Rg2+ 29.
+Kh1 Qd5 30. Qe4 Qxe4 31. Rxe4 Rb2 $15)) (22. Nxd7 $144 Qxd7 23. Rf1 Nh3+ 24.
+Bxh3 Qxh3 25. Rxf6 gxf6 $14) 22... Rxc1 23. Rxc1 Be6 $14) 22. Qc4 (22. Qe3 $142
+h6 (22... Nh3+ 23. Kh1 Re8 24. dxc6 bxc6 25. Rf1) 23. h4 Nf7 $18 24. Re1 c5 25.
+g4 Bd7 26. g5 hxg5 27. hxg5 (27. hxg5 {[%eval 265,25] Komodo 8 64-bit}) 27...
+Rf5 28. Nxd7 Qxd7 29. g6 Nh8 30. Bh3) 22... Kh8 (22... cxd5 $5 23. Qxd5+ Be6
+24. Qxa5 Rc2 $16) 23. dxc6 Nh3+ 24. Bxh3 Bxh3 25. Re1 Qd8 $4 {the pressure is
+too much, Black crumbles} (25... Qc7 $142 26. g4 Rf4 $18) 26. Nf7+ Rxf7 27.
+Qxf7 Qxd4+ (27... bxc6 {doesn't get the cat off the tree} 28. Re4 Qg8 29. Qxg8+
+Kxg8 30. Re5 $18) 28. Qf2 (28. Kh1 $142 {secures the point} Rg8 29. cxb7 $18)
+28... Qxf2+ 29. Kxf2 bxc6 30. Re5 1-0
+
+[Event "Team 45 45 League T66"]
+[Site "Internet Chess Club"]
+[Date "2015.10.10"]
+[Round "6"]
+[White "diegoami"]
+[Black "MikeTtheGuru"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "1775"]
+[BlackElo "2029"]
+[Annotator "Komodo 9.02 64-bit (20m)"]
+[PlyCount "76"]
+[EventDate "2015.??.??"]
+
+{B12: Caro-Kann: Advance Variation} 1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5.
+Bd3 ({more common is} 5. Be2 Nd7 6. O-O Ne7 7. Nbd2 h6 8. Nb3 Bh7 9. Bd2 Ng6
+10. c4 dxc4) 5... Bxd3 6. Qxd3 {last book move. Black is behind in developement
+} Nd7 7. O-O Ne7 8. Nc3 Nf5 9. Ne2 (9. Bg5 $143 Be7 10. Bxe7 Nxe7 $11) 9... Be7
+10. g4 $5 Nh4 11. Nxh4 Bxh4 12. Bf4 (12. f4 $142 Be7 $11 13. f5 O-O 14. Rf3 Qb6
+15. Qe3 exf5 16. gxf5 c5 17. c3 Rac8 18. Kh1 Rfe8 19. Rg3 Bf8 20. Qd3 $16)
+12... O-O {Black has a cramped position} 13. Kh1 c5 {Attacks the pawn chain}
+14. c3 Rc8 15. Bg3 Bxg3 16. Nxg3 f6 17. f4 fxe5 18. fxe5 (18. dxe5 $142 $5 {
+must be considered} Qc7 19. Rae1 Qc6 20. Qf3 Rce8 $11) 18... cxd4 $17 19. cxd4
+Qg5 (19... Qh4 $5 $17 20. Qe2 Nb8 21. Nh5 Nc6 22. Qe3 Nb4 (22... Qxg4 $2 23.
+Nf6+ gxf6 24. Rg1 $14) 23. Qd2 Qh3 (23... Rc2 $2 24. Rxf8+ Kxf8 25. Rf1+ Ke8
+26. Nxg7+ Kd7 27. Qf4 $14) 24. Nf4 Qxg4 25. Nxe6 Qe4+ (25... Qxe6 $144 26. Qxb4
+Qg4) 26. Kg1 Qg6+ 27. Kh1 Qxe6 28. Qxb4 Qg4 29. Qd2 Qe4+ 30. Qg2 (30. Kg1 $143
+Rxf1+ 31. Rxf1 Rc2 $19) 30... Qxd4 $17) 20. h3 $11 Nb8 21. Kg2 {White king
+safety dropped} (21. a3 $142 Nc6 22. Rac1 Rxf1+ 23. Rxf1 Rf8 24. Rxf8+ Kxf8 $11
+) (21. Rad1 $142 Nc6 22. Kg2 a5 23. Qd2 Qxd2+ 24. Rxd2 Rxf1 25. Kxf1 $11) 21...
+Nc6 22. a3 {Consolidates b4} Ne7 23. Rad1 Ng6 24. Kh2 Rxf1 25. Nxf1 $2 (25.
+Rxf1 $5 {looks like a viable alternative} Nf4 26. Qd1 $15 Qh6 27. Nh5 Nxh5 28.
+gxh5 Qe3 $15) 25... Rf8 (25... Rc1 $142 26. Qe3 (26. Rxc1 $143 Qxc1 27. Ne3
+Qxb2+ $19) 26... Rc2+ 27. Kh1 Qxe3 28. Nxe3 Rxb2 29. Rc1 $19) 26. Qg3 $2 (26.
+Qe3 Qxe3 27. Nxe3 Rf2+ 28. Kg3 Rxb2 $17) 26... Nh4 $19 27. Nd2 (27. Qe3 Qg6 28.
+Qe2 Nf3+ 29. Kg2 h5 $19) 27... Rf4 (27... h5 $142 {seems even better} 28. gxh5
+Qxh5 29. Re1 $19 Rf5 30. Re3 (30. Rg1 Qh6 31. Kh1 Rh5 32. Qc3) 30... Qd1 31.
+Qe1 Qc2 32. Kh1 Rf4 33. Rc3 Qxb2) 28. Qe3 Rxg4 29. Qxg5 Rxg5 30. Rg1 Rf5 31.
+Kg3 g5 32. Rc1 Rf7 33. Rc3 (33. Kg4 h6 $19) 33... Nf5+ 34. Kg4 Nxd4 35. Kxg5
+Kg7 36. Kg4 (36. Rd3 Nc6 37. Nf3 Rf5+ 38. Kh4 Nxe5 39. Nxe5 Rxe5 40. Kg3 $19)
+36... Kg6 37. h4 h5+ 38. Kg3 (38. Kh3 {a last effort to resist the inevitable}
+Rf2 39. Rg3+ Kf5 40. Nb3 Kxe5 41. Nxd4 Kxd4 42. Rg5 $19) 38... Ne2+ (38... Ne2+
+39. Kg2 Nxc3 40. bxc3 Rc7 $19) 0-1
+
+[Event "ICC 90 30"]
+[Site "Internet Chess Club"]
+[Date "2015.10.11"]
+[Round "?"]
+[White "diegoami"]
+[Black "pishd"]
+[Result "1/2-1/2"]
+[ECO "C10"]
+[WhiteElo "1775"]
+[BlackElo "1769"]
+[Annotator "Komodo 9.02 64-bit (20m)"]
+[PlyCount "83"]
+[EventDate "2015.??.??"]
+
+{C10: French with 3 Nc3: Unusual Black 3rd moves and 3...dxe4} 1. e4 e6 2. d4
+d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 c5 {last book move. Black is
+behind in developement. Black's piece can't move: c8} 7. Bg5 (7. Nxf6+ Nxf6 8.
+Be3 Qc7 $14) ({most common is} 7. O-O Nxe4 8. Bxe4 Nf6 9. Bd3 cxd4 10. Nxd4 Bc5
+11. Nf3) 7... h6 {Black threatens to win material: h6xg5} 8. Bh4 cxd4 9. Nxd4 {
+White has a very active position.} Qa5+ 10. c3 {Controls b4} Nxe4 11. Bxe4 Qe5
+12. Qe2 Nc5 {Black threatens to win material: Nc5xe4} 13. Bc2 Qxe2+ 14. Kxe2 {
+White loses the right to castle} Bd7 15. Rhe1 Be7 16. Bxe7 Kxe7 {Black loses
+the right to castle} 17. Kf1 {White king safety improved} Kf6 18. Rad1 Rhe8 19.
+f4 Rad8 20. g3 Na4 21. Bxa4 {Sacrifices material} Bxa4 22. b3 {White threatens
+to win material: b3xa4} Bd7 23. c4 e5 24. fxe5+ Rxe5 25. Rxe5 Kxe5 26. Nf3+ Kf6
+27. Kf2 Ke7 28. Ne5 Be6 29. Rxd8 Kxd8 {A minor pieces endgame occured} 30. Ke3
+f6 {Black threatens to win material: f6xe5} 31. Nd3 Bf5 32. a3 Kc7 33. b4 g5
+34. Kd4 Kd6 35. c5+ {White gets more space} Kc6 36. Nb2 b6 37. cxb6 axb6 38. a4
+Bc2 39. Kc3 {White threatens to win material: Kc3xc2} Bb1 (39... Bg6 40. Nd3 {
+Komodo 9.02 64-bit:} Kb7 41. Kd4 Ka6 42. Nf2 f5 43. Ke5 Be8 44. a5 bxa5 45.
+bxa5 Bd7 46. Nd1 h5 47. Kf6 f4 48. Kxg5 fxg3 49. hxg3 Bg4 50. Ne3 Bf3 51. Nf5
+Kxa5 52. Ng7 Kb5 53. Nxh5 Kc4 54. Nf6 Kd4 55. Kf4 Be2 56. Ne4 Bd1 57. Nf2 Be2
+58. Ng4 Kd5 59. Ne3+ Ke6 {[%eval 52,31]}) 40. Kd4 Bc2 {Twofold repetition} 41.
+Kc3 Bb1 42. Nc4 1/2-1/2
+
+[Event "ICC 90 30"]
+[Site "Internet Chess Club"]
+[Date "2015.11.16"]
+[Round "?"]
+[White "diegoami"]
+[Black "idjit"]
+[Result "0-1"]
+[ECO "B28"]
+[WhiteElo "1759"]
+[BlackElo "1595"]
+[PlyCount "44"]
+[EventDate "2015.??.??"]
+[TimeControl "5400+30"]
+
+1. e4 c5 2. Nf3 a6 3. c3 d5 4. exd5 Qxd5 5. Na3 e6 6. Bc4 Qe4+ 7. Be2 b5 8. O-O
+Bb7 9. d3 Qc6 10. Bf4 Nf6 11. Qd2 Be7 12. Rfe1 O-O 13. Bf1 Nbd7 14. Nc2 Rad8
+15. Ne3 Nh5 16. Nf5 Bf6 17. Nd6 Nxf4 18. Qxf4 e5 19. Qe4 Qxd6 20. Qxb7 c4 21.
+dxc4 Nc5 22. Qd5 Qc7 {White resigns} 0-1
+
+[Event "ICC 90 30"]
+[Site "Internet Chess Club"]
+[Date "2015.11.15"]
+[Round "?"]
+[White "pishd"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "1771"]
+[BlackElo "1775"]
+[PlyCount "99"]
+[EventDate "2015.??.??"]
+[TimeControl "5400+30"]
+
+1. d4 e6 2. Nf3 f5 3. e3 Nf6 4. Bd3 b6 5. c4 Bb7 6. Nc3 Be7 7. Qe2 Ne4 8. Nd2
+d5 9. Ndxe4 fxe4 10. Bc2 O-O 11. Bd2 a5 12. O-O Nd7 13. f3 exf3 14. Rxf3 Nf6
+15. Rh3 Bd6 16. b3 Qd7 17. Rf1 g6 18. e4 dxe4 19. Bh6 Rf7 20. Nxe4 Nxe4 21.
+Rxf7 Qxf7 22. Bxe4 Bxe4 23. Qxe4 Re8 24. Rf3 Qd7 25. Rf6 Bf8 26. Bxf8 Rxf8 27.
+Qxe6+ Qxe6 28. Rxe6 Kf7 29. d5 Rd8 30. Kf2 Rd7 31. Ke3 Rd8 32. Kd4 Rd7 33. Ke5
+Rd8 34. a3 Rd7 35. b4 axb4 36. axb4 Rd8 37. c5 bxc5 38. bxc5 Rb8 39. d6 cxd6+
+40. Rxd6 Ke7 41. Kd5 Rb2 42. Kc6 Rxg2 43. Rd7+ Ke6 44. Rxh7 g5 45. Kc7 Rc2 46.
+c6 Kd5 47. Rh6 Rf2 48. Kb7 Rb2+ 49. Kc8 Rf2 50. c7 {Black resigns} 1-0
+
+[Event "Team 45 45 League T67"]
+[Site "Internet Chess Club"]
+[Date "2015.12.11"]
+[Round "2"]
+[White "sockbuf"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "A90"]
+[WhiteElo "1805"]
+[BlackElo "1723"]
+[Annotator "Komodo 9.02 64-bit (15m)"]
+[PlyCount "89"]
+[EventDate "2015.??.??"]
+
+{A90: Dutch Defence: Miscellaneous and Modern Stonewall (with ...Bd6)} 1. d4 e6
+2. c4 f5 3. Nf3 Nf6 4. g3 d5 5. Bg2 c6 6. O-O Bd6 7. Nc3 O-O {last book move}
+8. c5 {White threatens to win material: c5xd6} Bc7 9. b4 Ne4 {Black threatens
+to win material: Ne4xc3} (9... Nbd7 $142 $11) 10. Qc2 Nd7 (10... a5 11. b5 Nxc3
+12. b6 Bxb6 13. Qxc3 Bc7 $14) 11. Bf4 Bxf4 12. gxf4 Ndf6 (12... b6 13. Rfc1 $11
+Ba6 14. e3 bxc5 15. bxc5 Qa5 $11) 13. Ne5 {The white knight is well posted.}
+Qe8 (13... Nd7 $142 $14) 14. a4 {[%cal Yb4b5] White intends b5} Qh5 (14... a5
+$142 $14) 15. Nxe4 fxe4 {Black has new doubled pawns: e4+e6} 16. Ra3 Qh6 17. b5
+(17. Rh3 Qxf4 18. e3 $14) 17... Bd7 $2 $11 (17... Qxf4 $5 18. bxc6 bxc6 (18...
+Ng4 $144 19. Nxg4 Qxg4 $14) 19. Rg3 (19. Nxc6 $143 Ba6 $11) 19... Ba6 20. Re1
+Nh5 21. e3 Qh6 $14) 18. Bh3 $14 (18. Qd2 $5 Qh5 $16) 18... Rae8 19. Qd2 cxb5
+20. Nxd7 Nxd7 21. axb5 Rxf4 22. Kh1 {White king safety improved} Ref8 (22...
+Nf8 $5 $14) 23. Rg1 $16 Kh8 24. Rag3 (24. Qe3 g5 25. Rxa7 $18) 24... Rh4 $2 (
+24... R8f7 $142 $14 {would keep Black alive} 25. Qa5 Qf6 26. Qxa7 $16) 25. Qxh6
+$18 Rxh6 26. Rxg7 Rd8 27. c6 (27. R7g3 $5 Ra8 $18) 27... bxc6 $16 28. bxc6 Nb6
+29. c7 Rc8 30. R7g3 Rf6 31. Rg7 (31. Rc3 $5 Rh6 32. Rg5 $16) 31... Rh6 32. R7g3
+Rf6 33. Rc3 Nc4 34. Rb3 Nb6 35. Rc3 (35. Rc1 $142 $5 Kg7 36. Rc6 $18) 35... Nc4
+$14 36. Rb3 {Twofold repetition} Nb6 37. Rc1 Kg7 38. Rc6 Kf7 (38... Na8 $142
+39. Rb7 Rf7 40. Bxe6 Rcxc7 41. Bxf7 Rxb7 42. Bxd5 Rd7 43. Bxe4 Rxd4 $18) 39.
+Ra3 Ke7 40. Rxa7 Nc4 (40... Na8 41. Rxa8 $1 {touché!} Rxa8 $18) 41. Raa6 Rxf2 (
+41... Kf8 {the last chance for counterplay} 42. Bxe6 Rxe6 43. Rxe6 Rxc7 44.
+Rf6+ Rf7 45. Rxf7+ Kxf7 $18) 42. Rxe6+ Kf8 43. Rf6+ (43. Rec6 $142 {and White
+takes home the point} Rxc7 44. Rxc7 Rf7 45. Rxf7+ Kxf7 46. Be6+ Ke7 47. Bxd5
+Nd6 $18) 43... Rxf6 44. Rxf6+ Ke7 45. Rc6 (45. Rc6 Ra8 46. c8=Q Rxc8 47. Bxc8
+$18) 1-0
+
+[Event "ICC 90 30"]
+[Site "Internet Chess Club"]
+[Date "2015.11.16"]
+[Round "?"]
+[White "diegoami"]
+[Black "idjit"]
+[Result "0-1"]
+[ECO "B28"]
+[WhiteElo "1759"]
+[BlackElo "1595"]
+[Annotator "Komodo 9.02 64-bit (10m)"]
+[PlyCount "44"]
+[EventDate "2015.??.??"]
+
+{B28: Sicilian: 2 Nf3 a6 (O'Kelly Variation)} 1. e4 c5 2. Nf3 a6 3. c3 d5 4.
+exd5 Qxd5 {last book move. White king safety dropped} 5. Na3 (5. d4 $142 cxd4
+6. cxd4 Nf6 7. Nc3 Qd6 8. g3 e6 $16) 5... e6 6. Bc4 Qe4+ 7. Be2 b5 8. O-O Bb7
+9. d3 {White threatens to win material: d3xe4} (9. Re1 $142 Qc6 10. d4 cxd4 11.
+c4 b4 12. Nc2 $16) 9... Qc6 10. Bf4 Nf6 11. Qd2 (11. d4 $142 c4 (11... cxd4
+$144 12. c4 Bxa3 13. bxa3 bxc4 14. Qxd4 $11) 12. Nc2 $11) 11... Be7 {Black
+should quickly conclude development.} 12. Rfe1 O-O 13. Bf1 (13. Nc2 $142 Nbd7
+14. a4 $11) 13... Nbd7 $15 14. Nc2 Rad8 15. Ne3 (15. a4 $142 Qb6 16. Ne5 Nd5
+17. Bg3 h6 $11) 15... Nh5 {Black threatens to win material: Nh5xf4} 16. Nf5 {
+White threatens to win material: Nf5xe7} Bf6 17. Nd6 (17. Ng3 $5 Nxf4 18. Qxf4
+$15) 17... Nxf4 $17 18. Qxf4 $2 (18. Nxb7 Nxg2 19. Bxg2 Qxb7 20. Ne5 $17) 18...
+e5 $4 {Black threatens to win material: e5xf4. hands over the advantage to the
+opponent} (18... Qc7 $142 {secures victory} 19. Qg3 Bxf3 20. gxf3 Be5 21. Rxe5
+Nxe5 22. Qxe5 Qxd6 $19) 19. Qe4 $17 Qxd6 20. Qxb7 c4 21. dxc4 (21. d4 $5 exd4
+22. cxd4 $17) 21... Nc5 22. Qd5 $4 {simply worsens the situation} (22. Qa7 $142
+Ra8 23. Rad1 $19) 22... Qc7 $19 0-1
+
+[Event "ICC 90 30"]
+[Site "Internet Chess Club"]
+[Date "2015.11.15"]
+[Round "?"]
+[White "pishd"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "A85"]
+[WhiteElo "1771"]
+[BlackElo "1775"]
+[Annotator "Komodo 9.02 64-bit (10m)"]
+[PlyCount "99"]
+[EventDate "2015.??.??"]
+
+{A85: Dutch Defence: 2 c4 Nf6 3 Nc3} 1. d4 e6 2. Nf3 f5 3. e3 Nf6 4. Bd3 b6 5.
+c4 Bb7 6. Nc3 {last book move} Be7 7. Qe2 Ne4 8. Nd2 d5 9. Ndxe4 fxe4 10. Bc2
+O-O 11. Bd2 a5 12. O-O Nd7 13. f3 exf3 14. Rxf3 {Black king safety dropped.}
+Nf6 15. Rh3 Bd6 (15... Qd7 16. Rf1 $11) 16. b3 (16. e4 dxe4 17. Nxe4 Bxe4 18.
+Bxe4 Nxe4 19. Qxe4 $18) 16... Qd7 17. Rf1 g6 {Consolidates f5} 18. e4 dxe4 19.
+Bh6 Rf7 (19... Bb4 $5 {is noteworthy} 20. Rd1 Bxc3 21. Rxc3 Rf7 $11) 20. Nxe4
+$14 Nxe4 21. Rxf7 Qxf7 22. Bxe4 Bxe4 23. Qxe4 Re8 24. Rf3 {White threatens to
+win material: Rf3xf7} Qd7 25. Rf6 {[%cal Re4e6,Rf6e6,Gd7e6,Ge8e6] The isolani
+on e6 becomes a target} Bf8 (25... Bb4 $142 $5 $14 {is an interesting idea})
+26. Bxf8 $16 Rxf8 27. Qxe6+ Qxe6 28. Rxe6 Kf7 29. d5 Rd8 30. Kf2 Rd7 31. Ke3
+Rd8 32. Kd4 Rd7 33. Ke5 Rd8 34. a3 Rd7 35. b4 axb4 36. axb4 Rd8 37. c5 {
+[%cal Yd5d6] White prepares the advance d6} bxc5 38. bxc5 Rb8 (38... Ra8 39. g3
+$18) 39. d6 (39. Ra6 $142 $5 {and White can already relax} h5 40. Ra7 Re8+ 41.
+Kf4 Kf6 42. Rxc7 g5+ 43. Kf3 g4+ 44. Kf2 h4 $18) 39... cxd6+ 40. Rxd6 Ke7 $2 (
+40... Re8+ 41. Kd5 Re2 42. Rd7+ Ke8 43. Rxh7 Rxg2 44. Kd6 Rd2+ 45. Kc7 $18) 41.
+Kd5 (41. Rb6 $142 {makes sure everything is clear} Rc8 42. c6 $18) 41... Rb2
+$16 42. Kc6 Rxg2 43. Rd7+ Ke6 44. Rxh7 g5 $4 {terrible, but what else could
+Black do to save the game?} (44... Ke5 45. h4 $18) 45. Kc7 (45. Rh6+ {keeps an
+even firmer grip} Ke7 46. Kb7 Rb2+ 47. Kc8 Rd2 $18) 45... Rc2 $2 (45... Kf5 46.
+c6 $18) 46. c6 Kd5 $4 {sad, but how else could Black save the game?} (46... Kf5
+47. Rh6 g4 48. Rh5+ Ke6 $18) 47. Rh6 Rf2 48. Kb7 Rb2+ 49. Kc8 Rf2 (49... Rb6 {
+a last effort to resist the inevitable} 50. Kd7 Ke5 $18) 50. c7 1-0
+
+[Event "Team 45 45 League T67"]
+[Site "Internet Chess Club"]
+[Date "2015.12.19"]
+[Round "3"]
+[White "diegoami"]
+[Black "Tobiasdelmonte"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "1745"]
+[BlackElo "1832"]
+[Annotator "Komodo 9.02 64-bit (15m)"]
+[PlyCount "113"]
+[EventDate "2015.??.??"]
+
+{B03: Alekhine's Defence: Four Pawns Attack} 1. e4 Nf6 2. e5 Nd5 3. d4 d6 4.
+exd6 exd6 5. Nf3 Be7 6. c4 Nb6 7. Nc3 Nc6 8. h3 O-O {last book move. Black
+castles and improves king safety} 9. Bd3 Nb4 10. Bb1 Bf6 {Black has a cramped
+position} 11. a3 {White threatens to win material: a3xb4} (11. O-O Be6 12. a3
+Na6) 11... Re8+ 12. Be3 {Black has a cramped position} Nc6 13. O-O g6 {Secures
+f5} 14. Bd3 Bg7 15. Qc2 Qf6 $2 (15... d5 $5 {is an interesting alternative} 16.
+cxd5 Nxd5 17. Nxd5 Qxd5 $14) 16. Rfe1 h6 17. Qd2 {White has a very active
+position} Kh7 $2 (17... Bf5 18. b3 Bxd3 19. Qxd3 $16) 18. Nb5 $4 {gives the
+opponent new chances} (18. Bg5 $142 $5 {seems even better} Qxf3 (18... hxg5 19.
+Nxg5+ Kg8 20. Rxe8+ Bf8 21. Rxf8+ Kxf8 22. Nh7+) (18... Rxe1+ 19. Rxe1 hxg5 20.
+Nxg5+ Kg8 21. Re8+ Bf8 22. Rxf8+ Kxf8 23. Nh7+) 19. gxf3 Nxd4 20. Rxe8 Nxf3+
+21. Kh1 Nxd2 22. Bxd2 Bxh3 23. Rxa8 Nxa8 24. Re1 $18) 18... Re7 19. Bf4 (19. d5
+Ne5 20. Nxe5 dxe5 $18) 19... Rxe1+ 20. Rxe1 Bf5 21. d5 Bxd3 22. dxc6 bxc6 23.
+Nxc7 Rc8 24. Ne8 Rxe8 25. Rxe8 Bxc4 26. Qxd6 Qxd6 27. Bxd6 Bxb2 28. Be5 Bxe5
+29. Nxe5 Bd5 30. Re7 Kg7 31. Rxa7 Kf6 32. Nd7+ (32. Nxc6 $5 {makes it even
+easier for White} Bxc6 33. Ra6 Ke5 $18) 32... Nxd7 33. Rxd7 Ke6 34. Rd8 Ke7 35.
+Rb8 c5 36. f3 Kd6 37. Kf2 Kc7 38. Rb5 Kc6 39. Rb2 c4 40. Ke3 Kc5 41. Rb4 h5 42.
+Kd2 Kd4 43. a4 g5 44. a5 f5 45. a6 g4 (45... Bc6 {hardly improves anything} 46.
+a7 $18) 46. hxg4 (46. Rb5 $142 $5 {keeps an even firmer grip} Bc6 47. Rxf5 c3+
+48. Kc2 Ba4+ 49. Kc1 gxh3 50. gxh3 Bd7 $18) 46... fxg4 47. fxg4 h4 (47... hxg4
+{cannot change what is in store for White} 48. g3 Bf3 49. a7 $18) 48. g5 Bxg2 (
+48... Be4 $18 {praying for a miracle}) 49. g6 h3 50. g7 h2 (50... Bd5 {no good,
+but what else?} 51. a7 h2 $18) 51. g8=Q h1=Q 52. Qxc4+ Ke5 53. Rb5+ (53. Qc7+
+Kf5 54. Rf4+ Ke6 55. Qc8+ Ke7 56. Qf8+ Ke6 57. Rf6+ Kd5 58. a7 Kc4 59. Rf4+ Be4
+60. a8=Q Qg2+ 61. Ke3 Qg3+ 62. Kxe4 Qe1+ 63. Kf5+ Kd3 64. Qd5+ Kc2 65. Qa2+ Kd1
+66. Rd4+ Kc1 67. Qfa3#) 53... Kd6 54. Qd4+ (54. Rb6+ Bc6 55. a7 Qh6+ 56. Kc2
+Ke5 57. Rxc6 Qh2+ 58. Kb3 Qg2 59. a8=Q Qf3+ 60. Qc3+ Qxc3+ 61. Kxc3 Kf4 62.
+Qf8+ Kg5 63. Kc4 Kh5 64. Qg7 Kh4 65. Rh6#) 54... Ke6 55. Rb6+ (55. Re5+ Kf7 56.
+Qf4+ Kg7 57. Rg5+ Kh6 58. Qf6+ Kh7 59. Qg7#) 55... Kf5 56. Rf6+ Kg5 57. Qf4+ (
+57. Qf4+ Kh5 58. Rh6#) 1-0
+
+[Event "Team 45 45 League T67"]
+[Site "Internet Chess Club"]
+[Date "2016.01.09"]
+[Round "5"]
+[White "laurenpar"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "A13"]
+[WhiteElo "1958"]
+[BlackElo "1737"]
+[Annotator "Komodo 9.02 64-bit (15m)"]
+[PlyCount "41"]
+[EventDate "2016.??.??"]
+
+{A13: English Opening: 1...e6} 1. Nf3 c5 2. g3 Nf6 3. Bg2 d5 4. c4 e6 5. O-O {
+last book move} Bd6 6. d4 O-O 7. cxd5 Nxd5 8. e4 Nb6 9. e5 {White threatens to
+win material: e5xd6} Be7 10. dxc5 Qxd1 11. Rxd1 Bxc5 12. Nc3 {Black has a
+cramped position} Nc6 13. Ne4 {White threatens to win material: Ne4xc5} Be7 14.
+b3 {Black has a cramped position} Nd5 15. Bb2 b6 {Prevents intrusion on c5} 16.
+Rac1 {White threatens to win material: Rc1xc6} Bb7 17. a3 {White has an active
+position} Rfd8 18. Nfd2 Nc7 $4 (18... f6 $142 $14 {had to be tried to avoid
+defeat}) 19. Nd6 $18 Bxd6 20. Bxc6 Bxc6 21. Rxc6 (21. Rxc6 Bxe5 22. Bxe5 $18)
+1-0
+
