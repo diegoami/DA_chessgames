@@ -424,3 +424,27 @@ was 32. Qb2. } ( 32.Qb2 32...Qxb2 33.Rxb2 33...Be5 34.Qb7 34...Be8 35.Ra8 35...B
 Bh2+ 34.Kxh2 Qh4 35.Ra4 Qh5 36.Qd4 g5 { (+11.32 → ♔ Mate in 9) Mistake. The best
 move was 36... Bg4+. } ( 36...Bg4+ 37.Kg1 37...Bf5 38.Qh4 38...Qxh4 39.Rxh4 39...Bxb1
 40.Qxb1 40...h6 41.Qb7 ) 37.Kg1  1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.08.15"]
+[Round "?"]
+[White "pakikay"]
+[Black "diegoami"]
+[Result "1-0"]
+[WhiteElo "1796"]
+[BlackElo "1797"]
+[ECO "B44"]
+[TimeControl "1 in 7 days"]
+[EndDate "2017.08.30"]
+[Termination "pakikay won by resignation"]
+[CurrentPosition "2r1r1k1/pp1b1ppp/1b2n2q/3p4/3N1Pn1/2P2RB1/PP2B1PP/R2Q1NK1 w - - 13 21"]
+
+1.e4 c5 2.Nf3 e6 3.d4 cxd4 4.Nxd4 Nc6 5.c3 Nf6 6.Bd3 Bc5 7.Nb3 Bb6 8.O-O O-O 9.Bg5 d5
+10.exd5 exd5 11.N1d2 Ne5 12.Be2 Qd6 13.Nd4 Bd7 14.f4 { (-0.09 → -0.93) Inaccuracy. A
+better move was 14. Bf3. } ( 14.Bf3 Nxf3+ 15.Qxf3 Bg4 16.Qf4 Qxf4 17.Bxf4 Rfe8 18.Rfe1
+Rxe1+ ) 14...Neg4 15.Rf3 Rfe8 16.Nf1 Ne4 17.Bh4 Qh6 18.Bg3 Rac8 19.Rd3 { (-1.04 →
+-1.93) Inaccuracy. A better move was 19. h3. } ( 19.h3 Nxg3 20.Nxg3 Ne3 21.Qd2 Nc2
+22.Rd1 Nxd4 23.cxd4 Qf6 ) 19...Nc5 ( 19...Re7 { (-1.91 → +3.04) Blunder. The best
+move was 19... Nc5. } 20.Bxg4 ) 20.Rf3 ( 20.Bf3 Nxd3 21.Qxd3 Qg6 22.Qxg6 hxg6 23.Rd1
+Nf6 24.Bf2 ) 20...Ne6 21.a4 Qf6 22.Rd3 Nxd4 23.cxd4 Rc4 24.Bxg4 Rxd4 25.Rxd4 Bxg4  1-0
