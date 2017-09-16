@@ -475,3 +475,101 @@ Nxd4 23.cxd4 Rc4 24.Bxg4 Rxd4 25.Rxd4 Bxg4 1-0
 11.Nxg6 hxg6 12.f4 f6 13.g4 { (-0.26 → -0.96) Inaccuracy. A better move was 13. h3. }
 ( 13.h3 13...Nd4 14.O-O 14...f5 15.Ba2 15...O-O-O 16.Rae1 16...Kb8 17.b4 17...Rc8 )
 13...Nd4 14.Qf2 g5 15.Bxd4 cxd4 16.Ne2 gxf4  0-1
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.07.26"]
+[Round "?"]
+[White "diegoami"]
+[Black "Crafty64"]
+[Result "1/2-1/2"]
+[WhiteElo "1809"]
+[BlackElo "1809"]
+[ECO "C03"]
+[TimeControl "1 in 10 days"]
+[CurrentPosition "8/p4p1p/1p1np1p1/3k4/3P2P1/1P1K1P1P/P7/2B5 b - - 0 30"]
+[Termination "Game drawn by agreement"]
+[EndDate "2017.09.09"]
+
+1.e4 e6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nd7 5.Nf3 Ngf6 6.Bd3 c5 7.dxc5 Nxc5 8.Nxc5
+Bxc5 9.O-O O-O 10.Bg5 b6 11.Qe2 Bb7 12.Ba6 Bxa6 13.Qxa6 Qc8 14.Qxc8 Raxc8 15.c3
+Ne4 16.Bf4 Rcd8 17.Rae1 Nf6 18.Rd1 Ne4 19.Nd4 Bxd4 20.Rxd4 Rxd4 21.cxd4 Rc8 22.
+Rc1 Rxc1+ 23.Bxc1 Kf8 24.f3 Nd6 25.b3 Ke8 26.Kf2 Kd7 27.Ke2 Kc6 28.Kd3 Kd5 29.
+g4 g6 30.h3 1/2-1/2
+
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.07.28"]
+[Round "?"]
+[White "diegoami"]
+[Black "jawadirfan"]
+[Result "1-0"]
+[WhiteElo "1819"]
+[BlackElo "1819"]
+[ECO "C44"]
+[TimeControl "1 in 10 days"]
+[CurrentPosition "7k/6Q1/5P2/7p/6P1/7K/6P1/8 b - - 1 71"]
+[Termination "diegoami won by checkmate"]
+[EndDate "2017.09.16"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Bb4+ 5.c3 dxc3 6.O-O
+{ C44: Scotch Game: Scotch Gambit, London Defense, 5.c3 dxc3 6.O-O } f6
+{ (+0.21 → +1.03) Inaccuracy. A better move was 6... Nge7. } (6...Nge7 7.Ng5
+Ne5 8.Nxf7 Nxf7 9.Bxf7+ Kxf7 10.Qb3+ d5 11.Qxb4) 7.Nxc3 Nge7 8.Bf4
+{ (+1.47 → +0.14) Mistake. The best move was 8. Nd5. } (8.Nd5 Nxd5 9.exd5 b5
+10.dxc6 bxc4 11.Qd5 Kf8 12.cxd7 Bxd7) 8...Bxc3 9.bxc3 Na5 10.Bd3 O-O 11.Re1 Ng6
+12.Bg3 Nc6 { (-0.04 → +0.55) Inaccuracy. A better move was 12... d6. } (12...d6
+13.Bc2 Be6 14.Nd4 Bc4 15.f4 Qd7 16.h4 Ne7 17.e5) 13.Rb1 Nce5 14.Nd4 Nxd3 15.
+Qxd3 b6 { (-0.29 → +1.24) Mistake. The best move was 15... Kh8. } (15...Kh8 16.
+f4 b6 17.a4 d6 18.a5 Bd7 19.a6 Qe8 20.h3) 16.Nb5 a6
+{ (+1.39 → +3.26) Mistake. The best move was 16... c6. } (16...c6 17.Qc4+ Kh8
+18.Nc7 Bb7 19.Nxa8 Qxa8 20.Bd6 Re8 21.f3) 17.Nxc7
+{ (+3.23 → +1.73) Mistake. The best move was 17. Bxc7. } (17.Bxc7 Qe8 18.Qd5+
+Qe6 19.Qxa8 axb5 20.Rxb5 Qc4 21.Qd5+ Qxd5) 17...Ra7 18.Qc4+ Kh8 19.Rxb6 Ne5 20.
+Bxe5 fxe5 21.Nd5 Bb7 22.Reb1 Bxd5 23.Qxd5 Qh4
+{ (+1.92 → +3.03) Inaccuracy. A better move was 23... Qc7. } (23...Qc7 24.R1b3
+Rc8 25.Rd6 a5 26.a4 h6 27.h3 Qc5 28.Rb8) 24.Qc5
+{ (+2.85 → +1.46) Mistake. The best move was 24. g3. } (24.g3 Qd8 25.Qxe5 Rc7
+26.Rb7 Rxb7 27.Rxb7 Qc8 28.Ra7 Qc6) 24...Raa8 25.Rxa6
+{ (+1.60 → +0.51) Inaccuracy. A better move was 25. Qe3. } (25.Qe3 Qf4 26.Qxf4
+exf4 27.Rd1 Rfe8 28.f3 Ra7 29.Rbd6 Rc8) 25...Rac8
+{ (+0.52 → +1.41) Inaccuracy. A better move was 25... Qxe4. } (25...Qxe4 26.Rf1
+h6 27.Rxa8 Rxa8 28.a3 Kh7 29.Ra1 Qc2 30.Re1) 26.Qe3 h6 27.f3 Rf6 28.Rxf6 Qxf6
+29.Rb6 Rc6 30.Rxc6 Qxc6 31.Qd2 d6 32.Kf2 Qb6+ 33.Kg3 Qc5 34.Qb2 Qc7 35.a4 Qf7
+36.a5 Qf4+ 37.Kf2 Qh4+ 38.Kf1 Qxh2 39.Qb6
+{ (+9.50 → +4.06) Blunder. The best move was 39. a6. } (39.a6 Qh1+ 40.Kf2 Qh4+
+41.Ke2 Qh1 42.Qb8+ Kh7 43.a7 Qxg2+) 39...Qh1+ 40.Qg1 Qh4 41.a6 Qd8 42.a7
+{ (+4.85 → +2.62) Mistake. The best move was 42. Qa7. } (42.Qa7 Qg5 43.Qb8+ Kh7
+44.Qxd6 Qc1+ 45.Kf2 Qa1 46.Qe6 h5) 42...Qa5 43.Qe3 Qa1+ 44.Kf2 Kh7
+{ (+3.21 → +6.18) Inaccuracy. A better move was 44... Qa5. } (44...Qa5 45.f4
+Kg8 46.Kf3 Kf7 47.f5 Qa6 48.Kg4 Kg8 49.Kh4) 45.Qb6 Qa2+ 46.Ke1 Qa1+ 47.Ke2
+{ (+9.52 → +4.90) Blunder. The best move was 47. Kd2. } (47.Kd2 Qa2+ 48.Kd3 d5
+49.Qb7 Qc4+ 50.Kd2 Qa2+ 51.Ke1 Qa1+) 47...Qxc3 48.Qxd6 Qc2+ 49.Qd2 Qc4+ 50.Kf2
+Qc5+ 51.Qe3 Qc2+ 52.Ke1
+{ (+10.32 → +6.12) Mistake. The best move was 52. Kg3. } (52.Kg3 Qa2 53.Qb6 h5
+54.Kh2 h4 55.Kh3 Qa1 56.Kxh4 Qh1+) 52...Qb1+ 53.Kf2 Qb2+ 54.Kg3 Qa1 55.Qf2
+{ (+8.31 → +4.75) Mistake. The best move was 55. Qc5. } (55.Qc5 h5 56.Kh2 Qa6
+57.Qc7 Qa2 58.Qe7 Qa6 59.Qf7 Kh6) 55...Qc1
+{ (+4.09 → ♔ Mate in 23) Blunder. The best move was 55... h5. } (55...h5 56.Kh4
+Qa5 57.Kg5 h4 58.Qe3 Qd8+ 59.Kf5 Qa5 60.Ke6) 56.a8=Q Qf4+ 57.Kh3 Qc1 58.Qg3
+{ (♔ Mate in 8 → ♔ Mate in 12) Excellent. Faster mate A better move was 58. Qfa2. }
+(58.Qfa2 Qh1+ 59.Kg4 h5+ 60.Kf5 g6+ 61.Kxe5 Qh2+ 62.f4 Qxf4+ 63.Kxf4 g5+ 64.
+Kxg5 Kg7 65.Q8g8#) 58...Qh1+ 59.Qh2 Qc1 60.Qxe5 Qh1+ 61.Qh2
+{ (♔ Mate in 5 → ♔ Mate in 9) Excellent. Faster mate A better move was 61. Kg3. }
+(61.Kg3 Qe1+ 62.Kg4 Qh4+ 63.Kxh4 g5+ 64.Kh5 g4 65.Qah8#) 61...Qc1 62.Qf8
+{ (♔ Mate in 7 → ♔ Mate in 8) Excellent. Faster mate A better move was 62. Qe5. }
+(62.Qe5 Qg5 63.Qee8 Qc5 64.Qg8+ Kg6 65.Qa6+ Qb6 66.Qxb6+ Kh5 67.Qb5+ g5 68.
+Qge8#) 62...Qg5 63.Qhf4
+{ (♔ Mate in 8 → ♔ Mate in 8) Excellent. Faster mate A better move was 63. Qf5+. }
+(63.Qf5+ Qxf5+ 64.exf5 Kg8 65.Qd6 Kh7 66.Qf8 h5 67.Kh4 g6 68.f6 g5+ 69.Kxg5 h4
+70.Qg7#) 63...Qh5+ 64.Qh4
+{ (♔ Mate in 7 → ♔ Mate in 7) Excellent. Faster mate A better move was 64. Kg3. }
+(64.Kg3 Qg5+ 65.Qxg5 hxg5 66.Kg4 Kg6 67.f4 Kh7 68.Kxg5 g6 69.Kf6 g5 70.Qg7#)
+64...Qe5 65.Qf5+ Qxf5+ 66.exf5 g5 67.Qh5
+{ (♔ Mate in 5 → ♔ Mate in 5) Excellent. Faster mate A better move was 67. Qe4. }
+(67.Qe4 g4+ 68.Qxg4 h5 69.Qg6+ Kh8 70.f6 h4 71.Qg7#) 67...g4+ 68.fxg4
+{ (♔ Mate in 4 → ♔ Mate in 4) Excellent. Faster mate A better move was 68. Qxg4. }
+(68.Qxg4 h5 69.Qg6+ Kh8 70.f6 h4 71.Qg7#) 68...Kg7 69.Qg6+ Kh8 70.f6 h5 71.Qg7#
+1-0
+
+
