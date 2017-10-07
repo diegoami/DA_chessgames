@@ -251,3 +251,108 @@ Bxh2+ 21.Kf1 Kh7 22.Nxd8 Rxf3+ 23.gxf3 Rxd8 24.Be4) 20.Qh5 h6
 Bxf7+ Kh8 22.Qxh4 c4 23.d4 Bxc2 24.Be6 Bc7 25.Nf7+) 21.Nxf7 1-0
 
 
+[Event "ICC 90 30"]
+[Site "Internet Chess Club"]
+[Date "2017.09.23"]
+[Round "-"]
+[White "diegoami"]
+[Black "cayo89"]
+[Result "0-1"]
+[WhiteElo "1637"]
+[BlackElo "1637"]
+[ECO "B07"]
+[TimeControl "5400+30"]
+[CurrentPosition "8/4kp2/5np1/1p2p3/4P3/pnPK1PN1/4N1P1/8 w - - 0 41"]
+[Opening "Pirc defense"]
+[Iccresult "White resigns"]
+[NIC "PU.08"]
+[Time "16:04:09"]
+
+1.e4 d6 2.d4 Nf6 3.f3 { B07: Pirc Defense: Lion's Jaw Variation } Nbd7 4.Be3 e5
+5.dxe5 dxe5 6.Bc4 c6 7.Ne2 Be7 8.O-O Qc7 9.Nbc3 Nf8 10.a3 Be6 11.Bxe6 Nxe6 12.
+Qe1 O-O 13.Qg3 Bc5 14.Bxc5 Nxc5 15.Rad1 Rad8 16.Qf2 b6 17.Ng3 g6 18.Rfe1 Ne6
+19.Nce2 Kg7 20.c3 Rxd1 21.Rxd1 Rd8 22.Rxd8 Qxd8 23.Qe3 Qd1+ 24.Kf2
+{ (-0.14 → -1.96) Mistake. The best move was 24. Nf1. } (24.Nf1 Ne8 25.Qd2 Qxd2
+26.Nxd2 Nd6 27.b4 b5 28.Nc1 Kf8) 24...Nc5 25.Nf5+
+{ (-1.92 → -6.33) Blunder. The best move was 25. Qg5. } (25.Qg5 Nd3+ 26.Ke3 Ng8
+27.Qd8 Nxb2 28.Qxd1 Nxd1+ 29.Kd2 Nb2) 25...Kf8 26.Qh6+ Ke8 27.Nfg3 Nd3+ 28.Ke3
+Nxb2 29.Qg5 Nc4+ { (-6.90 → -3.34) Blunder. The best move was 29... Nd7. } (
+29...Nd7 30.Kf2 Nd3+ 31.Ke3 Nf4 32.Nxf4 exf4+ 33.Kf2 fxg3+ 34.Kxg3) 30.Kf2 Qd6
+31.a4 a5 32.h4 b5 33.axb5 cxb5 34.h5 a4 35.hxg6 hxg6 36.Qh6 Ke7
+{ (-7.90 → -4.60) Mistake. The best move was 36... a3. } (36...a3 37.Nc1 Qc5+
+38.Kf1 Ne3+ 39.Ke2 Nxg2 40.Kd2 Qf2+ 41.Nge2) 37.Qc1 Qd2
+{ (-4.51 → -2.50) Mistake. The best move was 37... Qc5+. } (37...Qc5+ 38.Ke1
+Ne3 39.Qb1 a3 40.Qb3 Nxg2+ 41.Kd2 Ne3 42.Ke1) 38.Qxd2 Nxd2 39.Ke3
+{ (-2.55 → -6.97) Mistake. The best move was 39. Nc1. } (39.Nc1 Nc4 40.Ke2 Kd6
+41.Nd3 Ne8 42.Nf1 Ng7 43.Nd2 a3) 39...Nb3 40.Kd3 a3 0-1
+
+
+[Event "ICC 90 30"]
+[Site "Internet Chess Club"]
+[Date "2017.10.07"]
+[Round "-"]
+[White "nectarine"]
+[Black "diegoami"]
+[Result "1-0"]
+[WhiteElo "1723"]
+[BlackElo "1723"]
+[ECO "B40"]
+[TimeControl "5400+30"]
+[CurrentPosition "2b2k2/5npp/r4p2/p1rB1P2/1PN3P1/8/7P/R2R2K1 b - - 0 34"]
+[Opening "Sicilian defense"]
+[Iccresult "Black resigns"]
+[NIC "SI.43"]
+[Time "15:01:26"]
+
+1.e4 c5 2.Nf3 e6 3.c3 d5 4.exd5 exd5 5.d4
+{ B22: Sicilian Defense: Alapin Variation, 2...e6 3.d4 d5 4.exd5 exd5 5.Nf3 }
+Nf6 6.Bb5+ Bd7 7.Bd3 Nc6 8.Qe2+
+{ (+0.27 → -0.35) Inaccuracy. A better move was 8. O-O. } (8.O-O cxd4 9.cxd4
+Be7 10.Nc3 O-O 11.Re1 Re8 12.a3 Qb6) 8...Qe7 9.Ne5 cxd4 10.Bf4 Nxe5 11.Bxe5 Ng4
+12.Bxd4 Qxe2+ 13.Bxe2 f6 14.Bf3 Be6 15.O-O Ne5 16.Bh5+ Kd7 17.Nd2 Bd6 18.Bd1 a6
+19.Bb3 b5 20.Rfd1 Rhc8 21.a4
+{ (+0.72 → -0.05) Inaccuracy. A better move was 21. Bxe5. } (21.Bxe5 Bxe5 22.
+Nf3 Kd6 23.Rd2 a5 24.Rad1 Rc5 25.a3 Rb8) 21...Ke7 22.Bb6
+{ (+0.19 → -0.42) Inaccuracy. A better move was 22. Bxe5. } (22.Bxe5 fxe5 23.
+Nf1 Rc5 24.Ne3 d4 25.Bxe6 dxe3 26.Bd5 exf2+) 22...Rab8 23.a5 b4 24.cxb4 Bxb4
+25.Nf1 Bc5 { (-0.53 → 0.00) Inaccuracy. A better move was 25... Nc4. } (25...
+Nc4 26.Ne3 Nxe3 27.fxe3 Bxa5 28.Bxa5 Rxb3 29.Bc3 Rc6 30.Ra4) 26.Bxd5 Bxb6 27.
+axb6 Rxb6 28.Ne3 Rc5 29.b3 a5 30.f4 Nf7
+{ (-0.27 → +0.71) Inaccuracy. A better move was 30... Ng4. } (30...Ng4 31.Nc4
+Rxb3 32.Bxe6 Kxe6 33.Rxa5 Rxa5 34.Nxa5 Rc3 35.Nb7) 31.f5 Bc8 32.Nc4 Ra6 33.g4
+Kf8 34.b4 { (+0.45 → -0.66) Inaccuracy. A better move was 34. Bxf7. } (34.Bxf7
+Kxf7 35.Rd8 h5 36.h3 hxg4 37.hxg4 g6 38.Nd6+ Rxd6) 34...Rb5
+{ (-0.47 → +1.67) Mistake. The best move was 34... axb4. } (34...axb4 35.Rac1
+h5 36.h3 Ng5 37.Bg2 Nf7 38.Bd5 h4 39.Kf1) 35.Bxf7 Kxf7 36.Nd6+ Rxd6 37.Rxd6
+axb4 { (+1.95 → +4.12) Mistake. The best move was 37... Rxb4. } (37...Rxb4 38.
+h3 Rb7 39.Rxa5 g6 40.Kf2 gxf5 41.gxf5 Bd7 42.Rd4) 38.Ra7+
+{ (+4.44 → +2.97) Inaccuracy. A better move was 38. Rd8. } (38.Rd8 Bxf5 39.gxf5
+Ke7 40.Raa8 Rxf5 41.Rdb8 Rg5+ 42.Kf2 Rf5+) 38...Ke8 39.Rd2
+{ (+3.04 → +0.70) Blunder. The best move was 39. Rxg7. } (39.Rxg7 b3 40.Rc6 Kd8
+41.Rxf6 Bd7 42.Rd6 Rb7 43.Rd1 b2) 39...b3 40.Rb2 Bb7 41.Ra1
+{ (+0.91 → +0.18) Inaccuracy. A better move was 41. Kf2. } (41.Kf2 h5 42.gxh5
+Rxf5+ 43.Ke3 Bd5 44.Rxg7 Rxh5 45.Ra7 Be6) 41...Ke7 42.Rc1 Kd6 43.Kf2 Bd5 44.Ke3
+Rb4 45.h3 Re4+ 46.Kd3 Rf4 47.Rd1 Kc5 48.Re1 Rd4+ 49.Kc3 Rc4+ 50.Kd2 Rd4+ 51.Kc1
+Kd6 { (-0.24 → +0.95) Inaccuracy. A better move was 51... Rc4+. } (51...Rc4+
+52.Kd2 Kb4 53.Re7 Rd4+ 54.Kc1 Rc4+ 55.Kd2 Be4 56.Rxg7) 52.Re3
+{ (+0.89 → +0.31) Inaccuracy. A better move was 52. Rd2. } (52.Rd2 Rxd2 53.Kxd2
+g6 54.h4 gxf5 55.gxf5 Bg2 56.Re6+ Kd5) 52...Rf4
+{ (+0.14 → +1.36) Inaccuracy. A better move was 52... Rc4+. } (52...Rc4+ 53.Kd2
+Rf4 54.Kc3 h5 55.Rd2 hxg4 56.hxg4 Rxg4 57.Re8) 53.Rd2 Rf1+ 54.Kb2 Kc5 55.Rc3+
+{ (+2.25 → +0.73) Mistake. The best move was 55. Re7. } (55.Re7 g6 56.Rc7+ Bc6
+57.fxg6 hxg6 58.Kxb3 Rf3+ 59.Kb2 Kb6) 55...Bc4 56.Rd7 Rf2+ 57.Kb1 Rf1+
+{ (0.00 → +1.41) Mistake. The best move was 57... Kb4. } (57...Kb4 58.Rc1 Bb5
+59.Rb7 Ka3 60.Ra7+ Ba4 61.Re1 Rh2 62.Rxg7) 58.Rc1 Rf4 59.Rxg7 Kb4 60.Rb7+ Ka3
+61.Ra7+ Kb4 62.Rb7+ Ka3 63.Ra7+ Kb4 64.Rc7
+{ (+0.87 → 0.00) Inaccuracy. A better move was 64. Rd7. } (64.Rd7 Ka3 65.Rd8
+Be2 66.Ra8+ Kb4 67.Rb8+ Ka3 68.Ra8+ Kb4) 64...Bd3+ 65.Ka1 Ka3 66.Ra7+ Kb4 67.
+Rb7+ Ka3 68.Ra7+ Kb4 69.Rd1 Kc3
+{ (0.00 → +1.86) Mistake. The best move was 69... Bc2. } (69...Bc2 70.Rb7+ Ka3
+71.Re1 Rf2 72.Ra7+ Kb4 73.Rb7+ Ka3 74.Ra7+) 70.Rc7+ Bc4 71.Rc1+ Kb4 72.R7xc4+
+Rxc4 73.Rxc4+ Kxc4 74.g5 Kd5 75.gxf6 Kd6 76.Kb2 Kd7 77.Kxb3 Ke8 78.Kc4 Kf7 79.
+Kd5 Kxf6 80.Ke4 Kf7 81.Ke5 Ke7 82.f6+ Kf7 83.h4 h5
+{ (+0.91 → ♔ Mate in 14) Blunder. The best move was 83... Kf8. } (83...Kf8 84.
+Kf4 Kg8 85.Kf5 Kf7 86.Ke5 Kf8 87.Kf4 Kg8 88.Kf5) 84.Kf5 Kf8 85.Kg6 Kg8 86.Kxh5
+Kf7 87.Kg5 Kg8 88.Kf5 Kf7 89.h5 Kf8 90.Ke6 Ke8 91.h6 1-0
+
+
