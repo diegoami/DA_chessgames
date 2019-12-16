@@ -675,3 +675,20 @@ Pro x64-popc}) 19. Qxe5 Bf6 (19... Bf6 20. Bf3 Qb6 {[%eval -592,35] Stockfish
 64-bit}) 20... Qxb2+ 21. Kd2 Bc3+ 22. Kd3 c4+ (22... c4+ 23. Kxc4 Rac8+ {
 [%eval -29995,25] Deep Fritz 14 x64}) 0-1
 
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2019.12.07"]
+[Round "?"]
+[White "ali2zy"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "B44"]
+[WhiteElo "1756"]
+[BlackElo "1798"]
+[PlyCount "36"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Bc4 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Nxc6 bxc6 7. Nc3 d5 8.
+exd5 cxd5 9. Bb5+ Bd7 10. O-O Bd6 11. Bxd7+ Qxd7 12. Bg5 Rb8 13. Bxf6 gxf6 14.
+f4 Rxb2 15. Qd4 Rxc2 16. Nd1 Bc5 17. Qxc5 Rxc5 18. g3 h5 0-1
+
