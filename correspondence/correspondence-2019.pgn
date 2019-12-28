@@ -556,10 +556,11 @@ Qf7 $18) 26... Bf5 $11 27. Re7 Qd6 28. Qh4 Qxe7 $4 (28... h5 $142 29. Bxf5 Rxf5
 31. Qc5 $2 (31. Qe6+ $142 Kh8 32. cxd4 $18) 31... d3 (31... Rxf4 $142 32. cxd4
 Rf2 33. Rg1 $11) 32. Kg1 Rae8 (32... Rxf4 33. Rxe4 dxe4 34. Qd5+ Kg7 $11) 33.
 g3 d2 $2 (33... g5 $142 34. fxg5 d2 35. Rd1 d4 36. Rxd2 $4 (36. Qxd4 Bf3 37.
-Qxd2 $11) 36... Bb7 $19) 34. Rd1 Bf3 $4 (34... g5 $142) 35. Rxd2 $18 g5 36.
-Rxd5 Bxd5 37. Qxd5+ Rf7 38. Qxg5+ Rg7 39. Qd5+ Kh8 40. Kf2 Rge7 41. c4 bxc4 42.
-Qxc4 Re6 43. f5 Rd6 44. g4 Red8 45. h4 h6 46. g5 hxg5 47. hxg5 Rd4 48. Qc7 R4d7
-49. Qe5+ Kg8 50. g6 Rd2+ 51. Ke3 R8d3+ 52. Kf4 Rf2+ 53. Kg5 Rg2+ 54. Kf6 1-0
+Qxd2 $11) 36... Bb7 $19) 34. Rd1 Bf3 $2 (34... g5 $142 35. Qd6 gxf4 36. gxf4
+$18) 35. Rxd2 $18 g5 36. Rxd5 Bxd5 37. Qxd5+ Rf7 38. Qxg5+ Rg7 39. Qd5+ Kh8 40.
+Kf2 Rge7 41. c4 bxc4 42. Qxc4 Re6 43. f5 Rd6 44. g4 Red8 45. h4 h6 46. g5 hxg5
+47. hxg5 Rd4 48. Qc7 R4d7 49. Qe5+ Kg8 50. g6 Rd2+ 51. Ke3 R8d3+ 52. Kf4 Rf2+
+53. Kg5 Rg2+ 54. Kf6 1-0
 
 [Event "Let's Play!"]
 [Site "Chess.com"]
@@ -744,30 +745,118 @@ exd5 cxd5 9. Bb5+ Bd7 10. O-O Bd6 11. Bxd7+ (11. Re1 O-O 12. Bg5 {[%eval -36,
 [EventDate "2019.??.??"]
 
 1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nf6 6. Bb5+ Bd7 7. Bxd7+ Nbxd7
-8. O-O Be7 9. Re1 O-O 10. dxc5 Bxc5 11. Nb3 Bb6 (11... Bb6 12. c3 Re8 {[%eval
-12,27] Komodo 10.2 64-bit}) 12. Bg5 (12. h3 Re8 13. Rxe8+ {[%eval 4,26] Komodo
-12 64-bit}) 12... Rc8 (12... h6 13. Bh4 Qc7 {[%eval -13,36] Stockfish 241119
-64 BMI2}) 13. c3 Qc7 (13... Re8 14. Rxe8+ Qxe8 {[%eval 10,33] Stockfish 10 64
-POPCNT}) 14. Nbd4 (14. a4 a5 15. Re7 {[%eval 64,33] Stockfish 10 64}) 14... a6
-15. Qd3 Ne4 16. Bh4 Ndc5 17. Qc2 h6 18. Nf5 Rfe8 19. Rad1 Qd7 20. N3d4 Ne6 21.
-Nf3 Qb5 22. Rxe4 (22. a4 Qc5 23. Ne5 {[%eval 39,28] Komodo 13.2 64-bit}) 22...
-dxe4 (22... dxe4 23. Nd6 Qh5 {[%eval -25,30] Komodo 13.02 64-bit}) 23. Nd6 (23.
-Nd6 Qb4 24. Nxc8 {[%eval -23,34] Stockfish 281119 64 POPCNT}) 23... Qc6 24. Ne5
-Qc7 25. Nxc8 Qxc8 26. Qxe4 Nc5 27. Qf4 Qc7 28. Bg3 Ne6 29. Qf5 Qe7 30. Rd7 Qf6
-31. Qxf6 gxf6 32. Ng4 Kg7 33. Kf1 Nc5 34. Rd6 Re6 35. Rd1 Na4 36. Rd2 (36. Rd5
-Nxb2 37. Bf4 {[%eval 78,34] Stockfish 131119 64 POPCNT}) 36... h5 (36... h5 37.
-Ne3 Bxe3 {[%eval 54,27] Deep Fritz 13}) 37. Ne3 (37. Ne3 Bxe3 38. fxe3 {
-[%eval 49,40] Stockfish 261119 64 POPCNT}) 37... Bxe3 (37... Bxe3 38. fxe3 Rb6
-{[%eval 28,36] Stockfish 101219 64 POPCNT}) 38. fxe3 (38. fxe3 Rb6 39. Rd4 {
-[%eval 27,42] Komodo 13.01 64-bit 64-bit}) 38... Rxe3 (38... Rb6 39. Rd4 Nxb2 {
-[%eval 26,28] Houdini 4 x64B}) 39. Bf2 Re5 40. Bd4 Rf5+ 41. Ke1 (41. Ke2 Nc5
-42. Bxc5 {[%eval 84,33] Komodo 13.02 64-bit}) 41... Nc5 (41... Nc5 42. Bxc5 {
-[%eval 68,32] Komodo 13.02 64-bit}) 42. Re2 (42. Bxc5 Re5+ 43. Kf2 {[%eval 119,
-34] Stockfish 10 64}) 42... Nd3+ 43. Kd1 Rf1+ 44. Kc2 Nf4 45. Re7 Nxg2 46. Rxb7
+8. O-O Be7 9. Re1 O-O 10. dxc5 Bxc5 11. Nb3 Bb6 12. Bg5 (12. h3 $144 Re8 13.
+Rxe8+ {[%eval 4,0] Komodo 12 64-bit}) (12. c3 $144) 12... Rc8 (12... h6 $142
+13. Bf4 Re8 $11) 13. c3 Qc7 14. Nbd4 (14. a4 $142 a5 15. Re7 $11) 14... a6 15.
+Qd3 (15. Nf5 $144) 15... Ne4 16. Bh4 (16. Be3 $144) 16... Ndc5 17. Qc2 h6 18.
+Nf5 Rfe8 19. Rad1 Qd7 20. N3d4 $2 (20. Ne3 $142 $1 $18) 20... Ne6 21. Nf3 (21.
+f3 $142 Nxd4 22. Nxd4 Ng5 $11) 21... Qb5 22. Rxe4 (22. a4 $142 Qc5 23. Qb3 Nxf2
+$2 24. Rxd5 $18) 22... dxe4 $1 $11 23. Nd6 $1 $11 Qc6 24. Ne5 $1 Qc7 25. Nxc8
+$2 (25. Nexf7 $142 Nd4 26. Qa4 $16 Qc6 27. Qxc6 Rxc6 $16) 25... Qxc8 26. Qxe4
+$11 Nc5 27. Qf4 $6 (27. Qb4 $142 Qe6 28. h3 $11) 27... Qc7 $2 (27... Qe6 $142
+28. Bg3 Bc7 $17) 28. Bg3 Ne6 (28... f6 $142 29. Nc4 Qxf4 $16) 29. Qf5 $16 Qe7
+30. Rd7 (30. h3 $144 Nf8 31. Nc4 $16) 30... Qf6 $2 (30... Rd8 $142 31. Rxd8+
+Bxd8 $16) 31. Qxf6 gxf6 32. Ng4 $6 (32. Rxb7 $142 Bd8 33. Nf3 $18) 32... Kg7
+33. Kf1 Nc5 34. Rd6 $6 (34. Rd5 $142 Kg6 35. Ne3 Na4 36. Nd1 $18) 34... Re6 (
+34... Ne4 35. Rd3 f5 36. Ne3 $18) 35. Rd1 (35. Ne3 $142) 35... Na4 36. Rd2 (36.
+Rd5 Nxb2 37. Bf4 {[%eval 78,8] Stockfish 131119 64 POPCNT}) 36... h5 (36... h5
+37. Ne3 Bxe3 {[%eval 54,4] Deep Fritz 13}) 37. Ne3 (37. Ne3 Bxe3 38. fxe3 {
+[%eval 49,9] Stockfish 261119 64 POPCNT}) 37... Bxe3 (37... Bxe3 38. fxe3 Rb6 {
+[%eval 28,8] Stockfish 101219 64 POPCNT}) 38. fxe3 (38. fxe3 Rb6 39. Rd4 {
+[%eval 27,7] Komodo 13.01 64-bit 64-bit}) 38... Rxe3 (38... Rb6 39. Rd4 Nxb2 {
+[%eval 26,6] Houdini 4 x64B}) 39. Bf2 Re5 40. Bd4 Rf5+ 41. Ke1 (41. Ke2 Nc5 42.
+Bxc5 {[%eval 84,4] Komodo 13.02 64-bit}) 41... Nc5 (41... Nc5 42. Bxc5 {
+[%eval 68,8] Komodo 13.02 64-bit}) 42. Re2 (42. Bxc5 Re5+ 43. Kf2 {[%eval 119,
+19] Stockfish 10 64}) 42... Nd3+ 43. Kd1 Rf1+ 44. Kc2 Nf4 45. Re7 Nxg2 46. Rxb7
 Ne1+ 47. Kd2 Rh1 48. Rb6 Nf3+ 49. Ke3 Nxd4 50. cxd4 Rxh2 51. d5 Rh1 52. Rxa6
 Rd1 53. d6 Kg6 54. b4 h4 55. Kf3 Kf5 56. Ra5+ Ke6 57. Ra6 Kd7 58. a4 Rg1 59.
 Ra5 Rg5 60. Ra7+ Kxd6 61. Rxf7 Ke6 62. Rh7 Rg3+ 63. Kf4 Rb3 64. Rxh4 Rxb4+ 65.
 Kg3 Rb3+ 66. Kf2 Ra3 67. Rb4 Kf5 68. Rb5+ Kg4 69. Rb4+ Kg5 70. Rb5+ f5 71. a5
 Kg4 72. Rc5 f4 73. Rb5 Ra2+ 74. Kf1 Kg3 75. Rc5 Ra1+ 76. Ke2 f3+ 77. Ke3 f2 78.
 Rg5+ Kh4 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2019.12.11"]
+[Round "?"]
+[White "diegoami"]
+[Black "Nimbus36"]
+[Result "1-0"]
+[ECO "C10"]
+[WhiteElo "1803"]
+[BlackElo "1660"]
+[PlyCount "43"]
+[EventDate "2019.??.??"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bd3 Be7
+8. Bg5 O-O 9. Qd2 b6 10. O-O-O Bb7 11. h4 Qd5 12. Kb1 a5 13. h5 h6 14. Bxh6
+gxh6 15. Qxh6 Ba6 16. Rh3 Bxd3 17. Rxd3 Ne4 18. Ne5 Bg5 19. Rhg3 Nxg3 20. Rxg3
+f6 21. Qg6+ Kh8 22. h6 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2019.12.13"]
+[Round "?"]
+[White "maheshharne"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "B22"]
+[WhiteElo "1697"]
+[BlackElo "1812"]
+[PlyCount "38"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 exd5 5. d4 a6 6. Be2 Nc6 7. O-O Bd6 8. Re1
+Nge7 9. dxc5 Bxc5 10. Nbd2 O-O 11. Nb3 Ba7 12. Bg5 f6 13. Be3 Bxe3 14. fxe3 Nf5
+15. Bd3 Ne5 16. Nxe5 fxe5 17. e4 Qb6+ 18. Kh1 Ne3 19. exd5 Nxd1 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2019.12.11"]
+[Round "?"]
+[White "diegoami"]
+[Black "Minsk92"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "1795"]
+[BlackElo "1694"]
+[Annotator "Amicabile,Diego"]
+[PlyCount "70"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. O-O cxb2 7. Bxb2 Nf6
+8. e5 (8. Nc3 $144) 8... Ng4 9. Nc3 (9. h3 $142 Nh6 10. Nc3 O-O $16) 9... O-O
+10. Nd5 $1 Bc5 11. h3 $1 Nh6 12. Qc2 (12. Bd3 $144 d6 13. Qc2 Kh8 14. Bxh7 $16)
+12... d6 13. exd6 (13. Bd3 $142 $1 Kh8 14. Bxh7 Be6 $16) 13... Bxd6 $6 (13...
+cxd6 $142 14. Bd3 Kh8 15. Bxh7 Bd7 $16) 14. Qc3 $1 Nf5 15. Ne3 $4 (15. g4 $1
+$18) 15... Bb4 $17 16. Qc2 $6 (16. Qb3 $142 Nxe3 17. Qxe3 Qe7 $15) 16... Ncd4
+$6 (16... Nxe3 $142 17. fxe3 Kh8 $19) 17. Nxd4 $1 Nxd4 18. Qe4 $1 c5 19. Rfd1 (
+19. Rad1 $142 Kh8 20. a3 $15) 19... Re8 20. Qf4 Be6 21. Bd3 $2 (21. Bxd4 $142
+$1 cxd4 (21... Bxc4 $142 22. Bxg7 $18) 22. Bxe6 fxe6 23. Rxd4 $17 e5 24. Rxd8
+exf4 25. Rxa8 Rxa8 $17) 21... Rc8 $4 $11 (21... Ba5 $142 22. Bxd4 cxd4 23. Nf5
+Qf6 $19) 22. a3 $2 (22. Bxd4 $142 cxd4 23. Bxh7+ Kxh7 24. Rxd4 $15) 22... Ba5
+$1 23. Rac1 $2 (23. Bxd4 $142 cxd4 24. Nf5 Qf6 25. Rab1 Bb6 $19) 23... Bc7 $1
+$19 24. Qe4 Bf5 (24... f5 $142 25. Qxb7 Rb8 $19) 25. Qxb7 Bxd3 26. Bxd4 Be4 (
+26... Qxd4 $142 27. Qd5 Red8 $19) 27. Qxa7 cxd4 (27... Bb6 $142 28. Qa6 Ra8)
+28. Rxd4 Qe7 29. Kf1 Qe5 30. Ng4 Qb5+ 31. Kg1 Bh2+ 32. Kxh2 Rxc1 33. f3 Bg6 34.
+Rb4 Qc6 35. a4 Qd6+ 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2019.12.14"]
+[Round "?"]
+[White "diegoami"]
+[Black "0567"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "1804"]
+[BlackElo "1699"]
+[PlyCount "57"]
+[EventDate "2019.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 h6 5. Nxd4 Bc5 6. Bxf7+ Kxf7 7. Qh5+ Kf8
+8. Qxc5+ Nge7 9. Nc3 d6 10. Nxc6 Nxc6 11. Qc4 Ne5 12. Qe2 c6 13. Be3 Be6 14.
+O-O-O Qc7 15. h3 Rd8 16. f4 Nc4 17. f5 Nxe3 18. fxe6 Nxd1 19. Rf1+ Kg8 20. Nxd1
+Rf8 21. Rxf8+ Kxf8 22. Ne3 Qe7 23. Qg4 h5 24. Qf4+ Ke8 25. Nf5 g5 26. Nxd6+ Kd8
+27. Qe5 Rf8 28. Nf5 Rxf5 29. Qb8# 1-0
 
