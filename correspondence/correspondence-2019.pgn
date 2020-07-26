@@ -854,12 +854,33 @@ Rb4 Qc6 35. a4 Qd6+ 0-1
 [ECO "C50"]
 [WhiteElo "1804"]
 [BlackElo "1699"]
+[Annotator "Amicabile,Diego"]
 [PlyCount "57"]
 [EventDate "2019.??.??"]
 
 1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 h6 5. Nxd4 Bc5 6. Bxf7+ Kxf7 7. Qh5+ Kf8
-8. Qxc5+ Nge7 9. Nc3 d6 10. Nxc6 Nxc6 11. Qc4 Ne5 12. Qe2 c6 13. Be3 Be6 14.
-O-O-O Qc7 15. h3 Rd8 16. f4 Nc4 17. f5 Nxe3 18. fxe6 Nxd1 19. Rf1+ Kg8 20. Nxd1
-Rf8 21. Rxf8+ Kxf8 22. Ne3 Qe7 23. Qg4 h5 24. Qf4+ Ke8 25. Nf5 g5 26. Nxd6+ Kd8
-27. Qe5 Rf8 28. Nf5 Rxf5 29. Qb8# 1-0
+8. Qxc5+ Nge7 9. Nc3 (9. Nxc6 $142 bxc6 10. b3 $18) 9... d6 10. Nxc6 Nxc6 11.
+Qc4 Ne5 12. Qe2 c6 13. Be3 (13. f4 $142 Nf7 14. O-O Ke8 $18) 13... Be6 14.
+O-O-O (14. f4 $142 Nc4 15. b3 $18) 14... Qc7 15. h3 (15. f4 $142) 15... Rd8 16.
+f4 Nc4 17. f5 Nxe3 18. fxe6 Nxd1 19. Rf1+ Kg8 20. Nxd1 Rf8 21. Rxf8+ Kxf8 22.
+Ne3 Qe7 23. Qg4 h5 24. Qf4+ Ke8 25. Nf5 g5 26. Nxd6+ Kd8 27. Qe5 Rf8 28. Nf5
+Rxf5 29. Qb8# 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2019.12.24"]
+[Round "?"]
+[White "diegoami"]
+[Black "TitchMan"]
+[Result "*"]
+[ECO "B01"]
+[WhiteElo "1794"]
+[BlackElo "1889"]
+[Annotator "Amicabile,Diego"]
+[PlyCount "26"]
+[EventDate "2019.??.??"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bf5 5. c4 e6 6. dxe6 Nc6 7. Be3 Qe7 8. Bd3
+Qxe6 9. Kf2 $4 (9. Bxf5 Qxe3+ 10. Qe2) 9... O-O-O 10. Nc3 Nxd4 11. Bxf5 Nxf5
+12. Qe2 Re8 13. Bxa7 Qa6 *
 
