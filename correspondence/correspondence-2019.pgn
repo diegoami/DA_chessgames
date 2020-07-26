@@ -872,7 +872,7 @@ Rxf5 29. Qb8# 1-0
 [Round "?"]
 [White "diegoami"]
 [Black "TitchMan"]
-[Result "*"]
+[Result "0-1"]
 [ECO "B01"]
 [WhiteElo "1794"]
 [BlackElo "1889"]
@@ -880,7 +880,46 @@ Rxf5 29. Qb8# 1-0
 [PlyCount "26"]
 [EventDate "2019.??.??"]
 
-1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bf5 5. c4 e6 6. dxe6 Nc6 7. Be3 Qe7 8. Bd3
-Qxe6 9. Kf2 $4 (9. Bxf5 Qxe3+ 10. Qe2) 9... O-O-O 10. Nc3 Nxd4 11. Bxf5 Nxf5
-12. Qe2 Re8 13. Bxa7 Qa6 *
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 $1 Bf5 5. c4 (5. Bb5+ $144 {[%emt 0:00:00]
+} Nbd7 6. c4 e6 7. dxe6 Bxe6 8. d5 $11) 5... e6 6. dxe6 $1 Nc6 7. Be3 $1 Qe7 8.
+Bd3 (8. exf7+ $142 Qxf7 9. Nc3 $14) 8... Qxe6 9. Kf2 $4 (9. Bxf5 $142 Qxe3+ (
+9... Qxf5 $144 10. Ne2 $11) 10. Qe2 Qxe2+ 11. Nxe2 g6 $11) 9... O-O-O $17 10.
+Nc3 $4 Nxd4 $19 11. Bxf5 Nxf5 12. Qe2 Re8 13. Bxa7 Qa6 $19 0-1
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2019.12.21"]
+[Round "?"]
+[White "diegoami"]
+[Black "boyetalvarado123"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "1807"]
+[BlackElo "1785"]
+[PlyCount "47"]
+[EventDate "2019.??.??"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nc6 4. d4 cxd4 5. cxd4 d5 6. e5 Qb6 7. Nc3 Nge7 8. Be2
+Nf5 9. Na4 Bb4+ 10. Bd2 Nfxd4 11. Nxb6 axb6 12. Nxd4 Bxd2+ 13. Qxd2 Nxe5 14.
+O-O O-O 15. a3 Bd7 16. Rac1 h6 17. f4 Nc6 18. Rf3 Ra4 19. b4 Rfa8 20. Nb5 f6
+21. Bd1 R4a6 22. Nc7 Rxa3 23. Nxa8 Rxa8 24. b5 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2019.12.15"]
+[Round "?"]
+[White "040604"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "A00"]
+[WhiteElo "1999"]
+[BlackElo "1800"]
+[PlyCount "61"]
+[EventDate "2019.??.??"]
+
+1. g4 d5 2. Bg2 c6 3. g5 e5 4. d4 Nd7 5. h4 Bd6 6. c4 Ne7 7. cxd5 cxd5 8. Nc3
+Nb6 9. Nb5 Bb8 10. Bh3 a6 11. Bxc8 Qxc8 12. Nc3 Bd6 13. dxe5 Bxe5 14. Qb3 Qc7
+15. Nf3 Bd6 16. Be3 Bc5 17. Bxc5 Qxc5 18. Na4 Nxa4 19. Qxa4+ Qc6 20. Qf4 Ng6
+21. Qe3+ Qe6 22. Qxe6+ fxe6 23. Rc1 O-O 24. Rc7 Rf7 25. Rxf7 Kxf7 26. h5 Ne7
+27. Ne5+ Ke8 28. h6 gxh6 29. Rxh6 Ng6 30. Nxg6 hxg6 31. Rh8+ 1-0
 
