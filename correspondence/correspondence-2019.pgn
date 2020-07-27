@@ -933,3 +933,36 @@ Qxe6+ fxe6 $14 23. Rc1 O-O 24. Rc7 Rf7 25. Rxf7 Kxf7 26. h5 Ne7 (26... Nf8 $142
 $14) 28. h6 gxh6 $4 (28... Rc8 $142 29. Rh3 Kf8 30. Rf3+ Nf5 $16) 29. Rxh6 $18
 Ng6 $4 (29... Rc8 $142 30. Rxh7 Kd8 31. Kd2 $18) 30. Nxg6 hxg6 31. Rh8+ 1-0
 
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2019.12.23"]
+[Round "?"]
+[White "Aktauchess"]
+[Black "diegoami"]
+[Result "*"]
+[ECO "C10"]
+[WhiteElo "1865"]
+[BlackElo "1818"]
+[Annotator "Amicabile,Diego"]
+[PlyCount "74"]
+[EventDate "2019.??.??"]
+[WhiteClock "71:03:40"]
+[BlackClock "71:59:14"]
+
+1. d4 e6 2. e4 d5 3. Nc3 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8.
+Ng3 g6 (8... Be7 $144 9. Qe2 Bxf3 10. Qxf3 c6 $14) 9. c4 Bg7 10. d5 Nc5 (10...
+exd5 $144 11. Re1+ Kf8 $11) 11. dxc6 Nxd3 $4 (11... Qxd3 $142) 12. cxb7 $18 Rb8
+13. Qc2 $6 (13. Qa4+ $142 $1 Nd7 (13... Qd7 14. Qxa7 $18) 14. Bg5 f6 15. Be3
+O-O (15... Rxb7 $143 16. Qc6 $18) 16. Qb5 $18) 13... Nxc1 14. Raxc1 $2 (14. Rd1
+$142 Nd7 15. Raxc1 $18) 14... Rxb7 $2 (14... O-O $142 15. Rfd1 Qe8 16. b4 Rxb7
+$11) 15. b3 $2 (15. Rfd1 $142 Qc8 16. Qa4+ c6 17. Ne5 $16) 15... O-O $11 16.
+Rcd1 Qe7 17. Nd4 c5 18. Nb5 Rd8 (18... Ng4 $144 19. Nd6 Rd7 20. Nde4 Rxd1 $15)
+19. Rxd8+ Qxd8 20. Ne4 Nxe4 21. Qxe4 Rd7 22. g3 a6 23. Na3 Qa5 24. Qc6 Rc7 (
+24... Rd3 $142 $1 25. Qe8+ Bf8 26. Nc2 Qxa2 $19) 25. Qe8+ $11 Bf8 26. Qd8 Kg7
+27. Nc2 $2 (27. Rd1 $142 Be7 28. Qb8 $11) 27... Be7 $17 28. Qb8 Rd7 29. Ne3 h5
+(29... Rd2 $142 {LAST ANALYSIS}) 30. Qc8 Rd2 31. Qb7 Bf6 32. Ng2 (32. Ng2 Qxa2
+33. Qc6 Qxb3 34. Qxc5 Bd4 35. Qc6 Qb4) 32... Be5 33. a4 Rb2 34. h4 Qd2 35. f4
+Bd4+ 36. Kh2 Qd3 37. Qf3 Rxb3 {diegoami won by resignation <br /><br /
+><em>Game may have continued...</em>} (37... Rxb3 38. Qxd3 Rxd3 39. Ne1 Rc3 40.
+a5 Rxc4 41. Nf3) *
+
