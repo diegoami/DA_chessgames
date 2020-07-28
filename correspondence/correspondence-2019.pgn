@@ -974,13 +974,17 @@ Rb2 34. h4 Qd2 35. f4 Bd4+ 36. Kh2 Qd3 37. Qf3 Rxb3 0-1
 [ECO "B40"]
 [WhiteElo "1686"]
 [BlackElo "1827"]
+[Annotator "Amicabile,Diego"]
 [PlyCount "48"]
 [EventDate "2019.??.??"]
 
-1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Bg5 Qa5+ 5. c3 dxc3 6. Nxc3 Nc6 7. a3 Nge7 8.
-b4 Qb6 9. Be2 a6 10. O-O Ng6 11. Be3 Qc7 12. Na4 b5 13. Nc5 Bb7 14. g3 Be7 15.
-Rc1 d6 16. Nd3 O-O 17. Nd4 Qd7 18. Nxc6 Bxc6 19. Qd2 Rfd8 20. Rfd1 Qb7 21. f3
-Rac8 22. Nf4 Nxf4 23. Bxf4 d5 24. e5 f6 0-1
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Bg5 Qa5+ (4... f6 $142 5. Bc1 Bb4+ $11) 5. c3
+dxc3 6. Nxc3 $11 Nc6 7. a3 {besser Dc7, a6, Be7 or Nf6} Nge7 $6 8. b4 $16 Qb6
+9. Be2 a6 $16 10. O-O Ng6 11. Be3 Qc7 (11... Qd8 $142 12. Qa4 b6 $14) 12. Na4
+$6 (12. b5 $142 axb5 13. Nxb5 Qd8 $18) 12... b5 13. Nc5 Bb7 {besser Be7, Bd6
+or Nf4} 14. g3 $14 Be7 15. Rc1 d6 $15 16. Nd3 O-O 17. Nd4 Qd7 $1 $17 18. Nxc6
+Bxc6 19. Qd2 Rfd8 $17 {equal Tad8, Qb7} 20. Rfd1 Qb7 21. f3 Rac8 22. Nf4 Nxf4
+23. Bxf4 d5 24. e5 f6 $17 (24... d4 $142 $19) 0-1
 
 [Event "Let\'s Play!"]
 [Site "Chess.com"]
