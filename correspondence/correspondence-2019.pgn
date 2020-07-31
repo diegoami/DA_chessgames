@@ -1151,11 +1151,16 @@ resignation} 1-0
 [BlackClock "61:58:18"]
 
 1. e4 e6 2. d4 d5 3. Nd2 Be7 4. Ngf3 Nf6 5. e5 Nfd7 6. Bd3 c5 7. c3 Nc6 8. O-O
-O-O 9. Re1 cxd4 10. cxd4 f6 11. exf6 Nxf6 12. Nb3 a5 13. Nc5 (13. a4 $142)
-13... Nxd4 14. Nxd4 (14. Bxh7+ Kxh7 15. Qxd4) 14... Bxc5 15. Nxe6 Bxf2+ 16.
-Kxf2 Qb6+ 17. Be3 Ng4+ 18. Kg1 Nxe3 19. Rxe3 Qxe3+ 20. Kh1 Qxe6 {hsparrman won
-by resignation <br /><br /><em>Game may have continued...</ em>} (20... Qxe6
-21. Bc2 Qh6 22. Bb3 Be6 23. Bxd5 Bxd5 24. Qxd5+) 0-1
+O-O 9. Re1 cxd4 10. cxd4 f6 11. exf6 Nxf6 12. Nb3 (12. Nf1 $144 Qb6 13. a3 $11)
+(12. b3 $144 Ng4 $14 (12... Nb4 $144 $14)) (12. Qe2 $144 Qb6 13. a3 $11) 12...
+a5 13. Nc5 (13. a4 $144 Bd7 14. Bd2 $14) (13. Bg5 $144 $14) (13. Ne5 $144 a4
+14. Nc5 Bxc5 15. dxc5 $11) 13... Nxd4 (13... Bxc5 $144 14. dxc5 Qc7 $14) 14.
+Nxd4 $4 (14. Bxh7+ $142 $1 Kxh7 15. Qxd4 $16) 14... Bxc5 $17 15. Nxe6 (15. Be3
+$144 Bb4 16. Bd2 $17) 15... Bxf2+ (15... Bxe6 $142 16. Rxe6 Qd7 $17) 16. Kxf2
+Qb6+ (16... Ng4+ $144 17. Kg1 Qb6+ $15) 17. Be3 Ng4+ 18. Kg1 Nxe3 19. Rxe3 $4 (
+19. Bxh7+ $142 $1 Kh8 20. Qb3 Qxe6 21. Rxe3 Qf6 22. Rf3 Qd4+ 23. Kh1 Rxf3 24.
+Qxf3 Bg4 25. Qd3 Qxb2 26. Rf1 Qxa2 27. Qg3 Kxh7 28. Qxg4 $11 d4 29. h3 Qc4 30.
+Rf4 Kg8 31. Rxd4 $11) 19... Qxe3+ $19 20. Kh1 Qxe6 0-1
 
 [Event "Let's Play!"]
 [Site "Chess.com"]
