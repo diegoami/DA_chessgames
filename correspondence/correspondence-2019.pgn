@@ -1100,17 +1100,39 @@ Rxc6 21. Rxa7 {diegoami won by resignation} 1-0
 [WhiteClock "52:09:09"]
 [BlackClock "42:26:21"]
 
-1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. e3 d6 5. Nf3 Be7 6. Bd3 O-O 7. Qc2 c6 8. b3 Na6
-9. a3 Nc7 10. Bb2 a5 11. O-O Qe8 12. h3 Qh5 13. Be2 Qh6 14. Bc1 Qg6 15. Kh2 Bd7
-16. Bb2 Ne4 17. Na4 Rad8 18. Nb6 Na8 19. Nxd7 Rxd7 20. b4 axb4 21. axb4 (21.
-axb4 Nb6 22. c5 (22. Ra7) 22... dxc5 23. bxc5 Nd5) 21... b6 22. Bd3 d5 23. c5
-Rb7 24. Ne5 Qe8 25. f3 (25. f3 Ng5 26. f4 Ne4) (25. f3 bxc5 26. fxe4 fxe4 (
-26... dxe4) 27. Rxf8+ Qxf8 28. Nxc6 (28. Ba6 Rxb4 29. dxc5 Bxc5 30. Nd7 Qd6+
-31. Kh1 Bxe3 32. Bb7 Rxb7 33. Rxa8+ Kf7) 28... exd3) 25... Ng5 26. Bc3 bxc5 27.
-bxc5 Nc7 28. Rfb1 (28. Rfb1 Nb5 29. Bxb5 cxb5) (28. Rfb1 Rxb1) 28... Rxb1 29.
-Qxb1 Bd8 30. Qb7 f4 31. exf4 Rxf4 32. Nxc6 e5 33. Nxe5 Nce6 34. Qxd5 Kh8 35.
-Ra8 Rf8 36. Ba5 (36. Ba5 Nf4 37. Qxd8) 36... Nf4 37. Qxd8 Qxd8 38. Rxd8 Rxd8
-39. Bxd8 {liviuc4 won by resignation} 1-0
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. e3 d6 (4... b6 $142 5. Bd3 Bb7 6. f3 c5 7. Nge2
+Nc6 $11) (4... Bb4 $142 5. Bd2 O-O 6. a3 $11) (4... d5 $142 5. Nf3 c6 6. Bd3
+Bd6 $14) 5. Nf3 $14 Be7 6. Bd3 O-O (6... c5 $144 7. dxc5 dxc5 8. O-O $16) (6...
+d5 $144 7. O-O O-O) 7. Qc2 c6 (7... c5 $144 8. O-O Nc6 9. a3 $16) (7... Nc6
+$144 8. a3 Bd7 9. b4 $16) 8. b3 Na6 (8... d5 $142 9. O-O Ne4 $14) (8... Nbd7
+$144 9. O-O d5 10. Bb2 $14) (8... b5 $143 9. O-O Na6 10. a3 $16) (8... a5 $143
+9. O-O Na6 (9... d5 10. Bb2 $16) 10. a3 $16) 9. a3 Nc7 (9... b5 $144 10. O-O
+Rb8 11. cxb5 $16) (9... d5 $144 10. O-O Ne4 $16) (9... Bd7 $144 10. O-O Kh8 11.
+Re1 Be8 12. Bb2 Nc7 13. Ne2 a5 $16) 10. Bb2 a5 (10... Bd7 $144 11. O-O Be8 12.
+Rfe1 $16) 11. O-O Qe8 (11... b5 $142 12. Rfe1 Bd7 $16) (11... g6 $142 12. e4 d5
+$16) (11... Bd7 $142 12. e4 Nh5 $16) 12. h3 (12. e4 $142 $1 $16 fxe4 13. Nxe4
+Nxe4 14. Bxe4 Qh5 $16) 12... Qh5 (12... b5 $142 13. Ne2 a4 $16) (12... Bd7 $142
+13. e4 fxe4 14. Nxe4 Nxe4 15. Bxe4 Qh5 $16) (12... h6 $143 13. e4 $16) 13. Be2
+Qh6 (13... Qg6 $142 $16) 14. Bc1 $16 Qg6 15. Kh2 Bd7 (15... b5 $142 16. Bd3 a4
+$14) (15... Nd7 $142 16. Bb2 e5 17. dxe5 dxe5 18. Na4 $14) (15... Ne4 $142 16.
+Bb2 c5 17. dxc5 Nxc5 $14) 16. Bb2 Ne4 (16... b5 $142 17. c5 Rfd8 $14 18. cxd6
+Bxd6+ 19. Kg1 Be8 $14) 17. Na4 Rad8 (17... Rab8 $142 18. Nb6 Be8 19. b4 axb4
+$14) (17... Be8 $142 18. Nb6 Rb8 $14) 18. Nb6 Na8 (18... Be8 $142 19. b4 axb4
+20. axb4 $14) 19. Nxd7 Rxd7 20. b4 axb4 (20... Nc7 $144 21. bxa5 Ra8 $16) 21.
+axb4 b6 $6 (21... Nb6 $142 22. Ra7 (22. c5 $143 Nd5 $11) 22... Bf6 23. Bd3 Rb8
+$16) (21... Rb8 $142 22. Bd3 Bf6 $16) 22. Bd3 d5 $2 (22... c5 $142 23. Ra6 (23.
+Bxe4 $143 fxe4 24. Nd2 cxb4 25. Qxe4 Qxe4 26. Nxe4 $11) 23... Rb8 24. bxc5 bxc5
+$16) (22... Rc8 $142 23. g4 Bd8 $16) (22... Bf6 $142 23. c5 bxc5 24. bxc5 $18)
+23. c5 $18 Rb7 $2 (23... Bf6 $142 24. Ra6 Rb8 25. Qa4 $18) 24. Ne5 $18 Qe8 25.
+f3 (25. f3 Ng5 26. f4 Ne4) (25. f3 bxc5 26. fxe4 fxe4 (26... dxe4) 27. Rxf8+
+Qxf8 28. Nxc6 (28. Ba6 Rxb4 29. dxc5 Bxc5 30. Nd7 Qd6+ 31. Kh1 Bxe3 32. Bb7
+Rxb7 33. Rxa8+ Kf7) 28... exd3) 25... Ng5 26. Bc3 $2 (26. b5 $142 $1 cxb5 27.
+c6 Rc7 $18) 26... bxc5 (26... Nf7 $142 27. Nxf7 Rxf7 $16) (26... Nc7 $142 27.
+Be1 Nf7 $16) 27. bxc5 Nc7 28. Rfb1 (28. Qa4 $142 $18) 28... Rxb1 29. Qxb1 Bd8
+$4 (29... Nf7 $142 30. Ra7 Nxe5 31. dxe5 $18) 30. Qb7 $18 f4 31. exf4 Rxf4 32.
+Nxc6 e5 33. Nxe5 Nce6 (33... Nge6 $142 34. Re1 Rf8 35. Ba5 $18) 34. Qxd5 Kh8
+35. Ra8 Rf8 36. Ba5 Nf4 37. Qxd8 Qxd8 38. Rxd8 Rxd8 39. Bxd8 {liviuc4 won by
+resignation} 1-0
 
 [Event "Let's Play!"]
 [Site "Chess.com"]
