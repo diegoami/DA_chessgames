@@ -1332,4 +1332,19 @@ Rc8 22. Ne4 Nxe4 23. Rxe4 f5 24. Rd4 fxg4 25. hxg4 Rf8 26. b4 Nxc4 27. Rxc4 (
 Re1 Rb3 31. Re6) (30. Re1 Bc8 31. Re8+ Rf8 32. Rxf8+ Kxf8) (30. Re1 b5) 30...
 Kf7 31. Re3 Rxe3 32. fxe3 Kf6 33. Kf2 Ke5 34. Rc4 Bxd5 35. Rc8 Bxb4 36. Rb8 Bc5
 37. Rh8 Be6 38. Kf3 Bb3 39. a5 bxa5 40. Re8+ Kf6 41. Ra8 Bd5+ 42. Kg3 Bxa8 {
-diegoami won by resi
+diegoami won by resi[Event "Let\'s Play!"]
+[Site "Chess.com"]
+[Date "2020.08.03"]
+[Round "?"]
+[White "diegoami"]
+[Black "miki4fun"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1817"]
+[BlackElo "1620"]
+[PlyCount "37"]
+[EventDate "2020.??.??"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. O-O Nge7 7. Ng5 Ne5 8.
+Nxf7 Nxc4 9. Nxd8 Nxb2 10. Qb3 c5 11. Nxc3 Kxd8 12. Bxb2 Nc6 13. Rfd1 Nd4 14.
+Rxd4 cxd4 15. Qxb4 dxc3 16. Bxc3 Rg8 17. Bxg7 a5 18. Bf6+ Kc7 19. Qc5+ 1-0
