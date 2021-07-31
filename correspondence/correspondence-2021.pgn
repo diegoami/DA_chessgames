@@ -1,0 +1,266 @@
+﻿[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.11.19"]
+[Round "?"]
+[White "diegoami"]
+[Black "ppac51"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "1811"]
+[BlackElo "1452"]
+[Annotator "diego"]
+[PlyCount "43"]
+[EventDate "2020.??.??"]
+[TimeControl "1/604800:0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Nf6 6. O-O Bc5 7. a4 bxa4 8.
+Bxa4 Bb7 9. d3 O-O {+/- INACCURACY (+2.05)} ({(+0.61) The best move was} 9...
+d6 10. Na3 O-O 11. Nc4 h6 12. c3 Ne7 13. Na5 Bc8 14. d4 exd4 15. cxd4 Bb4 16.
+e5 dxe5 17. dxe5 Ng4 18. Nc6 Nxc6) 10. Bg5 {= INACCURACY (+1.00) Critical
+mistake.} ({(+2.05) The best move was} 10. Bxc6 Bxc6 11. Nxe5 Bb7 12. Nc4 d5
+13. Na5 Bc8 14. e5 Ng4 15. d4 Bb6 16. h3 c5 17. Qd2 Nh6 18. dxc5 Bxc5 19. Qc3
+Qb6 20. Bxh6 gxh6) 10... h6 11. Bh4 d6 12. Nbd2 Nb8 {+/-} 13. Nc4 Bc6 14. Ne3 {
+=} Bxa4 15. Rxa4 Qe8 16. Bxf6 {+/-} Qxa4 $2 {MISTAKE (+6.25)} ({(+4.00) The
+best move was} 16... Bxe3 17. fxe3 Qxa4 18. Nh4 g6 19. Qg4 Kh7 20. Be7 Qe8 21.
+Bxf8 Nd7 22. Qf3 f6 23. Nxg6 Qxg6 24. Be7 Rg8 25. Rf2) 17. Nh4 $4 {BLUNDER (+2.
+16)} ({(+6.25) The best move was} 17. Nf5 Qd7 18. Nxg7 Nc6 19. Nf5 Kh7 20. Qd2
+Qxf5 21. exf5 Nd4 22. Nxd4 Bxd4 23. Qa5 Bxb2 24. Qxc7 Ba3 25. c3) 17... Nd7 $2
+{MISTAKE (+5.15)} ({(+2.16) The best move was} 17... g6 18. Nef5 Nd7 19. Be7 d5
+20. Nxh6+ Kh7 21. Bxf8 Rxf8 22. Ng4 dxe4 23. dxe4 Bd6 24. Nf3 Kg7 25. Qd2 Rh8
+26. Re1 Qb5 27. c3 Be7 28. h3 a5 29. Rd1 Nf6 30. Nxf6 Bxf6 31. Qc1 Qb3) 18.
+Bxg7 Kxg7 $4 {BLUNDER (? Mate in 5)} ({(+7.93) The best move was} 18... Bxe3
+19. fxe3 Kxg7 20. Qh5 f5 21. Qg6+ Kh8 22. Qxh6+ Kg8 23. Qg6+ Kh8 24. Qh5+ Kg7
+25. Nxf5+ Rxf5 26. Rxf5 Qa1+ 27. Kf2 Rf8 28. Qg5+ Kh7 29. Qe7+ Kh6 30. Rxf8
+Nxf8 31. Qxf8+ Kg6 32. Qf5+ Kg7 33. Qg5+ Kf8 34. Qh6+ Ke7 35. Qg7+ Ke8 36. Qg8+
+Ke7 37. Qh7+ Kd8) 19. Qg4+ $4 {MISSED MATE (+3.04)} ({(? Mate in 5) Checkmate
+after} 19. Nhf5+ Kh8 20. Qh5 Bxe3 21. fxe3 Qa1 22. Qxh6+ Kg8 23. Ne7#) 19...
+Kh7 $4 {BLUNDER (+16.80)} ({(+3.04) The best move was} 19... Kh8 20. Qh5 Nf6
+21. Qxh6+ Nh7 22. Nd5 Rg8 23. Nf6 Rg7 24. Nf5 Rag8 25. Nxg7 Rxg7 26. Nxh7 Rg6
+27. Qh4 Kg7 28. Ng5 Kf8 29. b3 Qa2) 20. Nef5 Rg8 21. Qh5 Rg6 22. Nxg6 {
+diegoami won by resignation} (22. Nxg6 Bxf2+ 23. Kh1 Be3 24. Nf4 exf4 25. Qxh6+
+Kg8 26. Ne7#) 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.11.22"]
+[Round "?"]
+[White "wouldpusher64"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "1963"]
+[BlackElo "1795"]
+[Annotator "diego"]
+[PlyCount "43"]
+[EventDate "2020.??.??"]
+[TimeControl "1/604800:0"]
+
+1. e4 c5 2. d3 Nc6 3. f4 d6 4. Nf3 g6 5. Be2 Bg7 6. O-O Nf6 7. Qe1 O-O 8. Qh4
+b5 9. Bd2 Bb7 10. e5 $2 {MISTAKE (-1.25)} ({(+0.28) The best move was} 10. f5
+gxf5 11. Bh6 Bxh6 12. Qxh6 Ng4 13. Qh5 f6 14. Nh4 Ne3 15. Rf3 f4 16. Rxf4 Ne5
+17. Nf5 Nxf5 18. Rxf5 Kh8 19. Nd2 Rg8 20. Raf1 Rg7) 10... Nd5 11. f5 Nxe5 {+/-}
+12. Nxe5 Bxe5 {= INACCURACY (-0.87)} ({(-1.98) The best move was} 12... dxe5
+13. Nc3 Nf4 14. Bxf4 exf4 15. Rxf4 b4 16. Ne4 Qd4+ 17. Kh1 Qxb2 18. Raf1 Bxe4
+19. Rxe4 Bf6 20. Qg4 Qxc2 21. Bf3 Qxd3) 13. Nc3 {+/- Critical move.} b4 $2 {
+= MISTAKE (-0.06)} ({(-2.11) The best move was} 13... e6 14. Qxd8 Raxd8 15.
+fxe6 fxe6 16. Nxb5 a6 17. Nc3 Nb4 18. Bg4 Bd4+ 19. Kh1 Nxc2 20. Bxe6+ Kg7 21.
+Rad1 Rde8 22. Bc4 Ne3 23. Bxe3 Rxe3) 14. Ne4 {Critical move.} Bg7 {INACCURACY 
+(+1.12)} ({(0.00) The best move was} 14... f6 15. fxg6 hxg6 16. Bg4 Bc8 17. Qh6
+Rf7 18. Bf3 Rh7 19. Qxg6+ Rg7 20. Qh5 Rh7) 15. fxg6 fxg6 16. Ng5 h6 $2 {
++/- MISTAKE (+5.76)} ({(+1.32) The best move was} 16... h5 17. Qe4 Nf4 18. Qxb7
+Nxe2+ 19. Kh1 Nd4 20. c3 Nf5 21. Qd5+ Kh8 22. Ne6 Qb6 23. cxb4 cxb4 24. Rae1
+Rab8 25. Qe4 a5 26. Nxf8) 17. Ne6 Rxf1+ 18. Rxf1 Qd7 {INACCURACY (+7.66)} ({
+(+5.57) The best move was} 18... Qb6 19. Bxh6 c4+ 20. d4 Bxd4+ 21. Kh1 Bf6 22.
+Qg4 Kh7 23. Bg5 b3 24. cxb3 cxb3 25. Bd3 Bxb2 26. Qh5+ Kg8 27. Qxg6+ Kh8 28.
+axb3 Qxb3) 19. Nxg7 Kxg7 $4 {BLUNDER (? Mate in 4)} ({(+7.94) The best move was
+} 19... Rf8 20. Rxf8+ Kxf8 21. Qxh6 Kf7 22. Nh5 Nf6 23. Qg7+ Ke8 24. Qxg6+ Kd8
+25. Nxf6 exf6 26. Qxf6+ Qe7 27. Qxe7+ Kxe7 28. Bxb4 Bf3 29. Bxf3 cxb4 30. Kf2
+a5 31. Bc6 Kf6 32. h4 Ke5 33. Kf3 Ke6 34. h5) 20. Qxh6+ Kg8 {?} 21. Qxg6+ Kh8 {
+?} 22. Rf7 {wouldpusher64 won by resignation} (22. Rf7 b3 23. Rh7#) 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.06"]
+[Round "?"]
+[White "pumpster"]
+[Black "diegoami"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "1626"]
+[BlackElo "1795"]
+[Annotator "diego"]
+[PlyCount "72"]
+[EventDate "2020.??.??"]
+[TimeControl "1/604800:0"]
+
+1. e4 c5 2. f4 d5 3. exd5 Nf6 4. Bb5+ Nbd7 5. Nf3 g6 6. Nc3 Bg7 7. O-O O-O 8.
+d3 a6 {INACCURACY (+0.76)} ({(-0.40) The best move was} 8... Nb6 9. Bc4 Nfxd5
+10. Nxd5 Nxd5 11. Ne5 e6 12. Qf3 b6 13. Bd2 Bb7 14. Rae1 Qc7 15. Qh3 Ne7 16. c3
+Rae8 17. g4 Nc6) 9. Ba4 {INACCURACY (-0.45)} ({(+0.76) The best move was} 9.
+Bxd7 Qxd7 10. Ne5 Qc7 11. Qf3 b5 12. Be3 Rd8 13. a3 b4 14. Ne4 Nxd5 15. Nxc5
+bxa3 16. Rxa3 Qd6 17. Qf2 Qc7 18. d4 Nxe3 19. Qxe3) 9... b5 10. Bb3 Bb7 11. a3
+Nb6 12. Be3 Qc7 13. Qe2 Nfxd5 14. Bxd5 Nxd5 15. Nxd5 Bxd5 16. c4 {+/-} bxc4 17.
+dxc4 Bb7 {= INACCURACY (-0.11)} ({(-1.60) The best move was} 17... Bxf3 18.
+Qxf3 Bxb2 19. Rad1 Rad8 20. h4 Bd4 21. h5 Rd6 22. hxg6 fxg6 23. Rfe1 Rf5 24.
+Qe4 Bf6 25. Rd5 Rdxd5 26. cxd5 c4) 18. Rad1 a5 19. Qf2 Rfc8 $2 {MISTAKE (+0.88)
+} ({(-1.11) The best move was} 19... Bxf3 20. Qxf3 e6 21. Qf2 Rab8 22. Rd2 Rfc8
+23. Rfd1 Rb7 24. h3 h5 25. Kh2 a4 26. Kg1 Rcb8 27. Bxc5 Rxb2) 20. Ne5 Rd8 21.
+Bxc5 Rac8 $2 {+/- MISTAKE (+4.71)} ({(+0.85) The best move was} 21... Rxd1 22.
+Rxd1 Bxe5 23. fxe5 Qxe5 24. Rd7 Qe4 25. Rxe7 Qxc4 26. h3 Qd5 27. Bd4 a4 28. Bc3
+Rd8 29. Re1 Qc6 30. Rf1 f5 31. Re1 Re8 32. Rxe8+ Qxe8 33. Qd4) 22. Rxd8+ $2 {
+MISTAKE (+1.42)} ({(+4.71) The best move was} 22. Bb6 Rxd1 23. Bxc7 Rxf1+ 24.
+Qxf1 Rxc7 25. Qd3 Rc8 26. Qd7 Bxe5 27. fxe5 e6 28. b3 a4 29. Qxb7 Rd8 30. bxa4
+h5 31. Qb4 Rd3 32. a5 Kg7 33. Kf2) 22... Qxd8 23. Bb6 {=} Qd6 24. Bxa5 f6 {
+Critical move.} 25. Bb4 Qc7 26. Ng4 Qxc4 27. Bxe7 {INACCURACY (0.00)} ({
+(+1.05) The best move was} 27. h3 f5 28. Ne5 Bxe5 29. fxe5 Qd3 30. Bc3 Rc4 31.
+e6 Re4 32. Qa7 Qe3+ 33. Qxe3 Rxe3 34. Rd1 Rxe6 35. Re1 Rxe1+ 36. Bxe1 h5 37.
+Bc3) 27... Qe6 28. Bxf6 $2 {+/- MISTAKE (-1.88) Critical mistake.} ({(0.00)
+The best move was} 28. Qe3 Qd5 29. Qf2 Qd3 30. Qe3) 28... Bxf6 29. Nxf6+ Qxf6
+30. Qd2 {INACCURACY (-2.48)} ({(-1.59) The best move was} 30. h3 Rf8 31. Qd2
+Rd8 32. Qf2 Be4 33. Rc1 h5 34. b4 Rd4 35. Qe3 Kg7 36. Rc5 Bd5 37. Qe5 Qxe5 38.
+fxe5 Rd2 39. b5 Rxg2+ 40. Kh1 Rd2+ 41. Rxd5 Rxd5 42. b6 Rxe5 43. b7) 30... Qf5
+{INACCURACY (-1.46)} ({(-2.48) The best move was} 30... Rd8 31. Qc2 Qd4+ 32.
+Qf2 Ba6 33. Qxd4 Rxd4 34. Rf3 Rd1+ 35. Kf2 Rd2+ 36. Kg3 Rxb2 37. f5 Kg7 38. Rf2
+Rb3+ 39. Kh4 Bd3 40. g4 gxf5 41. h3 fxg4) 31. Rc1 Rxc1+ {= INACCURACY (-0.97)}
+({(-1.99) The best move was} 31... Rf8 32. b4 Qe4 33. h3 Rxf4 34. b5 Rf7 35.
+Re1 Qc4 36. Qg5 Qd4+ 37. Qe3 Qd5 38. Qe8+ Kg7 39. Qe5+ Qxe5 40. Rxe5 Rd7 41.
+Rc5 Kf6 42. a4 Rd1+ 43. Kf2 Rd2+ 44. Kg3 Rxg2+ 45. Kf4 Ra2) 32. Qxc1 {+/-} Qe4
+{=} 33. Qd2 Kf7 34. h3 Ke6 35. Kh2 Qd5 36. Qe2+ Qe4 {Game drawn by agreement} (
+36... Qe4 37. Qxe4+ Bxe4 38. g4 Bc2 39. Kg3 Ba4 40. Kf3 Kd5 41. f5 gxf5 42.
+gxf5 Ke5 43. Kg4 Bc2 44. h4 Bxf5+ 45. Kg5 Bc2 46. b4 Kd5 47. Kf4 Bd1 48. Kg5
+Bc2) 1/2-1/2
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.12.04"]
+[Round "?"]
+[White "diegoami"]
+[Black "AshuraNuker"]
+[Result "1-0"]
+[ECO "B27"]
+[WhiteElo "1817"]
+[BlackElo "1706"]
+[Annotator "diego"]
+[PlyCount "77"]
+[EventDate "2020.??.??"]
+[TimeControl "1/604800:0"]
+
+1. e4 c5 2. Nf3 g6 3. c3 e6 {INACCURACY (+1.27)} ({(+0.31) The best move was} 
+3... Bg7 4. d4 cxd4 5. cxd4 d5 6. e5 Nc6 7. Bb5 Bd7 8. Nc3 e6 9. h4 h6 10. Bd3
+a6 11. O-O Nge7 12. Na4 b6 13. Bd2 O-O 14. Qb3) 4. d4 d5 {+/- INACCURACY (+1.
+94)} ({(+0.98) The best move was} 4... a6 5. h4 d5 6. e5 h6 7. Bd3 Ne7 8. a3
+Bg7 9. Bc2 O-O 10. h5 g5) 5. exd5 Qxd5 6. Be3 Bg7 7. Na3 a6 {INACCURACY (+3.57)
+} ({(+2.17) The best move was} 7... Nf6 8. Bc4 Qd7 9. dxc5 O-O 10. O-O Qe7 11.
+Re1 Ne4 12. Nb5 Na6 13. Bd4 Naxc5 14. Bxg7 Kxg7 15. Qd4+ Nf6 16. Nd6) 8. Bc4 {
+INACCURACY (+2.20)} ({(+3.57) The best move was} 8. Nc4 Nd7 9. dxc5 Qxd1+ 10.
+Rxd1 Nh6 11. Bf4 Ng4 12. Bd6 Ngf6 13. Bd3 Bf8 14. b4 Nd5 15. Bxf8 Kxf8 16. Kd2
+b5 17. cxb6 N7xb6 18. Nxb6 Nxb6 19. Kc2 Ke7) 8... Qe4 9. O-O b5 {INACCURACY 
+(+2.63)} ({(+1.75) The best move was} 9... cxd4 10. Bxd4 Nf6 11. Ne5 O-O 12.
+Re1 Qf5 13. Bd3 Qh5 14. Be2 Qg5 15. Nac4 Nd5 16. Bf3 Nc6 17. Nxc6 bxc6 18. g3
+Rd8 19. Bxg7 Kxg7 20. h4 Qf6) 10. Ng5 Qb7 11. Bd3 $2 {= MISTAKE (+0.79)} ({
+(+2.48) The best move was} 11. d5 e5 12. Ne4 Bf8 13. Bxc5 Bxc5 14. Nxc5 Qc7 15.
+b4 Nf6 16. d6 Qc6 17. f4 bxc4 18. fxe5 Nfd7 19. e6 Nxc5) 11... h6 $2 {+/-
+MISTAKE (+4.63)} ({(+0.79) The best move was} 11... Nf6 12. dxc5 O-O 13. Nc2 h6
+14. Nf3 Qc7 15. a4 bxa4 16. Rxa4 Nbd7 17. Rh4 h5 18. Rc4 Ng4 19. c6 Nxe3 20.
+Nxe3 Nb6 21. Rc5 Ra7 22. Nc2) 12. Ne4 Bf8 {INACCURACY (+5.32)} ({(+4.08) The
+best move was} 12... Qc7 13. dxc5 Kf8 14. Nc2 Nc6 15. a4 bxa4 16. Rxa4 Nf6 17.
+Nd6 Kg8 18. Nb4 Nxb4 19. cxb4 Nd5 20. Be4 Bb7 21. Nxb7 Qxb7 22. Bd4 Rd8 23.
+Bxg7 Kxg7 24. Qd4+ Kh7 25. Bxd5) 13. dxc5 f5 14. Nd6+ Bxd6 15. cxd6 Qd5 16. Be2
+Bb7 17. Bf3 Qxd1 18. Raxd1 $2 {MISTAKE (+2.34)} ({(+4.53) The best move was} 
+18. Bxd1 Nc6 19. c4 b4 20. Nc2 Kd7 21. c5 Nf6 22. a3 Nd5 23. axb4 Ncxb4 24.
+Nxb4 Nxb4 25. Bd4 Bc6 26. Be2) 18... Bxf3 19. gxf3 Nf6 20. Rfe1 $2 {= MISTAKE 
+(+1.24)} ({(+2.76) The best move was} 20. c4 Nc6 21. cxb5 axb5 22. Nxb5 Kd7 23.
+a3 Rab8 24. Nc7 Rxb2 25. Rfe1 Rc2 26. Bd4 e5 27. Bxe5 Nxe5 28. Rxe5) 20... Kd7
+{+/-} 21. Nc2 {=} Nc6 22. Bd4 Rhf8 23. Bc5 g5 24. Nd4 Nxd4 25. Rxd4 Rfc8 26.
+Bb6 Rc6 27. Ba5 {INACCURACY (-1.20)} ({(-0.22) The best move was} 27. Bc7 Nh5
+28. a4 Nf4 29. Kf1 Rc4 30. Rxc4 bxc4 31. Rb1 Rc8 32. b4 cxb3 33. Rxb3 Nd5 34.
+Bb8 Rxc3 35. Rb7+ Kc8 36. d7+ Kd8 37. Bd6 Rxf3 38. Kg2) 27... Rxd6 28. Rxd6+
+Kxd6 29. Rd1+ {+/-} Nd5 30. b3 {INACCURACY (-2.39)} ({(-1.26) The best move was
+} 30. Bb4+ Kc6 31. Re1 Nxb4 32. cxb4 Kd6 33. Rc1 Rd8 34. Rc5 Rd7 35. h4 Rc7 36.
+Rxc7 Kxc7 37. hxg5 hxg5 38. Kf1 Kd6 39. Ke2 Ke5 40. Ke3) 30... Rc8 31. Rc1 e5
+32. c4 Nf4 33. Rd1+ {INACCURACY (-2.25)} ({(-1.16) The best move was} 33. Kf1
+bxc4 34. bxc4 Kc5 35. Bd2 Rc6 36. a3 Kd6 37. Rd1 Ke6 38. Rb1 Ng6 39. Rb8 f4 40.
+Ke2 Rxc4 41. Rb6+ Kf5 42. Rxa6 e4 43. fxe4+ Rxe4+ 44. Kf1) 33... Ke6 34. cxb5
+axb5 35. Bd2 Rd8 36. Kf1 {INACCURACY (-2.89)} ({(-1.43) The best move was} 36.
+a4 b4 37. Kf1 Rd3 38. a5 Rxb3 39. Ra1 Ra3 40. Rxa3 bxa3 41. a6 Nd5 42. a7 Nc7
+43. Bc3 h5 44. h3 a2 45. Kg2 Kd6) 36... Rd3 37. Ke1 $2 {MISTAKE (-5.35)} ({
+(-2.50) The best move was} 37. a4 Rxf3 38. a5 Rxb3 39. Ra1 Rd3 40. Be3 Rd8 41.
+Rb1 Rb8 42. Bb6 Rc8 43. Be3 Nd5 44. Rxb5 Nxe3+ 45. fxe3 Rc1+ 46. Ke2 Rc2+ 47.
+Kf3 Rxh2 48. Rb6+ Kd5 49. Rb5+ Kd6) 37... Rxf3 38. Bxf4 Rxf4 39. Ke2 {diegoami
+won on time INACCURACY (-6.21)} ({(-4.73) The best move was} 39. Rd8 b4 40. Rb8
+h5 41. Rb6+ Kd5 42. Rb5+ Kd6 43. Rb6+ Kc5 44. Rg6 g4 45. Rh6 Kd5 46. Rxh5 Ke4
+47. Kf1 Rf3 48. Rh8 Rc3 49. Kg2 Rc2) (39. Ke2 Rh4 40. Rd8 b4 41. Re8+ Kf6 42.
+Rf8+ Kg6 43. Rb8 f4 44. Rxb4 f3+ 45. Kxf3 Rxb4 46. Ke2 Kf6 47. Kf1 Kf5 48. f3
+Rd4 49. a4 Rb4) 1-0
+
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.11.22"]
+[Round "?"]
+[White "zugzwanging"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "B49"]
+[WhiteElo "1955"]
+[BlackElo "1799"]
+[Annotator "diego"]
+[PlyCount "133"]
+[EventDate "2020.??.??"]
+[TimeControl "1/604800:0"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 Qc7 6. Be3 Nf6 7. Be2 a6 8. f4
+Bb4 9. Bf3 Na5 10. Nde2 Nc4 11. Bc1 d6 12. a3 Ba5 13. O-O O-O 14. b3 Bb6+ 15.
+Kh1 Ne3 16. Bxe3 Bxe3 17. Qd3 Ba7 18. Rad1 Rd8 $2 {+/- MISTAKE (+1.72)} ({
+(+0.04) The best move was} 18... Ne8 19. f5 Nf6 20. Qxd6 Qxd6 21. Rxd6 Bc5 22.
+Rd2 Bxa3 23. e5 Nd7 24. Bxb7 Bxb7 25. Rxd7 Bc6 26. Rc7 Rfc8 27. Rxc8+ Rxc8 28.
+Nd4 exf5 29. Nxc6 Rxc6) 19. e5 Ne8 20. Be4 $2 {= MISTAKE (-0.25) Critical
+mistake.} ({(+1.89) The best move was} 20. Ne4 d5 21. c4 g6 22. N2c3 d4 23. Ne2
+Rb8 24. b4 Bd7 25. Qb3 d3 26. Rxd3 Bc6 27. Rfd1 Bxe4 28. Bxe4 Rxd3 29. Qxd3)
+20... h6 21. b4 d5 22. Bf3 Bd7 23. Bh5 {INACCURACY (-0.93)} ({(0.00) The best
+move was} 23. f5 Qxe5 24. fxe6 fxe6 25. Nxd5 exd5 26. Qxd5+ Qxd5 27. Bxd5+ Kh7
+28. Be4+ Kg8) 23... Qc4 {INACCURACY (+0.18)} ({(-0.93) The best move was} 23...
+Rac8 24. Qg3 d4 25. Ne4 Bc6 26. Nc5 Bxc5 27. bxc5 Be4 28. c6 Qxc6 29. Nxd4 Qc5
+30. Qe3 Bxc2 31. Nxc2 Qxc2) 24. Qg3 a5 $2 {+/- MISTAKE (+2.09)} ({(-0.50) The
+best move was} 24... d4 25. Ne4 Qxc2 26. Nf6+ Nxf6 27. exf6 Qh7 28. f5 e5 29.
+Qxe5 gxf6 30. Qxf6 Ba4 31. Rd2 Qg7 32. Qxg7+ Kxg7 33. Bf3 d3 34. f6+ Kxf6) 25.
+bxa5 $2 {= MISTAKE (-0.10) Critical mistake.} ({(+2.09) The best move was} 25.
+f5 exf5 26. Nf4 Be6 27. Be2 Qc8 28. Ncxd5 Qxc2 29. Nf6+ Kh8 30. Nxe6 fxe6 31.
+Qg6 gxf6 32. Qxh6+ Kg8 33. Qg6+ Kf8 34. Bh5 Qc7 35. exf6 Rxd1 36. Rxd1 axb4 37.
+axb4) 25... Bc5 $2 {+/- MISTAKE (+1.92)} ({(-0.10) The best move was} 25... d4
+26. Ne4 Bc6 27. Nf6+ Kh8 28. a6 Nxf6 29. exf6 g6 30. f5 exf5 31. Nf4 Rg8 32.
+Be2 Qc3 33. Qxc3 dxc3 34. axb7 Bxb7 35. Rd7 Be4 36. Rxf7) 26. f5 exf5 27. Rf4
+$2 {= MISTAKE (-0.13) Critical mistake.} ({(+1.88) The best move was} 27. Nf4
+d4 28. Ncd5 Be6 29. Be2 Qa4 30. Nf6+ Nxf6 31. exf6 Bf8 32. fxg7 Bd6 33. Qh4
+Bxf4 34. Qxf4 Kxg7 35. Rd3 Rd5 36. Rh3 Rh8 37. Bd3 Qxa5) 27... Qa6 {Critical
+move.} 28. Nxd5 Be6 29. Nec3 Rac8 30. Nf6+ $4 {+/- BLUNDER (-4.55)} ({(-0.04)
+The best move was} 30. Be2 Qa7 31. Bd3 Bxd5 32. Nxd5 Rxd5 33. Rxf5 Rc7 34. Rdf1
+Rxd3 35. cxd3 Qa6 36. d4 Bxd4 37. Qb3 Qc4 38. Qxc4 Rxc4 39. Rxf7 Nc7 40. Rd7
+Bxe5) 30... Nxf6 31. exf6 g5 32. h4 Rxd1+ 33. Nxd1 Kh7 $2 {MISTAKE (-2.24)} ({
+(-4.21) The best move was} 33... Bd6 34. hxg5 Bxf4 35. Qxf4 Qc4 36. Qxc4 Rxc4
+37. Bf3 hxg5 38. Bxb7 Ra4 39. a6 Rxa3 40. Nb2 Kh7 41. Nd3 g4 42. g3 Bc4 43. Nb4
+Kg6 44. Kg1) 34. hxg5 Rg8 {Critical move.} 35. Qe1 Rxg5 36. Bf3 Bd5 {
+INACCURACY (-1.35)} ({(-2.57) The best move was} 36... Qd6 37. Rh4 Bd5 38. Bxd5
+Qxd5 39. Qe2 Rg3 40. Nb2 Rxa3 41. Nc4 Ra1+ 42. Kh2 Bd6+ 43. Nxd6 Qxd6+ 44. g3
+Rxa5 45. Qe7 Qxe7 46. fxe7 Re5 47. e8=Q Rxe8 48. Rb4 Re2+ 49. Kh1 Re7 50. Rb5
+Kg6 51. c4) 37. Nf2 Bxf3 {=} 38. Rxf3 Qc4 39. Nh3 Rh5 40. Rc3 Bf2 41. Rxc4 {
+Critical move.} Bxe1 42. Rc7 Kg6 43. c3 Kxf6 44. Rxb7 f4 45. a6 f3 46. Kg1 Bxc3
+47. Nf2 Bd4 48. Rb4 Bc5 49. Ra4 Ba7 50. gxf3 Rg5+ 51. Kf1 Ke6 52. Ne4 Rg8 53.
+Nc3 Rb8 $2 {+/- MISTAKE (+3.29)} ({(+0.27) The best move was} 53... Rg5 54.
+Re4+ Kd7 55. Rb4 Kc6 56. Rb7 Bd4 57. Na2 Rg1+ 58. Ke2 Rg2+ 59. Kd3 Rxa2 60.
+Kxd4 Rxa3 61. Rxf7 Rxa6 62. Rf6+ Kb5 63. Rxa6 Kxa6 64. f4 h5 65. Ke3 Kb5 66.
+Kf3 Kc6 67. f5 Kd7 68. f6 Ke8) 54. Rb4 Ra8 55. Rb7 Bb8 56. Rb6+ Kf5 57. Rxh6 f6
+58. Rh8 Rxa6 59. Rxb8 {Critical move.} Rxa3 60. Rc8 {Critical move.} Rb3 61.
+Kf2 Ke5 62. Kg3 Kd4 63. Kf4 Rb6 64. Kf5 {INACCURACY (+4.91)} ({(+6.12) The
+best move was} 64. Ne4 Rb4 65. Rd8+ Kc4 66. Kf5 Rb5+ 67. Kg6 Rd5 68. Nd2+ Kc5
+69. Rxd5+ Kxd5 70. Kxf6 Kd6 71. f4 Kd7 72. f5 Kd6 73. Kg7 Kc6) 64... Rb2 65. f4
+Rf2 $2 {MISTAKE (+8.20)} ({(+4.78) The best move was} 65... Rb6 66. Ne2+ Ke3
+67. Re8+ Kd3 68. Ng3 Rb4 69. Ra8 Rb5+ 70. Kxf6 Ke3 71. f5 Kf3 72. Kg5 Rb7 73.
+Ra3+ Kg2 74. f6) 66. Ne4 $2 {MISTAKE (+5.71)} ({(+8.20) The best move was} 66.
+Nb5+ Kd3 67. Rc3+ Kd2 68. Ra3 Ke2 69. Nc3+ Kf1 70. Ra5 Rc2 71. Nd5 Kg2 72. Ne3+
+Kg3) 66... Rf1 $2 {MISTAKE (+10.01)} ({(+5.71) The best move was} 66... Rb2 67.
+Nd6 Rb4 68. Ra8 Ke3 69. Ra3+ Kf2 70. Ne4+ Kg2 71. Rg3+ Kh2 72. Rc3 Rb5+ 73. Rc5
+Rxc5+ 74. Nxc5 Kg3 75. Ne4+ Kh3 76. Kxf6 Kh4 77. f5 Kh5 78. Ke6 Kh6 79. f6) 67.
+Nxf6 {zugzwanging won by resignation} (67. Nxf6 Rb1 68. Rd8+ Ke3 69. Ng4+ Kf3
+70. Kg5 Rb7 71. Rd3+ Kg2 72. f5 Rg7+ 73. Kh6 Rg8 74. f6 Rh8+ 75. Kg7 Rh5 76.
+Kg6 Rb5 77. Kh6 Rb8 78. Kg7 Rb7+ 79. f7 Rb6) 1-0
+
